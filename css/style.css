@@ -1,0 +1,133 @@
+
+/* Base styles */
+:root {
+    --primary: #2c3e50;
+    --secondary: #3498db;
+    --accent: #e74c3c;
+    --light: #ecf0f1;
+    --dark: #2c3e50;
+}
+
+body {
+    font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+    color: var(--dark);
+    line-height: 1.6;
+}
+
+/* Navigation */
+.nav-link {
+    @apply px-4 py-2 text-gray-700 hover:text-blue-600 transition-colors;
+}
+
+.nav-link.active {
+    @apply text-blue-600 font-semibold;
+}
+
+/* Section and Card styles */
+.section-title {
+    @apply text-3xl font-bold mb-6 text-gray-800;
+}
+
+.card {
+    @apply bg-white rounded-lg shadow-md p-6;
+}
+
+/* Form Styles */
+.contact-form {
+    max-width: 600px;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+}
+
+/* Button Styles */
+.btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    
+}
+
+.btn-primary {
+    @apply inline-block bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors;
+}
+
+.btn-outline {
+    @apply inline-block border border-blue-600 text-blue-600 px-6 py-2 rounded-lg hover:bg-blue-50 transition-colors;
+}
+
+/* Utility classes */
+.btn-group {
+    @apply flex gap-4;
+}
+
+.transition-all {
+    @apply transition-all duration-300 ease-in-out;
+}
+
+/* News section styles */
+.news-item {
+    @apply border-b border-gray-200 pb-4;
+}
+
+.news-date {
+    @apply text-sm text-gray-600;
+}
+
+/* Research highlights styles */
+.research-card {
+    @apply bg-white rounded-lg shadow-md overflow-hidden;
+}
+
+.research-image {
+    @apply w-full h-48 object-cover;
+}
+
+.research-content {
+    @apply p-6;
+}
+
+/* Footer styles */
+.footer {
+    @apply bg-gray-800 text-white mt-12;
+}
+
+.footer-link {
+    @apply hover:text-blue-300;
+}
+
+.footer-title {
+    @apply text-xl font-semibold mb-4;
+}
+
+/* Grid layouts */
+.main-grid {
+    @apply grid grid-cols-1 md:grid-cols-3 gap-8;
+}
+
+.highlight-grid {
+    @apply grid grid-cols-1 md:grid-cols-3 gap-6;
+}
+
+/* Profile section */
+.profile-section {
+    @apply flex flex-col md:flex-row gap-6;
+}
+
+.profile-image {
+    @apply md:w-1/2;
+}
+
+.profile-content {
+    @apply md:w-2/3;
+}

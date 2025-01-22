@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>News - Prof. Djamila Aouada</title>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <link href="../css/style.css" rel="stylesheet" />
+  </head>
+  <body class="bg-gray-50">
+    <!-- Navigation -->
+    <nav class="bg-white shadow-md">
+      <div class="container mx-auto px-4">
+        <div class="flex justify-between items-center h-16">
+          <div class="flex-shrink-0">
+            <a href="../index.html" class="text-xl font-bold text-gray-800"
+              >Prof. Djamila Aouada</a
+            >
+          </div>
+          <div class="hidden md:block">
+            <div class="flex space-x-4">
+              <a href="../index.html" class="nav-link">Home</a>
+              <a href="research.html" class="nav-link">Research</a>
+              <a href="teaching.html" class="nav-link">Teaching</a>
+              <a href="publications.html" class="nav-link">Publications</a>
+              <a href="team.html" class="nav-link">Team</a>
+              <a href="contact.html" class="nav-link">Contact</a>
+            </div>
+          </div>
+          <button class="md:hidden p-2">
+            <svg
+              class="h-6 w-6"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M4 6h16M4 12h16M4 18h16"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-8">
+      <h1 class="section-title">News & Updates</h1>
+
+      <!-- News Filter -->
+      <!-- News Filter -->
+      <div class="card mb-8">
+        <div class="flex flex-wrap gap-4">
+          <div class="flex-1">
+            <input
+              type="text"
+              id="news-search"
+              placeholder="Search news..."
+              class="form-input bg-gray-50 border border-gray-300 text-gray-900 rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
+            />
+          </div>
+          <div>
+            <select
+              id="category-filter"
+              class="form-input bg-gray-50 border border-gray-300 text-gray-900 rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
+            >
+              <option value="all">All Categories</option>
+              <option value="appointment">Appointments</option>
+              <option value="award">Awards</option>
+              <option value="publication">Publications</option>
+              <option value="event">Events</option>
+            </select>
+          </div>
+          <div>
+            <select
+              id="year-filter"
+              class="form-input bg-gray-50 border border-gray-300 text-gray-900 rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
+            >
+              <option value="all">All Years</option>
+              <option value="2024">2024</option>
+              <option value="2023">2023</option>
+              <option value="2022">2022</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- News Items -->
+      <div class="space-y-6">
+        <!-- 2024 -->
+        <section class="year-section" data-year="2024">
+          <h2 class="text-2xl font-bold mb-4 text-gray-800">2024</h2>
+          <div class="space-y-6">
+            <div
+              class="news-item card"
+              data-category="appointment"
+              data-year="2024"
+            >
+              <span class="text-sm text-gray-600">June 2024</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                Appointed as Acting Vice Director of SnT
+              </h3>
+              <p class="news-content mt-2">
+                Named Acting Vice Director of the SnT Centre at the University
+                of Luxembourg.
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Appointment</span
+                >
+              </div>
+            </div>
+
+            <div class="news-item card" data-category="event" data-year="2024">
+              <span class="text-sm text-gray-600">June 2024</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                Workshop Organization at Asteroid Day Festival
+              </h3>
+              <p class="news-content mt-2">
+                Workshop organizer on Augmented reality, Virtual Reality and AI
+                in Space as part of the Asteroid Day Festival 2024.
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-green-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Event</span
+                >
+              </div>
+            </div>
+
+            <div
+              class="news-item card"
+              data-category="appointment"
+              data-year="2024"
+            >
+              <span class="text-sm text-gray-600">January 2024</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                Area Chair at 3DV'25
+              </h3>
+              <p class="news-content mt-2">
+                Appointed as Area Chair at the International Conference on 3D
+                Vision (3DV'25).
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Appointment</span
+                >
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 2023 -->
+        <section class="year-section" data-year="2023">
+          <h2 class="text-2xl font-bold mb-4 text-gray-800">2023</h2>
+          <div class="space-y-6">
+            <div
+              class="news-item card"
+              data-category="appointment"
+              data-year="2023"
+            >
+              <span class="text-sm text-gray-600">December 2023</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                Appointed to Algerian AI Board
+              </h3>
+              <p class="news-content mt-2">
+                Appointed Member of the Algerian AI Board by the Algerian
+                Government.
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Appointment</span
+                >
+              </div>
+            </div>
+
+            <div
+              class="news-item card"
+              data-category="appointment"
+              data-year="2023"
+            >
+              <span class="text-sm text-gray-600">December 2023</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                Joined ENSIA Scientific Council
+              </h3>
+              <p class="news-content mt-2">
+                Member of the Scientific Council of the National School of
+                Artificial Intelligence (ENSIA), Algiers, Algeria.
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Appointment</span
+                >
+              </div>
+            </div>
+
+            <div
+              class="news-item card"
+              data-category="appointment"
+              data-year="2023"
+            >
+              <span class="text-sm text-gray-600">October 2023</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                Joined ART-AI Advisory Board
+              </h3>
+              <p class="news-content mt-2">
+                Member of the Advisory Board of the Doctoral training center in
+                Accountable, Responsible and Transparent AI (ART-AI) at the
+                University of Bath, United Kingdom.
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Appointment</span
+                >
+              </div>
+            </div>
+
+            <div class="news-item card" data-category="event" data-year="2023">
+              <span class="text-sm text-gray-600">October 2023</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                AI Defense at Tech Supreme Court
+              </h3>
+              <p class="news-content mt-2">
+                Lawyer role defending AI in a mock trial, "Tech Supreme Court –
+                AI Edition", organized by The Dots.
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-green-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Event</span
+                >
+              </div>
+            </div>
+
+            <div class="news-item card" data-category="event" data-year="2023">
+              <span class="text-sm text-gray-600">May 2023</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                FNR Parliament Event Speaker
+              </h3>
+              <p class="news-content mt-2">
+                Speaker and panelist at a 2-day event organized by the FNR and
+                the Luxembourgish Parliament on Megatrends.
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-green-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Event</span
+                >
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 2022 -->
+        <section class="year-section" data-year="2022">
+          <h2 class="text-2xl font-bold mb-4 text-gray-800">2022</h2>
+          <div class="space-y-6">
+            <div
+              class="news-item card"
+              data-category="project"
+              data-year="2022"
+            >
+              <span class="text-sm text-gray-600">December 2022</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                Interdisciplinary Collaboration
+              </h3>
+              <p class="news-content mt-2">
+                Two-year collaboration with artists, musicians, and scientists
+                in the context of Esch22 – celebrating the city of Esch as the
+                European Capital of Culture.
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-purple-100 text-purple-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Project</span
+                >
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 2021 -->
+        <section class="year-section" data-year="2021">
+          <h2 class="text-2xl font-bold mb-4 text-gray-800">2021</h2>
+          <div class="space-y-6">
+            <div class="news-item card" data-category="award" data-year="2021">
+              <span class="text-sm text-gray-600">May 2021</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                FNR PSP Project Award
+              </h3>
+              <p class="news-content mt-2">
+                Contributor to the award-winning FNR PSP project "La vie
+                quotidienne en 2040, le point de vue de la science" at the high
+                school Ecole Privée Notre-Dame Sainte-Sophie of Luxembourg.
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-yellow-100 text-yellow-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Award</span
+                >
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 2018 -->
+        <section class="year-section" data-year="2018">
+          <h2 class="text-2xl font-bold mb-4 text-gray-800">2018</h2>
+          <div class="space-y-6">
+            <div class="news-item card" data-category="award" data-year="2018">
+              <span class="text-sm text-gray-600">January 2018</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                IEEE Senior Member
+              </h3>
+              <p class="news-content mt-2">
+                Elevated to Senior Member of the Institute of Electrical and
+                Electronics Engineers (IEEE).
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-yellow-100 text-yellow-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Award</span
+                >
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 2017 -->
+        <section class="year-section" data-year="2017">
+          <h2 class="text-2xl font-bold mb-4 text-gray-800">2017</h2>
+          <div class="space-y-6">
+            <div class="news-item card" data-category="award" data-year="2017">
+              <span class="text-sm text-gray-600">December 2017</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                Best Paper Award at ICIIP
+              </h3>
+              <p class="news-content mt-2">
+                Received Best Paper Award at IEEE Fourth International
+                Conference on Image Information Processing (ICIIP) under the
+                Computer Vision Track.
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-yellow-100 text-yellow-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Award</span
+                >
+              </div>
+            </div>
+
+            <div class="news-item card" data-category="award" data-year="2017">
+              <span class="text-sm text-gray-600">October 2017</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                2nd Place Best Paper Award at ICIP
+              </h3>
+              <p class="news-content mt-2">
+                Received 2nd Place Best Paper Award at IEEE International
+                Conference on Image Processing (ICIP). Selected among 2400
+                submitted papers.
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-yellow-100 text-yellow-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Award</span
+                >
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 2015 -->
+        <section class="year-section" data-year="2015">
+          <h2 class="text-2xl font-bold mb-4 text-gray-800">2015</h2>
+          <div class="space-y-6">
+            <div class="news-item card" data-category="award" data-year="2015">
+              <span class="text-sm text-gray-600">June 2015</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                Best Paper Award at CVPRW
+              </h3>
+              <p class="news-content mt-2">
+                Best Paper Award at IEEE Computer Vision and Pattern Recognition
+                Workshop (CVPRW) on Multi-Sensor Fusion and Dynamic Scene
+                Understanding (MSF).
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-yellow-100 text-yellow-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Award</span
+                >
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 2011 -->
+        <section class="year-section" data-year="2011">
+          <h2 class="text-2xl font-bold mb-4 text-gray-800">2011</h2>
+          <div class="space-y-6">
+            <div class="news-item card" data-category="award" data-year="2011">
+              <span class="text-sm text-gray-600">September 2011</span>
+              <h3 class="news-title text-xl font-semibold mt-2">
+                Student Best Paper Award at ISPA
+              </h3>
+              <p class="news-content mt-2">
+                Received Student Best Paper Award at IEEE International
+                Symposium on Image and Signal Processing and Analysis (ISPA).
+              </p>
+              <div class="mt-4">
+                <span
+                  class="inline-block bg-yellow-100 text-yellow-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded"
+                  >Award</span
+                >
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <!-- Add script tag before closing body tag -->
+      <script src="../js/news.js"></script>
+
+      <!-- Load More Button -->
+      <div class="text-center mt-8">
+        <button class="btn-primary">Load More News</button>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white mt-12">
+      <div class="container mx-auto px-4 py-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div>
+            <h3 class="text-xl font-semibold mb-4">Contact</h3>
+            <p>University of Luxembourg</p>
+            <p>
+              Interdisciplinary Centre for Security, Reliability and Trust (SnT)
+            </p>
+            <p>Email: djamila.aouada@me.com</p>
+          </div>
+          <div>
+            <h3 class="text-xl font-semibold mb-4">Quick Links</h3>
+            <ul class="space-y-2">
+              <li>
+                <a href="research.html" class="hover:text-blue-300">Research</a>
+              </li>
+              <li>
+                <a href="publications.html" class="hover:text-blue-300"
+                  >Publications</a
+                >
+              </li>
+              <li>
+                <a href="teaching.html" class="hover:text-blue-300">Teaching</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h3 class="text-xl font-semibold mb-4">Follow</h3>
+            <div class="flex space-x-4">
+              <a href="#" class="hover:text-blue-300">Google Scholar</a>
+              <a href="#" class="hover:text-blue-300">LinkedIn</a>
+              <a href="#" class="hover:text-blue-300">ORCID</a>
+            </div>
+          </div>
+        </div>
+        <div class="mt-8 pt-8 border-t border-gray-700 text-center">
+          <p>© 2024 Prof. Djamila Aouada. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
