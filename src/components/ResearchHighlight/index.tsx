@@ -10,7 +10,7 @@ export default function ResearchHighlight({
   return (
     <div className="lg:max-w-[360px]">
       <h3 className="flex items-center text-xl text-gray-800 mb-4">
-        <div className="bg-gray-800 rounded-full mr-2 w-2 h-2" />
+        <div/>
         {title}
       </h3>
       <img

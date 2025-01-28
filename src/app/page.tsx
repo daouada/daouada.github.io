@@ -29,7 +29,7 @@ export default function Page() {
             <img
               src="/profile.jpeg"
               alt="profile"
-              className="border-[4px] border-gray-500 object-cover rounded-xl h-[300px] xl:h-[250px] 2xl:h-[300px]"
+              className="object-cover rounded-xl h-[300px] xl:h-[250px] 2xl:h-[300px]"
             />
             <div className="mt-12 lg:mt-0 lg:ml-10">
               <p>{homeData.description_1}</p>
