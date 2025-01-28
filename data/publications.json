@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "authors": ["Alejandro Correa Bahnsen", "Djamila Aouada", "Aleksandar Stojanovic", "Bj\u00f6rn Ottersten"],
-      "title": "Feature engineering strategies for credit card fraud detection",
-      "venue": "Expert Systems with Applications",
-      "volume": "51",
-      "year": 2016,
-      "pages": "134-142",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0957417415008386"
-    },
-    {
       "authors": [
         "Abd El Rahman Shabayek",
         "Renato Baptista",
@@ -41,6 +30,93 @@
     }
   ],
   "conferences": [
+      {
+      "authors": ["Peter Schaffer", "Djamila Aouada", "Shishir Nagaraja"],
+      "title": "Who clicks there!: Anonymizing the photographer in a camera saturated society",
+      "venue": "arXiv preprint arXiv:1106.2696",
+      "volume": "",
+      "year": 2011,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/1106.2696"
+    },
+        {
+      "authors": ["Konstantinos Papadopoulos", "Enjie Ghorbel", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
+      "title": "Vertex feature encoding and hierarchical temporal modeling in a spatial-temporal graph convolutional network for action recognition",
+      "venue": "arXiv preprint arXiv:1912.09745",
+      "volume": "",
+      "year": 2019,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/1912.09745"
+    },
+        {
+      "authors": [
+        "Carl Shneider",
+        "Peyman Rostami",
+        "Anis Kacem",
+        "Nilotpal Sinha",
+        "Abd El Rahman Shabayek",
+        "Djamila Aouada"
+      ],
+      "title": "Impact of Disentanglement on Pruning Neural Networks",
+      "venue": "arXiv preprint arXiv:2307.09994",
+      "volume": "",
+      "year": 2023,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2307.09994"
+    },
+      {
+      "authors": ["Marcella Astrid", "Enjie Ghorbel", "Djamila Aouada"],
+      "title": "Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies",
+      "venue": "arXiv preprint arXiv:2408.06753",
+      "volume": "",
+      "year": 2024,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2408.06753"
+    },
+    {
+      "authors": [
+        "Ahmet Serdar Karadeniz",
+        "Dimitrios Mallis",
+        "Nesryne Mejri",
+        "Kseniya Cherenkova",
+        "Anis Kacem",
+        "Djamila Aouada"
+      ],
+      "title": "DAVINCI: A Single-Stage Architecture for Constrained CAD Sketch Inference",
+      "venue": "arXiv preprint arXiv:2410.22857",
+      "volume": "",
+      "year": 2024,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2410.22857"
+    },
+    {
+      "authors": [
+        "Ahmet Serdar Karadeniz",
+        "Dimitrios Mallis",
+        "Nesryne Mejri",
+        "Kseniya Cherenkova",
+        "Anis Kacem",
+        "Djamila Aouada"
+      ],
+      "title": "Picasso: A feed-forward framework for parametric inference of cad sketches via rendering self-supervision",
+      "venue": "arXiv preprint arXiv:2407.13394",
+      "volume": "",
+      "year": 2024,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2407.13394"
+    },
     {
       "authors": [
         "Elona Dupont",
@@ -64,21 +140,7 @@
       "type": "oral",
       "presentation": ""
     },
-    {
-      "authors": [
-        "Nesryne Mejri",
-        "Laura Lopez-Fuentes",
-        "Kankana Roy",
-        "Pavel Chernakov",
-        "Enjie Ghorbel",
-        "Djamila Aouada"
-      ],
-      "title": "Unsupervised anomaly detection in time-series: An extensive evaluation and analysis of state-of-the-art methods",
-      "venue": "Expert Systems with Applications, 124922, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
+  
     {
       "authors": [
         "Mohammad Sadil Khan",
@@ -227,29 +289,8 @@
       "type": "oral",
       "presentation": ""
     },
-    {
-      "authors": [
-        "Leo Pauly",
-        "Wassim Rharbaoui",
-        "Carl Shneider",
-        "Arunkumar Rathinam",
-        "Vincent Gaudilli\u00e8re",
-        "Djamila Aouada"
-      ],
-      "title": "A survey on deep learning-based monocular spacecraft pose estimation: Current state, limitations and prospects",
-      "venue": "Acta Astronautica, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Nesryne Mejri", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Untag: Learning generic features for unsupervised type-agnostic deepfake detection",
-      "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and \u2026, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
+
+  
     {
       "authors": [
         "Dimitrios Mallis",
@@ -575,22 +616,7 @@
       "type": "oral",
       "presentation": ""
     },
-    {
-      "authors": [
-        "Marcos Perez",
-        "Mohamed Adel Mohamed Ali",
-        "Albert Garcia Sanchez",
-        "Enjie Ghorbel",
-        "Kassem Al Ismaeil",
-        "Paul Le Henaff",
-        "Djamila Aouada"
-      ],
-      "title": "Detection & identification of on-orbit objects using machine learning",
-      "venue": "European conference on space debris 8 (1), 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
+
     {
       "authors": ["Joe Lorentz", "Thomas Hartmann", "Assaad Moawad", "Francois Fouquet", "Djamila Aouada"],
       "title": "Explaining defect detection with saliency maps",
@@ -599,14 +625,7 @@
       "type": "oral",
       "presentation": ""
     },
-    {
-      "authors": ["Nesryne Mejri", "Konstantinos Papadopoulos", "Djamila Aouada"],
-      "title": "Leveraging high-frequency components for deepfake detection",
-      "venue": "2021 IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP \u2026, 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
+ 
     {
       "authors": [
         "Mohamed Adel Musallam",
@@ -1407,6 +1426,115 @@
     }
   ],
   "journals": [
+        {
+      "authors": ["Alejandro Correa Bahnsen", "Djamila Aouada", "Aleksandar Stojanovic", "Bj\u00f6rn Ottersten"],
+      "title": "Feature engineering strategies for credit card fraud detection",
+      "venue": "Expert Systems with Applications",
+      "volume": "51",
+      "year": 2016,
+      "pages": "134-142",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0957417415008386"
+    },
+        {
+      "authors": ["Frederic Garcia", "Djamila Aouada", "Thomas Solignac", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
+      "title": "Real\u2010time depth enhancement by fusion for RGB\u2010D cameras",
+      "venue": "IET Computer Vision",
+      "volume": "7",
+      "year": 2013,
+      "pages": "335-345",
+      "impact_factor": null,
+      "doi": "10.1049/iet-cvi.2012.0289",
+      "url": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-cvi.2012.0289"
+    },
+        {
+      "authors": [
+        "Marcos Perez",
+        "Mohamed Adel Mohamed Ali",
+        "Albert Garcia Sanchez",
+        "Enjie Ghorbel",
+        "Kassem Al Ismaeil",
+        "Paul Le Henaff",
+        "Djamila Aouada"
+      ],
+      "title": "Detection & identification of on-orbit objects using machine learning",
+      "venue": "European conference on space debris 8 (1), 2021",
+      "year": 2021,
+      "type": "oral",
+      "presentation": ""
+    },
+       {
+      "authors": ["Nesryne Mejri", "Konstantinos Papadopoulos", "Djamila Aouada"],
+      "title": "Leveraging high-frequency components for deepfake detection",
+      "venue": "2021 IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP \u2026, 2021",
+      "year": 2021,
+      "type": "oral",
+      "presentation": ""
+    },
+        {
+      "authors": [
+        "Leo Pauly",
+        "Michele Lynn Jamrozik",
+        "Miguel Ortiz Del Castillo",
+        "Olivia Borgue",
+        "Inder Pal Singh",
+        "Mohatashem Reyaz Makhdoomi",
+        "Olga-Orsalia Christidi-Loumpasefski",
+        "Vincent Gaudilli\u00e8re",
+        "Carol Martinez",
+        "Arunkumar Rathinam",
+        "Andreas Hein",
+        "Miguel Olivares-Mendez",
+        "Djamila Aouada"
+      ],
+      "title": "Lessons from a space lab: an image acquisition perspective",
+      "venue": "International Journal of Aerospace Engineering",
+      "volume": "2023",
+      "year": 2023,
+      "pages": "9944614",
+      "impact_factor": null,
+      "doi": "10.1155/2023/9944614",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2023/9944614"
+    },
+      {
+      "authors": ["Nesryne Mejri", "Enjie Ghorbel", "Djamila Aouada"],
+      "title": "Untag: Learning generic features for unsupervised type-agnostic deepfake detection",
+      "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and \u2026, 2023",
+      "year": 2023,
+      "type": "oral",
+      "presentation": ""
+    },
+        {
+      "authors": [
+        "Leo Pauly",
+        "Wassim Rharbaoui",
+        "Carl Shneider",
+        "Arunkumar Rathinam",
+        "Vincent Gaudilli\u00e8re",
+        "Djamila Aouada"
+      ],
+      "title": "A survey on deep learning-based monocular spacecraft pose estimation: Current state, limitations and prospects",
+      "venue": "Acta Astronautica, 2023",
+      "year": 2023,
+      "type": "oral",
+      "presentation": ""
+    },
+      {
+      "authors": [
+        "Nesryne Mejri",
+        "Laura Lopez-Fuentes",
+        "Kankana Roy",
+        "Pavel Chernakov",
+        "Enjie Ghorbel",
+        "Djamila Aouada"
+      ],
+      "title": "Unsupervised anomaly detection in time-series: An extensive evaluation and analysis of state-of-the-art methods",
+      "venue": "Expert Systems with Applications, 124922, 2024",
+      "year": 2024,
+      "type": "oral",
+      "presentation": ""
+    },
     {
       "authors": [
         "Abdelrahman Shabayek",
@@ -1487,42 +1615,8 @@
       "doi": null,
       "url": "https://www.sciencedirect.com/science/article/pii/S1361841524000707"
     },
-    {
-      "authors": [
-        "Ahmet Serdar Karadeniz",
-        "Dimitrios Mallis",
-        "Nesryne Mejri",
-        "Kseniya Cherenkova",
-        "Anis Kacem",
-        "Djamila Aouada"
-      ],
-      "title": "Picasso: A feed-forward framework for parametric inference of cad sketches via rendering self-supervision",
-      "venue": "arXiv preprint arXiv:2407.13394",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2407.13394"
-    },
-    {
-      "authors": [
-        "Ahmet Serdar Karadeniz",
-        "Dimitrios Mallis",
-        "Nesryne Mejri",
-        "Kseniya Cherenkova",
-        "Anis Kacem",
-        "Djamila Aouada"
-      ],
-      "title": "DAVINCI: A Single-Stage Architecture for Constrained CAD Sketch Inference",
-      "venue": "arXiv preprint arXiv:2410.22857",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2410.22857"
-    },
+    
+    
     {
       "authors": ["Dat Nguyen", "Marcella Astrid", "Enjie Ghorbel", "Djamila Aouada"],
       "title": "FakeFormer: Efficient Vulnerability-Driven Transformers for Generalisable Deepfake Detection",
@@ -1545,17 +1639,7 @@
       "doi": null,
       "url": "https://arxiv.org/abs/2410.00485"
     },
-    {
-      "authors": ["Marcella Astrid", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies",
-      "venue": "arXiv preprint arXiv:2408.06753",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2408.06753"
-    },
+  
     {
       "authors": [
         "Jan Thoemel",
@@ -1691,31 +1775,7 @@
       "doi": null,
       "url": "https://www.sciencedirect.com/science/article/pii/S2468896723000939"
     },
-    {
-      "authors": [
-        "Leo Pauly",
-        "Michele Lynn Jamrozik",
-        "Miguel Ortiz Del Castillo",
-        "Olivia Borgue",
-        "Inder Pal Singh",
-        "Mohatashem Reyaz Makhdoomi",
-        "Olga-Orsalia Christidi-Loumpasefski",
-        "Vincent Gaudilli\u00e8re",
-        "Carol Martinez",
-        "Arunkumar Rathinam",
-        "Andreas Hein",
-        "Miguel Olivares-Mendez",
-        "Djamila Aouada"
-      ],
-      "title": "Lessons from a space lab: an image acquisition perspective",
-      "venue": "International Journal of Aerospace Engineering",
-      "volume": "2023",
-      "year": 2023,
-      "pages": "9944614",
-      "impact_factor": null,
-      "doi": "10.1155/2023/9944614",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2023/9944614"
-    },
+
     {
       "authors": ["Oyebade K Oyedotun", "Konstantinos Papadopoulos", "Djamila Aouada"],
       "title": "A new perspective for understanding generalization gap of deep neural networks trained with large batch sizes",
@@ -1745,24 +1805,7 @@
       "doi": "10.1007/s10270-022-01052-7",
       "url": "https://link.springer.com/article/10.1007/s10270-022-01052-7"
     },
-    {
-      "authors": [
-        "Carl Shneider",
-        "Peyman Rostami",
-        "Anis Kacem",
-        "Nilotpal Sinha",
-        "Abd El Rahman Shabayek",
-        "Djamila Aouada"
-      ],
-      "title": "Impact of Disentanglement on Pruning Neural Networks",
-      "venue": "arXiv preprint arXiv:2307.09994",
-      "volume": "",
-      "year": 2023,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2307.09994"
-    },
+
     {
       "authors": ["Sk Aziz Ali", "Djamila Aouada", "Gerd Reis", "Didier Stricker"],
       "title": "DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport",
@@ -1956,17 +1999,7 @@
       "doi": null,
       "url": "https://ieeexplore.ieee.org/abstract/document/9205301/"
     },
-    {
-      "authors": ["Konstantinos Papadopoulos", "Enjie Ghorbel", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Vertex feature encoding and hierarchical temporal modeling in a spatial-temporal graph convolutional network for action recognition",
-      "venue": "arXiv preprint arXiv:1912.09745",
-      "volume": "",
-      "year": 2019,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/1912.09745"
-    },
+
     {
       "authors": [
         "Renato Baptista",
@@ -2153,17 +2186,7 @@
       "doi": null,
       "url": "https://ui.adsabs.harvard.edu/abs/2015arXiv150504637C/abstract"
     },
-    {
-      "authors": ["Frederic Garcia", "Djamila Aouada", "Thomas Solignac", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "Real\u2010time depth enhancement by fusion for RGB\u2010D cameras",
-      "venue": "IET Computer Vision",
-      "volume": "7",
-      "year": 2013,
-      "pages": "335-345",
-      "impact_factor": null,
-      "doi": "10.1049/iet-cvi.2012.0289",
-      "url": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-cvi.2012.0289"
-    },
+
     {
       "authors": ["Frederic Garcia", "Djamila Aouada", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
       "title": "Real-time distance-dependent mapping for a hybrid ToF multi-camera rig",
@@ -2175,17 +2198,7 @@
       "doi": null,
       "url": "https://ieeexplore.ieee.org/abstract/document/6231641/"
     },
-    {
-      "authors": ["Peter Schaffer", "Djamila Aouada", "Shishir Nagaraja"],
-      "title": "Who clicks there!: Anonymizing the photographer in a camera saturated society",
-      "venue": "arXiv preprint arXiv:1106.2696",
-      "volume": "",
-      "year": 2011,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/1106.2696"
-    },
+  
     {
       "authors": ["Djamila Aouada", "Hamid Krim"],
       "title": "Squigraphs for fine and compact modeling of 3-D shapes",
