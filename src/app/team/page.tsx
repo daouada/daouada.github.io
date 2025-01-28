@@ -7,7 +7,7 @@ export default function Page() {
     <div>
       <h1 className="text-4xl font-extrabold text-gray-800 mb-12">{data.name}</h1>
       <p className="text-gray-700 mb-6">{data.description}</p>
-      <LinkWithArrow href="/publications" target="_blank" className="mb-12">
+      <LinkWithArrow href="/https://www.uni.lu/snt-en/research-groups/cvi2/" target="_blank" className="mb-12">
         Visit CVI2 Group Website
       </LinkWithArrow>
 
