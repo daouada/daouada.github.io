@@ -1,0 +1,185 @@
+{
+  "description": "Our research focuses on advancing the fields of Computer Vision, Image Processing, and Machine Learning, with particular emphasis on 3D Shape Modeling, Multi-modal Sensing, and Geometric Deep Learning. We develop innovative solutions for real-world applications including Face Recognition, DeepFake Detection, Human Body Modeling, and Space Situational Awareness.",
+  "research_areas": [
+    {
+      "title": "3D Shape Modeling",
+      "image": "/research_space.png",
+      "description": "Research on geometric modeling and analysis of 3D shapes.",
+      "focus_areas": [
+        "Geometric modeling of rigid and non-rigid 3D shapes",
+        "Statistical and topological modeling",
+        "Deep learning approaches for 3D reconstruction",
+        "Human body modeling and reconstruction"
+      ]
+    },
+    {
+      "title": "DeepFake Detection",
+      "image": "/research_deepfake.png",
+      "description": "Cutting-edge research in digital media manipulation detection.",
+      "focus_areas": [
+        "Multi-modal deepfake detection",
+        "Temporal analysis of manipulated videos",
+        "Face forgery detection",
+        "Robust detection methods"
+      ]
+    },
+    {
+      "title": "Space Situational Awareness",
+      "image": "/research_3d.png",
+      "description": "Advanced research in space object detection and tracking.",
+      "focus_areas": [
+        "Spacecraft pose estimation",
+        "Space object tracking",
+        "Multi-sensor fusion for space applications",
+        "Deep learning for space imagery"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Unsupervised Domain Adaptation for Spacecraft Pose Estimation",
+      "description": "Research on domain adaptation techniques for spacecraft pose estimation.",
+      "funding": "LMO",
+      "duration": "2024-2026",
+      "budget": "300k€"
+    },
+    {
+      "title": "DIOSSA (Phase 2) – Deep Learning-based In-orbit Space Situational Awareness",
+      "description": "Research on advanced deep learning techniques for space situational awareness, focusing on spacecraft pose estimation and tracking.",
+      "funding": "ESA",
+      "duration": "2024-2026",
+      "budget": "700k€"
+    },
+    {
+      "title": "Model Optimization for Satellite Pose Estimation",
+      "description": "Research on optimization techniques for satellite pose estimation models.",
+      "funding": "Infinite Orbits (Industry)",
+      "duration": "2024-2026",
+      "budget": "112k€"
+    },
+    {
+      "title": "AI4CC – HPC and Advanced AI For Crop Classification Using High Resolution Satellites",
+      "description": "Development of AI and HPC solutions for crop classification using satellite imagery.",
+      "funding": "FNR (Joint HPC Call)",
+      "duration": "2023-2025",
+      "budget": "400k€"
+    },
+    {
+      "title": "ENERGETIC – Next Generation Battery Management System Based On Data Rich Digital Twin",
+      "description": "Development of advanced battery management systems using digital twin technology.",
+      "funding": "Horizon Europe",
+      "duration": "2023-2026",
+      "budget": "500k€"
+    },
+    {
+      "title": "ROBOCOMP – Robotic Process Automation in Anti-Money Laundering (AML) Compliance",
+      "description": "Implementation of robotic process automation for AML compliance procedures.",
+      "funding": "FNR (NCER)",
+      "duration": "2023-2024",
+      "budget": "180k€"
+    },
+    {
+      "title": "AUREA – Autonomous Recognition of Foreign Assets",
+      "description": "Development of autonomous systems for foreign asset recognition.",
+      "funding": "FNR (Joint Defence Call)",
+      "duration": "2023-2026",
+      "budget": "700k€"
+    },
+    {
+      "title": "SPRING – Space Response to Risk & Integration with Ground segment",
+      "description": "Research on space-based risk response and ground segment integration.",
+      "funding": "Subcontracting – EDF",
+      "duration": "2023-2025",
+      "budget": "200k€"
+    },
+    {
+      "title": "ELITE – Deep Fake Detection Using Spatio-Temporal-Spectral Representations for Effective Learning",
+      "description": "Advanced deep fake detection using multi-dimensional representations.",
+      "funding": "FNR (CORE)",
+      "duration": "2022-2025",
+      "budget": "750k€"
+    },
+    {
+      "title": "DIOSSA (Phase 1) – Deep Learning-based In-orbit Space Situational Awareness",
+      "description": "Initial phase of research on deep learning for space situational awareness.",
+      "funding": "ESA (LuxImpulse)",
+      "duration": "2021-2023",
+      "budget": "429k€"
+    },
+    {
+      "title": "CASCADES – Deep Constrained Sequence modelling of CAD for reverse Engineering from 3d Scans",
+      "description": "Development of deep learning models for CAD reverse engineering.",
+      "funding": "FNR Industrial Fellowship",
+      "duration": "2021-2024",
+      "budget": "184k€"
+    },
+    {
+      "title": "FREE3D – Feature-based Reverse Engineering of 3D Scans",
+      "description": "Research on feature-based approaches for 3D scan reverse engineering.",
+      "funding": "FNR BRIDGES (Industrial)",
+      "duration": "2022-2025",
+      "budget": "400k€"
+    },
+    {
+      "title": "UNFAKE – Deep Fake Detection Using Spatio-Temporal-Spectral",
+      "description": "Development of deep fake detection systems using multi-dimensional analysis.",
+      "funding": "FNR Industrial Fellowship",
+      "duration": "2021-2024",
+      "budget": "184k€"
+    },
+    {
+      "title": "Zero-G Lab project",
+      "description": "Research and development in zero gravity environments.",
+      "funding": "Ministry of Economy",
+      "duration": "2021-2022",
+      "budget": "180k€"
+    },
+    {
+      "title": "FakeDeTeR – Deep Fake Detection Using Spatio-Temporal-Spectral Representations for Effective Learning",
+      "description": "Advanced systems for detecting deep fakes using multiple analytical dimensions.",
+      "funding": "FNR BRIDGES (Industrial)",
+      "duration": "2022-2025",
+      "budget": "400k€"
+    },
+    {
+      "title": "OBSERVE – On Board poSe Estimation of uncoopeRatiVe spacecraft through Ellipsoid modeling",
+      "description": "Research on spacecraft pose estimation using ellipsoid modeling.",
+      "funding": "FNR Industrial Fellowship",
+      "duration": "2021-2024",
+      "budget": "184k€"
+    },
+    {
+      "title": "Proving Digital Asset Integrity using DeepFake Detection",
+      "description": "Research on verifying digital asset integrity through deepfake detection.",
+      "funding": "POST Telecom (Industry)",
+      "duration": "2021-2024",
+      "budget": "393k€"
+    },
+    {
+      "title": "Skytrust – Authenticate Digital Assets Using Space Data",
+      "description": "Development of methods to authenticate digital assets using space-derived data.",
+      "funding": "ESA",
+      "duration": "2021-2022",
+      "budget": "194k€"
+    },
+    {
+      "title": "Remix Science: The Sound of Data",
+      "description": "Project exploring the sonification of scientific data.",
+      "funding": "Esch 22",
+      "duration": "2021-2022",
+      "budget": "37k€"
+    }
+  ],
+  "research_facilities": [
+    {
+      "title": "SnT Space Zero-Gravity Lab",
+      "description": "State-of-the-art facility for space-related research and testing, equipped with advanced imaging and sensing equipment.",
+      "image": "lab_zero_g.jpeg"
+    },
+    {
+      "title": "Computer Vision Laboratory",
+      "description": "Dedicated lab space for computer vision research, equipped with high-performance computing resources and specialized hardware.",
+      "image": "lab_computer_vision.jpeg"
+    }
+  ]
+}

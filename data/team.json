@@ -1,0 +1,124 @@
+{
+  "name": "Computer Vision, Imaging and Machine Intelligence (CVI2)",
+  "description": "The Computer Vision, Imaging and Machine Intelligence (CVI2) Research Group at the University of Luxembourg's Interdisciplinary Centre for Security, Reliability and Trust (SnT) focuses on advancing the fields of computer vision, image processing, and machine learning.",
+  "team": {
+    "phd": [
+      {
+        "name": "Nidhal Eddine Chenni",
+        "start_year": 2024,
+        "project": "Unsupervised Domain Adaptation for Spacecraft Pose Estimation"
+      },
+      {
+        "name": "Nassim Ali Ousalah",
+        "start_year": 2024,
+        "project": "Model Compression Techniques for Spacecraft Pose Estimation"
+      },
+      {
+        "name": "Romain Hermary",
+        "start_year": 2022,
+        "project": "Leveraging Contextual Information for Efficient Dynamic Behavior Learning"
+      },
+      {
+        "name": "Dat Nguyen",
+        "start_year": 2022,
+        "project": "Deepfake detection using spatio-temporal and spectral representations in a deep learning framework"
+      },
+      {
+        "name": "Peyman Rostami",
+        "start_year": 2022,
+        "project": "Disentangled representation learning for compact DNN design"
+      },
+      {
+        "name": "Ahmet Serdar Karadeniz",
+        "start_year": 2022,
+        "project": "Deep Learning Approaches towards Automated Computer Aided Design (CAD) and Redesign"
+      },
+      {
+        "name": "Nesryne Mejri",
+        "start_year": 2021,
+        "project": "UNFAKE: Unsupervised multi-type explainable deepFAKE detection"
+      },
+      {
+        "name": "Elona Dupont",
+        "start_year": 2021,
+        "project": "ConstrAined Sequence modelling of CAD for reverse Engineering from 3d Scans"
+      },
+      {
+        "name": "Kseniya Cherenkova",
+        "start_year": 2018,
+        "project": "Automated CAD Re-engineering"
+      }
+    ],
+    "postdoc": [
+      {
+        "name": "Dimitrios Mallis",
+        "start_year": 2023,
+        "affiliations": ["Leiden University", "SnT, UL"]
+      },
+      {
+        "name": "Marcella Astrid",
+        "start_year": 2023,
+        "affiliations": ["University of Science and Technology, Daejeon", "SnT, UL"]
+      },
+      {
+        "name": "Michele Jamrozik",
+        "start_year": 2022,
+        "end_year": 2024,
+        "affiliations": ["Georgia Tech University", "SnT, UL"]
+      },
+      {
+        "name": "Carl Schneider",
+        "start_year": 2022,
+        "end_year": 2024,
+        "affiliations": ["Leiden University", "SnT, UL"]
+      },
+      {
+        "name": "Arunkumar Rathinam",
+        "start_year": 2021,
+        "affiliations": ["University of New South Wales", "SnT, UL"]
+      }
+    ]
+  },
+  "alumni": {
+    "phd": [
+      {
+        "name": "Inder Pal",
+        "years": "2020 - 2024",
+        "project": "Vision-based Data-driven Models for Fashion Item Retrieval",
+        "current_affiliation": "SnT - UL"
+      },
+      {
+        "name": "Mohamed Adel",
+        "years": "2020 - 2024",
+        "project": "Vision-based Spacecraft Situational Awareness",
+        "current_affiliation": "SnT - UL"
+      },
+      {
+        "name": "Linda Weigl",
+        "years": "2021 - 2023",
+        "project": "Governance of Digital Identities",
+        "current_affiliation": "University of Amsterdam"
+      },
+      {
+        "name": "Tarek Ben Charrada",
+        "years": "2019 - 2022",
+        "project": "3D object reconstruction from a single monocular image using Deep Learning",
+        "current_affiliation": "Reezocor"
+      }
+    ],
+    "postdoc": [
+      {
+        "name": "Matthieu Ruthven",
+        "years": "2022 - 2023",
+        "affiliation": "SnT, University of Luxembourg",
+        "current_affiliation": "King's College London"
+      },
+      {
+        "name": "Oyebade Oyedotun",
+        "years": "2020 - 2022",
+        "affiliation": "SnT, University of Luxembourg",
+        "current_affiliation": "Spire"
+      }
+    ]
+  }
+}

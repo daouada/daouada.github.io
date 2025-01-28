@@ -1,0 +1,41 @@
+{
+  "description": [
+    "Transmitting knowledge has become a central and deeply fulfilling aspect of my career. Through my experience, I have come to understand that learning is a unique journey for each individual. As a result, I believe that teaching should be dynamic and tailored to the learner. This philosophy applies whether I am in a traditional classroom setting, mentoring young researchers within my research group, guiding individuals beyond my immediate environment, or engaging with diverse audiences, including children.",
+    "My teaching approach is anchored in the belief that every learner has a unique potential. Success in the classroom hinges on aligning teaching styles with students' preferred learning approaches. Some thrive in practical applications, while others excel with abstract concepts; some are visual learners, while others prefer to record their thoughts. To accommodate these diverse needs, I employ a multifaceted approach, ranging from rigorous theoretical exploration to hands-on practical labs involving coding tasks. By prioritizing a learning-oriented approach over a score-centric one, I foster an environment where students can focus on acquiring knowledge without the pressure of grades. This inclusive approach ensures accessibility for all students. For those seeking additional challenges, I provide bonus questions and opportunities for extra credit, creating a supportive and encouraging learning environment.",
+    "In the rapidly evolving field of computer vision and computer science, I emphasize the importance of equipping students with the skills to seek out resources independently. This entails imparting a solid foundation in classical approaches and facilitating a seamless transition to cutting-edge methodologies. I offer varying levels of detail in explanations, encouraging students to question and explore further. To reinforce this approach, I provide additional office hours run by teaching assistants, and assign dedicated mentors from my team to closely guide small groups of students through their class projects.",
+    "Similarly, my supervision style is characterized by adaptability and responsiveness to individual contexts. I take the time to understand the unique strengths and areas for growth of each student or junior researcher. Tailoring my approach, I strive for a balanced skill development, ensuring that, for example, a highly creative mind also gains proficiency in structured methodologies. This dynamic process requires continuous assessment and adjustments.",
+    "As my commitments and team continue to expand, I prioritize pairing senior researchers with junior ones to facilitate ongoing mentorship. Recognizing the collaborative nature of modern computer vision research, I foster a spirit of teamwork within my group and across groups at the University of Luxembourg and beyond at the international level. In this collaborative environment, diverse perspectives are not only valued, but essential. I actively seek to maintain a rich diversity within my team, encompassing age, gender, cultural backgrounds, and scientific training, which has proven instrumental in our collective success thus far."
+  ],
+  "current_courses": [
+    {
+      "title": "Computer Vision & Image Analysis",
+      "programs": ["Interdisciplinary Space Master (ISM)", "Master in Information and Computer Science (MICS)"],
+      "schedule": ["Fall 2023", "Fall 2022", "Fall 2021", "Fall 2020"],
+      "materials_link": "#"
+    }
+  ],
+  "past_courses": [
+    {
+      "title": "Visual Perception",
+      "topics": ["Image Filtering", "Image Features", "Image Matching"],
+      "institution": "University of Burgundy",
+      "period": ["Spring 2020", "Spring 2019", "Spring 2018"]
+    },
+    {
+      "title": "Advanced Image Analysis",
+      "topics": ["Regularization", "Non-local Means", "Bilateral Filtering", "Markov Random Fields"],
+      "institution": "University of Burgundy",
+      "period": ["Fall 2012", "Fall 2013"]
+    },
+    {
+      "title": "Robotics Projects",
+      "institution": "University of Burgundy",
+      "period": ["Fall 2012"]
+    },
+    {
+      "title": "Software Engineering",
+      "institution": "University of Burgundy",
+      "period": ["Spring 2012"]
+    }
+  ]
+}

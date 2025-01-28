@@ -1,0 +1,20 @@
+{
+  "address": [
+    "Interdisciplinary Centre for Security, Reliability and Trust (SnT)",
+    "University of Luxembourg",
+    "Luxembourg"
+  ],
+  "email": "djamila.aouada@uni.lu",
+  "phone": "+352 466 644 5744",
+  "profiles": {
+    "Google Scholar": "https://scholar.google.com/citations?user=WBmJVSkAAAAJ&hl=en",
+    "ResearchGate": "https://www.researchgate.net/profile/Djamila-Aouada",
+    "X (Twitter)": "https://x.com/AouadaDjamila",
+    "LinkedIn": "https://www.linkedin.com/in/djamilaaouada/?originalSubdomain=lu",
+    "ORCID": "https://orcid.org/0000-0002-7576-2064"
+  },
+  "location": {
+    "description": "University of Luxembourg location",
+    "image": "../images/map.jpg"
+  }
+}

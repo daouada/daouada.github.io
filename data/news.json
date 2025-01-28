@@ -1,0 +1,149 @@
+{
+  "news": [
+    {
+      "year": 2024,
+      "items": [
+        {
+          "date": "June 2024",
+          "title": "Appointed as Acting Vice Director of SnT",
+          "content": "Named Acting Vice Director of the SnT Centre at the University of Luxembourg.",
+          "category": "Appointment",
+          "url": ""
+        },
+        {
+          "date": "June 2024",
+          "title": "Workshop Organization at Asteroid Day Festival",
+          "content": "Workshop organizer on Augmented reality, Virtual Reality and AI in Space as part of the Asteroid Day Festival 2024.",
+          "category": "Event",
+          "url": ""
+        },
+        {
+          "date": "January 2024",
+          "title": "Area Chair at 3DV'25",
+          "content": "Appointed as Area Chair at the International Conference on 3D Vision (3DV'25).",
+          "category": "Appointment",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "items": [
+        {
+          "date": "December 2023",
+          "title": "Appointed to Algerian AI Board",
+          "content": "Appointed Member of the Algerian AI Board by the Algerian Government.",
+          "category": "Appointment",
+          "url": ""
+        },
+        {
+          "date": "December 2023",
+          "title": "Joined ENSIA Scientific Council",
+          "content": "Member of the Scientific Council of the National School of Artificial Intelligence (ENSIA), Algiers, Algeria.",
+          "category": "Appointment",
+          "url": ""
+        },
+        {
+          "date": "October 2023",
+          "title": "Joined ART-AI Advisory Board",
+          "content": "Member of the Advisory Board of the Doctoral training center in Accountable, Responsible and Transparent AI (ART-AI) at the University of Bath, United Kingdom.",
+          "category": "Appointment",
+          "url": ""
+        },
+        {
+          "date": "October 2023",
+          "title": "AI Defense at Tech Supreme Court",
+          "content": "Lawyer role defending AI in a mock trial, 'Tech Supreme Court \u2013 AI Edition', organized by The Dots.",
+          "category": "Event",
+          "url": ""
+        },
+        {
+          "date": "May 2023",
+          "title": "FNR Parliament Event Speaker",
+          "content": "Speaker and panelist at a 2-day event organized by the FNR and the Luxembourgish Parliament on Megatrends.",
+          "category": "Event",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "items": [
+        {
+          "date": "December 2022",
+          "title": "Interdisciplinary Collaboration",
+          "content": "Two-year collaboration with artists, musicians, and scientists in the context of Esch22 \u2013 celebrating the city of Esch as the European Capital of Culture.",
+          "category": "Project",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "items": [
+        {
+          "date": "May 2021",
+          "title": "FNR PSP Project Award",
+          "content": "Contributor to the award-winning FNR PSP project 'La vie quotidienne en 2040, le point de vue de la science' at the high school Ecole Priv\u00e9e Notre-Dame Sainte-Sophie of Luxembourg.",
+          "category": "Award",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "items": [
+        {
+          "date": "January 2018",
+          "title": "IEEE Senior Member",
+          "content": "Elevated to Senior Member of the Institute of Electrical and Electronics Engineers (IEEE).",
+          "category": "Award",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "items": [
+        {
+          "date": "December 2017",
+          "title": "Best Paper Award at ICIIP",
+          "content": "Received Best Paper Award at IEEE Fourth International Conference on Image Information Processing (ICIIP) under the Computer Vision Track.",
+          "category": "Award",
+          "url": ""
+        },
+        {
+          "date": "October 2017",
+          "title": "2nd Place Best Paper Award at ICIP",
+          "content": "Received 2nd Place Best Paper Award at IEEE International Conference on Image Processing (ICIP). Selected among 2400 submitted papers.",
+          "category": "Award",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "items": [
+        {
+          "date": "June 2015",
+          "title": "Best Paper Award at CVPRW",
+          "content": "Best Paper Award at IEEE Computer Vision and Pattern Recognition Workshop (CVPRW) on Multi-Sensor Fusion and Dynamic Scene Understanding (MSF).",
+          "category": "Award",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "items": [
+        {
+          "date": "September 2011",
+          "title": "Student Best Paper Award at ISPA",
+          "content": "Received Student Best Paper Award at IEEE International Symposium on Image and Signal Processing and Analysis (ISPA).",
+          "category": "Award",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
