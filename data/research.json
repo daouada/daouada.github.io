@@ -3,7 +3,7 @@
   "research_areas": [
     {
       "title": "3D Shape Modeling",
-      "image": "/research_space.png",
+      "image": "/research_3d.png",
       "description": "Research on geometric modeling and analysis of 3D shapes.",
       "focus_areas": [
         "Geometric modeling of rigid and non-rigid 3D shapes",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Space Situational Awareness",
-      "image": "/research_3d.png",
+      "image": "/research_space.png",
       "description": "Advanced research in space object detection and tracking.",
       "focus_areas": [
         "Spacecraft pose estimation",

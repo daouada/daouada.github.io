@@ -10,6 +10,34 @@
       "impact_factor": null,
       "doi": null,
       "url": "https://www.sciencedirect.com/science/article/pii/S0957417415008386"
+    },
+    {
+      "authors": [
+        "Abd El Rahman Shabayek",
+        "Renato Baptista",
+        "Konstantinos Papadopoulos",
+        "Girum Demisse",
+        "Oyebade Oyedotun",
+        "Michel Antunes",
+        "Djamila Aouada",
+        "Bj\u00f6rn Ottersten",
+        "Margarita Anastassova",
+        "Mehdi Boukallel",
+        "Sabrina Pan\u00ebels",
+        "Gary Randall",
+        "Mathilde Andr\u00e9",
+        "Alice Douchet",
+        "St\u00e9phane Bouilland",
+        "Leire Ortiz Fernandez"
+      ],
+      "title": "STARR-Decision SupporT and self-mAnagement system for stRoke survivoRs Vision based Rehabilitation System",
+      "venue": "978-989-758-310-0",
+      "volume": "",
+      "year": 2017,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://orbilu.uni.lu/handle/10993/39601"
     }
   ],
   "conferences": [
@@ -2047,34 +2075,6 @@
       "impact_factor": null,
       "doi": null,
       "url": "https://ieeexplore.ieee.org/abstract/document/7938364/"
-    },
-    {
-      "authors": [
-        "Abd El Rahman Shabayek",
-        "Renato Baptista",
-        "Konstantinos Papadopoulos",
-        "Girum Demisse",
-        "Oyebade Oyedotun",
-        "Michel Antunes",
-        "Djamila Aouada",
-        "Bj\u00f6rn Ottersten",
-        "Margarita Anastassova",
-        "Mehdi Boukallel",
-        "Sabrina Pan\u00ebels",
-        "Gary Randall",
-        "Mathilde Andr\u00e9",
-        "Alice Douchet",
-        "St\u00e9phane Bouilland",
-        "Leire Ortiz Fernandez"
-      ],
-      "title": "STARR-Decision SupporT and self-mAnagement system for stRoke survivoRs Vision based Rehabilitation System",
-      "venue": "978-989-758-310-0",
-      "volume": "",
-      "year": 2017,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://orbilu.uni.lu/handle/10993/39601"
     },
     {
       "authors": ["Alejandro Correa Bahnsen", "Djamila Aouada", "Aleksandar Stojanovic", "Bj\u00f6rn Ottersten"],
