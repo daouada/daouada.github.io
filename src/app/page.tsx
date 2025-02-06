@@ -20,6 +20,20 @@ export default function Page() {
     return items
   }
 
+  const getLatestMedia = (n: number = 3) => {
+    const items = []
+    for (const yearData of mediaData.media) {
+      for (const item of yearData.items) {
+        items.push(item)
+        if (items.length === n) {
+          return items
+        }
+      }
+    }
+    return items
+  }
+
+
   const latestNews = getLatestNews(4)
 
   return (
@@ -68,13 +82,13 @@ export default function Page() {
         </div>
       </div>
 
-              {/* News */}
+              {/* Media */}
               <div className="mt-16 xl:mt-0 xl:ml-20">
           <h2 className="border-b font-semibold text-2xl text-gray-700 mb-4 pb-2 w-full xl:border-none xl:text-xl xl:pb-0 xl:w-[400px]">
-            Latest News
+            Latest Media
           </h2>
-          {latestNews.map((item, index) => (
-            <div key={item.title} className={`py-4 ${index !== latestNews.length - 1 ? 'border-b' : ''}`}>
+          {getLatestMedia.map((item, index) => (
+            <div key={item.title} className={`py-4 ${index !== getLatestMedia.length - 1 ? 'border-b' : ''}`}>
               <p className="text-sm xl:text-xs text-gray-600">{item.date}</p>
               <p className="xl:text-sm mt-3">{item.content}</p>
             </div>
