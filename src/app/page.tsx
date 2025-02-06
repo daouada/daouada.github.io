@@ -51,9 +51,12 @@ export default function Page() {
             <div className="mt-12 lg:mt-0 lg:ml-10">
               <p>{homeData.description_1}</p>
               <p className="mt-8">{homeData.description_2}</p>
-              <div className="space-x-3 mt-8">
+              <div className="flex flex-row gap-3 mt-8 flex-wrap">
                 <Button href="/research" variant="solid">
                   Research
+                </Button>
+                <Button href="/media" variant="outline">
+                  Media
                 </Button>
                 <Button href="/contact" variant="outline">
                   Contact
@@ -68,6 +71,8 @@ export default function Page() {
 
         {/* News */}
         <div className="mt-16 xl:mt-0 xl:ml-20">
+          
+        
           <h2 className="border-b font-semibold text-2xl text-gray-700 mb-4 pb-2 w-full xl:border-none xl:text-xl xl:pb-0 xl:w-[400px]">
             Latest News
           </h2>
@@ -76,26 +81,14 @@ export default function Page() {
               <p className="text-sm xl:text-xs text-gray-600">{item.date}</p>
               <p className="xl:text-sm mt-3">{item.content}</p>
             </div>
-          ))}
-          <LinkWithArrow href="/news" className="mt-4">
+          ))}<LinkWithArrow href="/news" className="mt-4">
             view all news
           </LinkWithArrow>
         </div>
+
+        
       </div>
 
-
-        <div className="mt-16 xl:mt-0 xl:ml-20">
-          <h2 className="border-b font-semibold text-2xl text-gray-700 mb-4 pb-2 w-full xl:border-none xl:text-xl xl:pb-0 xl:w-[400px]">
-            Latest Media
-          </h2>
-          {latestMedia.map((item, index) => (
-            <div key={item.title} className={`py-4 ${index !== latestMedia.length - 1 ? 'border-b' : ''}`}>
-              <p className="text-sm xl:text-xs text-gray-600">{item.date}</p>
-              <p className="xl:text-sm mt-3">{item.content}</p>
-            </div>
-          ))}
-
-      
       {/* Research Highlights */}
       <div className="mt-16">
         <h2 className="border-b font-bold text-2xl text-gray-700 pb-2">Research Highlights</h2>

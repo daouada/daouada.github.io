@@ -64,7 +64,7 @@ export default function Page() {
 
   return (
     <div>
-      <h1 className="text-4xl font-extrabold text-gray-800">media</h1>
+      <h1 className="text-4xl font-extrabold text-gray-800">Media Coverage</h1>
 
       {/* Filters */}
       <div className="flex flex-col md:flex-row justify-center mt-14">
