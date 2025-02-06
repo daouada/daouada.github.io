@@ -35,6 +35,7 @@ export default function Page() {
 
 
   const latestNews = getLatestNews(4)
+  const latestMedia= getLatestMedia(4)
 
   return (
     <div>
@@ -82,24 +83,19 @@ export default function Page() {
         </div>
       </div>
 
-              {/* Media */}
-              <div className="mt-16 xl:mt-0 xl:ml-20">
+
+        <div className="mt-16 xl:mt-0 xl:ml-20">
           <h2 className="border-b font-semibold text-2xl text-gray-700 mb-4 pb-2 w-full xl:border-none xl:text-xl xl:pb-0 xl:w-[400px]">
             Latest Media
           </h2>
-          {getLatestMedia.map((item, index) => (
-            <div key={item.title} className={`py-4 ${index !== getLatestMedia.length - 1 ? 'border-b' : ''}`}>
+          {latestMedia.map((item, index) => (
+            <div key={item.title} className={`py-4 ${index !== latestMedia.length - 1 ? 'border-b' : ''}`}>
               <p className="text-sm xl:text-xs text-gray-600">{item.date}</p>
               <p className="xl:text-sm mt-3">{item.content}</p>
             </div>
           ))}
-          <LinkWithArrow href="/media" className="mt-4">
-            view all news
-          </LinkWithArrow>
-        </div>
-      </div>
 
-
+      
       {/* Research Highlights */}
       <div className="mt-16">
         <h2 className="border-b font-bold text-2xl text-gray-700 pb-2">Research Highlights</h2>
