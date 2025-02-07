@@ -82,7 +82,23 @@
           "University of New South Wales",
           "SnT, LU"
         ]
+      },
+      {
+        "name": "Inder Pal",
+        "start_year": 2024,
+        "affiliations": [
+          
+          "SnT, LU"
+        ]
+      },
+      {
+        "name": "Mohamed Adel",
+        "start_year": 2024,
+        "affiliations": [
+          "SnT, LU"
+        ]
       }
+
     ]
   },
   "alumni": {
@@ -100,48 +116,6 @@
         "current_affiliation": "SnT - UL"
       },
       {
-        "name": "Inès Jorge",
-        "years": "2021 - 2023",
-        "project": "Machine-learning based predictive maintenance for Lithium-ion batteries in electric vehicles.",
-        "current_affiliation": "-"
-      },
-      {
-        "name": "Nicolas Beuve",
-        "years": "2021 - 2023",
-        "project": "Deep Learning Based DeepFake Video Detection",
-        "current_affiliation": "INSA Rennes"
-      },
-      {
-        "name": "Linda Weigl",
-        "years": "2021 - 2023",
-        "project": "Governance of Digital Identities",
-        "current_affiliation": "U. of Amsterdam"
-      },
-      {
-        "name": "Tarek Ben Charrada",
-        "years": "2019 - 2022",
-        "project": "3D object reconstruction from a single monocular image using Deep Learning",
-        "current_affiliation": "Reezocar"
-      },
-      {
-        "name": "Benjamin Szczapa",
-        "years": "2019 - 2022",
-        "project": "Analysis and Prediction of Human Behavior Temporal Sequences in the Wild",
-        "current_affiliation": "-"
-      },
-      {
-        "name": "Fitash Ul Haq",
-        "years": "2019 - 2022",
-        "project": "Scalable and Practical Automated Testing of Deep Learning Models and Systems",
-        "current_affiliation": "SnT-UL"
-      },
-      {
-        "name": "François Robinet",
-        "years": "2019 - 2022",
-        "project": "Minimizing Supervision for Vision-Based Perception and Control in Autonomous Driving",
-        "current_affiliation": "SnT-UL"
-      },
-      {
         "name": "Alexandre Saint",
         "years": "2017 - 2021",
         "project": "Automatic Analysis, Representation and Reconstruction of Textured 3D Huma Scans",
@@ -154,18 +128,6 @@
         "current_affiliation": "Lunex"
       },
       {
-        "name": "Mehlizi Sajad",
-        "years": "2017 - 2021",
-        "project": "Probabilistic Modeling for Content Popularity Learning For Proactive Caching",
-        "current_affiliation": "SnT-UL"
-      },
-      {
-        "name": "Ramiro Daniel Camino",
-        "years": "2016 - 2020",
-        "project": "Machine Learning Techniques for Suspicious Transaction Detection and Analysis",
-        "current_affiliation": "LIST"
-      },
-      {
         "name": "Oyebade Oyedotun",
         "years": "2017 - 2020",
         "project": "Analyzing and Improving Very Deep Neural Networks: From Optimization, Generalization To Compression",
@@ -176,24 +138,6 @@
         "years": "2016 - 2020",
         "project": "From Dense Trajectories to Sparse Trajectories for Action Recognition and Detection",
         "current_affiliation": "POST"
-      },
-      {
-        "name": "Ashok Bandi",
-        "years": "2017 - 2020",
-        "project": "Joint Scheduling and Precoding in Wireless Networks: A DC Programming Approach",
-        "current_affiliation": "SnT-UL"
-      },
-      {
-        "name": "Jérémy Charlier",
-        "years": "2017 - 2019",
-        "project": "Big Data Analytics for Financial Data",
-        "current_affiliation": "National Bank of Canada"
-      },
-      {
-        "name": "Patrick Glauner",
-        "years": "2016 - 2019",
-        "project": "Artificial Intelligence for the Detection of Electricity Theft and Irregular Power Usage in Emerging Markets",
-        "current_affiliation": "Deggendorf Institute of Technology"
       },
       {
         "name": "Girum Demisse",
