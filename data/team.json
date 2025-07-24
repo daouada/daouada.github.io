@@ -4,6 +4,16 @@
   "team": {
     "phd": [
       {
+        "name": "Hazem Ali",
+        "start_year": 2025,
+        "project": "-"
+      },
+      {
+        "name": "Ala Souissi",
+        "start_year": 2025,
+        "project": "-"
+      },
+      {
         "name": "Nidhal Eddine Chenni",
         "start_year": 2024,
         "project": "Unsupervised Domain Adaptation for Spacecraft Pose Estimation"
@@ -19,12 +29,12 @@
         "project": "Leveraging Contextual Information for Efficient Dynamic Behavior Learning"
       },
       {
-        "name": "Dat Nguyen",
+        "name": "Van Dat Nguyen",
         "start_year": 2022,
         "project": "Deepfake detection using spatio-temporal and spectral representations in a deep learning framework"
       },
       {
-        "name": "Peyman Rostami",
+        "name": "Peyman Rostami Abendansari",
         "start_year": 2022,
         "project": "Disentangled representation learning for compact DNN design"
       },
@@ -32,46 +42,77 @@
         "name": "Ahmet Serdar Karadeniz",
         "start_year": 2022,
         "project": "Deep Learning Approaches towards Automated Computer Aided Design (CAD) and Redesign"
-      },
-      {
-        "name": "Nesryne Mejri",
-        "start_year": 2021,
-        "project": "UNFAKE: Unsupervised multi-type explainable deepFAKE detection"
-      },
-      {
-        "name": "Elona Dupont",
-        "start_year": 2021,
-        "project": "ConstrAined Sequence modelling of CAD for reverse Engineering from 3d Scans"
-      },
-      {
-        "name": "Kseniya Cherenkova",
-        "start_year": 2018,
-        "project": "Automated CAD Re-engineering"
       }
     ],
     "postdoc": [
+      {
+        "name": "Nesryne Mejri",
+        "start_year": 2025,
+        "affiliations": [
+          "SnT, UL"
+        ]
+      },
+      {
+        "name": "Nicla Notarangelo",
+        "start_year": 2025,
+        "affiliations": [
+          "SnT, UL"
+        ]
+      },
+      {
+        "name": "Razan Jaberibraheem",
+        "start_year": 2025,
+        "affiliations": [
+          "SnT, UL"
+        ]
+      },
+      {
+        "name": "Dan Pineau",
+        "start_year": 2025,
+        "affiliations": [
+          "SnT, UL"
+        ]
+      },
+      {
+        "name": "Samet Hicsonmez",
+        "start_year": 2024,
+        "affiliations": [
+          "SnT, UL"
+        ]
+      },
+      {
+        "name": "Jose Angel Sosa Martinez",
+        "start_year": 2024,
+        "affiliations": [
+          "SnT, UL"
+        ]
+      },
+      {
+        "name": "Danila Rukhovich",
+        "start_year": 2024,
+        "affiliations": [
+          "SnT, UL"
+        ]
+      },
+      {
+        "name": "Inder Pal",
+        "start_year": 2024,
+        "affiliations": [
+          "SnT, LU"
+        ]
+      },
+      {
+        "name": "Mohamed Adel",
+        "start_year": 2024,
+        "affiliations": [
+          "SnT, LU"
+        ]
+      },
       {
         "name": "Dimitrios Mallis",
         "start_year": 2023,
         "affiliations": [
           "Leiden University",
-          "SnT, UL"
-        ]
-      },
-      {
-        "name": "Marcella Astrid",
-        "start_year": 2023,
-        "affiliations": [
-          "University of Science and Technology, Daejeon",
-          "SnT, UL"
-        ]
-      },
-      {
-        "name": "Anis Kacem",
-        "start_year": 2018,
-        "end_year": 2024,
-        "affiliations": [
-          "University of Lille",
           "SnT, UL"
         ]
       },
@@ -82,27 +123,23 @@
           "University of New South Wales",
           "SnT, LU"
         ]
-      },
-      {
-        "name": "Inder Pal",
-        "start_year": 2024,
-        "affiliations": [
-          
-          "SnT, LU"
-        ]
-      },
-      {
-        "name": "Mohamed Adel",
-        "start_year": 2024,
-        "affiliations": [
-          "SnT, LU"
-        ]
       }
-
     ]
   },
   "alumni": {
     "phd": [
+      {
+        "name": "Nesryne Mejri",
+        "years": "2021 - 2025",
+        "project": "UNFAKE: Unsupervised multi-type explainable deepFAKE detection",
+        "current_affiliation": "SnT - UL"
+      },
+      {
+        "name": "Elona Dupont",
+        "years": "2021 - 2025",
+        "project": "ConstrAined Sequence modelling of CAD for reverse Engineering from 3d Scans",
+        "current_affiliation": "-"
+      },
       {
         "name": "Inder Pal",
         "years": "2020 - 2024",
@@ -114,6 +151,11 @@
         "years": "2020 - 2024",
         "project": "Vision-based Spacecraft Situational Awareness",
         "current_affiliation": "SnT - UL"
+      },
+      {
+        "name": "Kseniya Cherenkova",
+        "years": "2018 - 2025",
+        "project": "Automated CAD Re-engineering"
       },
       {
         "name": "Alexandre Saint",
@@ -157,7 +199,6 @@
         "project": "Example-Dependent Cost-Sensitive Classification",
         "current_affiliation": "Cyxtera Tech."
       },
-
       {
         "name": "Frederic Garcia",
         "years": "2009 - 2012",
@@ -166,6 +207,12 @@
       }
     ],
     "postdoc": [
+      {
+        "name": "Marcella Astrid",
+        "years": "2023 - 2025",
+        "affiliation": "SnT, University of Luxembourg",
+        "current_affiliation": "-"
+      },
       {
         "name": "Matthieu Ruthven",
         "years": "2022 - 2024",
