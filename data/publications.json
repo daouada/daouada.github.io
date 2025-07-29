@@ -30,7 +30,128 @@
     }
   ],
   "conferences": [
-      {
+    {
+      "authors": ["Marcella Astrid", "Abdelrahman Shabayek", "Djamila Aouada"],
+      "title": "Zero-Shot Anomaly Detection in Battery Thermal Images Using Visual Question Answering with Prior Knowledge",
+      "venue": "arXiv preprint arXiv:2505.16674",
+      "volume": "",
+      "year": 2025,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2505.16674"
+    },
+    {
+      "authors": ["Jose Sosa", "Danila Rukhovich", "Anis Kacem", "Djamila Aouada"],
+      "title": "MultiMAE Meets Earth Observation: Pre-training Multi-modal Multi-task Masked Autoencoders for Earth Observation Tasks",
+      "venue": "arXiv preprint arXiv:2505.14951",
+      "volume": "",
+      "year": 2025,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2505.14951"
+    },
+    {
+      "authors": ["Marcella Astrid", "Enjie Ghorbel", "Djamila Aouada"],
+      "title": "Audio-Visual Deepfake Detection With Local Temporal Inconsistencies",
+      "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "volume": "",
+      "year": 2025,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": ""
+    },
+    {
+      "authors": ["Nassim Ali Ousalah", "Anis Kacem", "Enjie Ghorbel", "Emmanuel Koumandakis", "Djamila Aouada"],
+      "title": "Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation",
+      "venue": "arXiv preprint arXiv:2503.13053",
+      "volume": "",
+      "year": 2025,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2503.13053"
+    },
+    {
+      "authors": ["Peyman Rostami", "Nilotpal Sinha", "Nidhaleddine Chenni", "Anis Kacem", "Abd El Rahman Shabayek", "Carl Shneider", "Djamila Aouada"],
+      "title": "Information Theoretic Pruning of Coupled Channels in Deep Neural Networks",
+      "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+      "volume": "",
+      "year": 2025,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": ""
+    },
+    {
+      "authors": ["Romain Hermary", "Vincent Gaudillière", "Djamila Aouada"],
+      "title": "Removing Geometric Bias in One-Class Anomaly Detection with Adaptive Feature Perturbation",
+      "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+      "volume": "",
+      "year": 2025,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": ""
+    },
+    {
+      "authors": ["Ahmet Serdar Karadeniz", "Dimitrios Mallis", "Nesryne Mejri", "Kseniya Cherenkova", "Anis Kacem", "Djamila Aouada"],
+      "title": "Picasso: A feed-forward framework for parametric inference of cad sketches via rendering self-supervision",
+      "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+      "volume": "",
+      "year": 2025,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": ""
+    },
+    {
+      "authors": ["Abdelrahman Shabayek", "Arunkumar Rathinam", "Matthieu Ruthven", "Djamila Aouada", "Tazdin Amietszajew"],
+      "title": "AI-enabled thermal monitoring of commercial (PHEV) Li-ion pouch cells with Feature-Adapted Unsupervised Anomaly Detection",
+      "venue": "Journal of Power Sources",
+      "volume": "",
+      "year": 2025,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": ""
+    },
+    {
+      "authors": ["Dat Nguyen", "Marcella Astrid", "Anis Kacem", "Enjie Ghorbel", "Djamila Aouada"],
+      "title": "Vulnerability-Aware Spatio-Temporal Learning for Generalizable and Interpretable Deepfake Video Detection",
+      "venue": "arXiv preprint arXiv:2501.01184",
+      "volume": "",
+      "year": 2025,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2501.01184"
+    },
+    {
+      "authors": ["Dimitrios Mallis", "Ahmet Serdar Karadeniz", "Sebastian Cavada", "Danila Rukhovich", "Niki Foteinopoulou", "Kseniya Cherenkova", "Anis Kacem", "Djamila Aouada"],
+      "title": "Cad-assistant: Tool-augmented vllms as generic cad task solvers",
+      "venue": "arXiv preprint arXiv:2412.13810",
+      "volume": "",
+      "year": 2025,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2412.13810"
+    },
+    {
+      "authors": ["Danila Rukhovich", "Elona Dupont", "Dimitrios Mallis", "Kseniya Cherenkova", "Anis Kacem", "Djamila Aouada"],
+      "title": "Cad-recode: Reverse engineering cad code from point clouds",
+      "venue": "arXiv preprint arXiv:2412.14042",
+      "volume": "",
+      "year": 2025,
+      "pages": "",
+      "impact_factor": null,
+      "doi": null,
+      "url": "https://arxiv.org/abs/2412.14042"
+    },
+    {
       "authors": ["Peter Schaffer", "Djamila Aouada", "Shishir Nagaraja"],
       "title": "Who clicks there!: Anonymizing the photographer in a camera saturated society",
       "venue": "arXiv preprint arXiv:1106.2696",
@@ -41,7 +162,7 @@
       "doi": null,
       "url": "https://arxiv.org/abs/1106.2696"
     },
-        {
+    {
       "authors": ["Konstantinos Papadopoulos", "Enjie Ghorbel", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
       "title": "Vertex feature encoding and hierarchical temporal modeling in a spatial-temporal graph convolutional network for action recognition",
       "venue": "arXiv preprint arXiv:1912.09745",
@@ -52,7 +173,7 @@
       "doi": null,
       "url": "https://arxiv.org/abs/1912.09745"
     },
-        {
+    {
       "authors": [
         "Carl Shneider",
         "Peyman Rostami",
