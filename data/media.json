@@ -3,6 +3,20 @@
       {
         "year": 2025,
         "items": [
+            {
+                "date": "July 2025",
+                "title": "The Dots Magazine #10 - Pages 9 to 10",
+                "content": "TechSense",
+                "category": "Magazine"
+                "url": "https://techsense.lu/magazine/11"
+            },
+            {
+                "date": "July 2025",
+                "title": "W Magazine #1 - Page 28",
+                "content": "TechSense",
+                "category": "Magazine"
+                "url": "https://techsense.lu/magazine/12"
+            },
           {
             "date": "January 2025",
             "title": "25 examples of research with impact: Advancing AI and Computer Vision: From space tech to better healthcare",
