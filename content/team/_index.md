@@ -8,7 +8,7 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
 
-{{< collapse title="PhD Students" open="false" >}}
+{{< collapse title="PhD Students" open="true" >}}
 {{< phds_table data="phds_supervision" >}}
 {{< /collapse >}}
 

@@ -10,7 +10,7 @@ weight: 50
 
 <!-- ------------------------------------------------------------------------------------ -->
 
-{{< collapse title="Professional Service & Editorial Responsibilities" open="true" >}}
+{{< collapse title="Professional Service & Editorial Responsibilities" open="false" >}}
 <ul class="simple-list">
 
   <div style="display: flex; align-items: baseline;">
@@ -141,7 +141,7 @@ weight: 50
 
 
 
-{{< collapse title="Outreach and Mentorship" open="true" >}}
+{{< collapse title="Outreach and Mentorship" open="false" >}}
 <ul class="simple-list">
 
   <div style="display: flex; align-items: baseline;">
