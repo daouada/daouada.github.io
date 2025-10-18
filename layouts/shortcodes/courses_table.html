@@ -1,0 +1,72 @@
+{{/* layouts/shortcodes/courses_table.html */}}
+
+{{ $rows := site.Data.courses }}
+{{ if not $rows }}
+<p>No courses found.</p>
+{{ else }}
+<table class="courses-table table">
+    <thead>
+        <tr>
+            <th class="col-period">Period</th>
+            <th class="col-course">Course</th>
+            <th class="col-program">Program</th>
+            <th class="col-inst">Institution</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{/* Optional: sort by most recent first using a heuristic on the first year found */}}
+        {{ $items := slice }}
+        {{ range $rows }}
+        {{ $p := .period | default "" }}
+        {{ $y := replaceRE ".*?(\\d{4}).*" "$1" $p }}
+        {{ if not (findRE "^\\d{4}$" $y) }}{{ $y = "0000" }}{{ end }}
+        {{ $items = $items | append (merge . (dict "sortYear" (int $y))) }}
+        {{ end }}
+        {{ range sort $items "sortYear" "desc" "course" "asc" }}
+        <tr>
+            <td class="col-period">{{ .period }}</td>
+
+            <td class="col-course">
+                {{/* Support optional course URL: { "name": "...", "url": "..." } */}}
+                {{ $c := .course }}
+                {{ if (reflect.IsMap $c) }}
+                {{ with (index $c "url") }}
+                <a href="{{ . }}" target="_blank" rel="noopener">{{ index $c "name" }}</a>
+                {{ else }}
+                {{ index $c "name" }}
+                {{ end }}
+                {{ else }}
+                {{ $c }}
+                {{ end }}
+            </td>
+
+            <td class="col-program">
+                {{ $pr := .program }}
+                {{ if (reflect.IsMap $pr) }}
+                {{ with (index $pr "url") }}
+                <a href="{{ . }}" target="_blank" rel="noopener">{{ index $pr "name" }}</a>
+                {{ else }}
+                {{ index $pr "name" }}
+                {{ end }}
+                {{ else }}
+                {{ $pr }}
+                {{ end }}
+            </td>
+
+            <td class="col-inst">
+                {{ $inst := .institution }}
+                {{ if (reflect.IsMap $inst) }}
+                {{ with (index $inst "url") }}
+                <a href="{{ . }}" target="_blank" rel="noopener">{{ index $inst "name" }}</a>
+                {{ else }}
+                {{ index $inst "name" }}
+                {{ end }}
+                {{ else }}
+                {{ $inst }}
+                {{ end }}
+            </td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+{{ end }}

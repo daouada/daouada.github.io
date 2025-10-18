@@ -1,0 +1,52 @@
+Teaching and mentoring:
+    Master Thesis Evaluations:
+    - Eya's Examination committee (11-09-2025)
+    - Polina's BSP Examination committee (29-01-2025)
+
+    Project Mentoring:
+    - Mentoring MICS 2021, 2022,2023, 2024, 2025 + evaluation
+    - Mentoring MSTB
+
+    Teaching and office hours:
+    - CVIA course 2021,...,2025
+    - Smart Schoul class preparation (Highschool with projects)
+
+Outreach 
+    Press appearences:
+        - Virgule press article (17-09-2025) https://www.virgule.lu/luxembourg/une-image-n-est-plus-une-preuve-l-alerte-d-une-post-doctorante-sur-les-deepfakes/92209872.html
+        - Press article lequotidient (07-05-2025) https://lequotidien.lu/a-la-une/snt-partnership-day-lintelligence-artificielle-pour-se-proteger-des-deepfakes/
+        - RTL on the TV-show PISA 27-03-2023 https://www.rtl.lu/tele/pisa-de-wessensmagazin/a/2052638.html
+        - Podcast Main Element (20-03-2024) https://journal.lu/fr/main-element-nesryne-mejri 
+        - Article over deepfakes for the Revue magazine, rubrik erklärt https://revue.lu/ (01-01-2025)
+
+    Booth presentations: 
+        - EdTech Startups @House of Startups (03-2022)
+        - Partnership day november 2021, 2022, 2023, 2024
+        - DLH inauguration (16-05-2022)
+        - ICT spring uni (30-06 & 01-07 2022)
+        - Ministry of fonction public 08-11-2024
+
+    Talks:
+    - Benelux security talk (20-10-2025)
+    - Govtech Lab presentation (25-06-2025)
+    - Partnership day flash talk (07-05-2025)
+    - Deepfake demo and presentation (@POST) 23-05-2024
+
+Research 
+    Publications: 
+    - MMSP conference (Oral) 2021
+    - ICASSP conference (Oral) 2023
+    - ICME conference (Oral) 2024
+    - PhD day @Uni (Poster) 5-10-2023
+
+    Peer review:
+    - CVPR 2025 (outstanding reviewer https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer)
+    - ICCV 2025
+    - Dependable systems (got a certificate)
+    - TNNLS : Review for Dependable systems paper (July 24) - TNNLS (21 Jan 25)
+    - WACV25, ICME24 & 2025
+
+    Projects:
+    - IF proposal 2021
+    - GARA proposal 2025
+    - CyberHub proposal 2025

@@ -1,0 +1,39 @@
+/* Masters table shares base table look */
+.masters-table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+/* Column balance for readability */
+.masters-table .col-year {
+    width: 10%;
+}
+
+.masters-table .col-student {
+    width: 22%;
+}
+
+.masters-table .col-title {
+    width: 48%;
+}
+
+/* project titles are long */
+.masters-table .col-host {
+    width: 20%;
+}
+
+.masters-table .col-student a,
+.masters-table .col-host a {
+    /* color: var(--link, #2a67b1); */
+    text-decoration: none;
+    /* font-weight: 500; */
+}
+
+.masters-table .col-student a:hover,
+.masters-table .col-host a:hover {
+    text-decoration: none;
+}
+
+.masters-table .col-title em {
+    color: var(--link, #2a67b1);
+}

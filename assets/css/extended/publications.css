@@ -1,0 +1,233 @@
+.citations-wrapper {
+    margin-top: 2rem;
+}
+
+.citations-wrapper ol {
+    counter-reset: cite;
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.citations-wrapper li {
+    margin: 0 0 1.0rem 0;
+    padding-left: 0;
+    text-indent: 0;
+}
+
+.citations-wrapper li::before {
+    content: none !important;
+    display: none !important;
+}
+
+/* Line stack within each citation */
+.citation-authors,
+.citation-year,
+.citation-title,
+.citation-venue,
+.citation-meta,
+.citation-links {
+    display: inline;
+}
+
+/* Authors - readable weight */
+.citation-authors {
+    font-weight: 600;
+    color: var(--primary, #111);
+}
+
+/* Year - neutral */
+.citation-year {
+    color: var(--secondary, #6b7280);
+}
+
+/* Title - link-like blue, italic optional */
+.citation-title {
+    font-style: italic;
+    color: var(--link, #2a67b1);
+}
+
+/* Venue - lighter small-caps feel */
+.citation-venue {
+    color: var(--secondary, #6b7280);
+    letter-spacing: 0.01em;
+}
+
+/* Meta - accepted, preprint, best paper, etc. */
+.citation-meta {
+    color: var(--secondary, #6b7280);
+}
+
+/* Inline pill links */
+.citation-links a {
+    display: inline-block;
+    padding: 0.1rem 0.45rem;
+    margin-left: 0.4rem;
+    border-radius: 9999px;
+    text-decoration: none;
+    font-size: 0.875rem;
+    line-height: 1.2;
+    background: rgba(42, 103, 177, 0.08);
+    color: var(--link, #2a67b1);
+    border: 1px solid rgba(42, 103, 177, 0.18);
+}
+
+.citation-links a:hover {
+    background: rgba(42, 103, 177, 0.16);
+}
+
+/* Year heading spacing */
+.citations-wrapper h2 {
+    margin: 0 0 0.75rem 0;
+}
+
+/* Collapsible section styling */
+.pubs-collapsible {
+    margin-top: 2rem;
+    /* border: 1px solid var(--border, #e5e7eb); */
+    border-radius: 0.75rem;
+    padding: 0.75rem 1rem;
+    /* background: var(--theme, #fff); */
+}
+
+.pubs-collapsible>summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
+
+.pubs-collapsible>summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Caret */
+.pubs-collapsible>summary::before {
+    content: "▸";
+    font-size: 3rem;
+    transform: translateY(-4px);
+    transition: transform .2s ease;
+    color: var(--secondary, #000000);
+}
+
+.pubs-collapsible[open]>summary::before {
+    transform: rotate(90deg) translateX(1px);
+}
+
+/* Remove top margin on the h2 inside summary to keep it tight */
+.pubs-collapsible>summary>h2 {
+    margin: 0;
+}
+
+/* Optional: spacing inside when opened */
+.pubs-collapsible[open] {
+    padding-bottom: -1.5rem;
+}
+
+/* Indent the publication list */
+.collapse-content .citations-wrapper {
+    margin-left: 1.5rem;
+    /* indentation under the summary */
+    margin-top: 0.75rem;
+}
+
+.pubs-collapsible:not([open]) {
+    margin: 0.1rem 0;
+}
+
+/* Smaller, denser text for publications */
+.collapse-content .citations-wrapper li,
+.collapse-content .citations-wrapper p,
+.collapse-content .citations-wrapper span {
+    font-size: 0.95rem;
+    /* slightly smaller */
+    line-height: 1.45;
+    /* tighter line height */
+}
+
+/* Optional: make the citation counter less dominant */
+.collapse-content .citations-wrapper li::before {
+    color: var(--secondary, #9ca3af);
+}
+
+/* Reduce spacing between items for compact look */
+.collapse-content .citations-wrapper li {
+    margin-bottom: 0.9rem;
+}
+
+/* Optional: add subtle left guide for indentation clarity */
+.collapse-content .citations-wrapper {
+    border-left: 2px solid rgba(35, 82, 107, 0.15);
+    padding-left: 1rem;
+}
+
+/* Put the DOI / PDF / Cite pills on their own line */
+.citations-wrapper .citation-links {
+    display: block;
+    /* force a line break below the citation text */
+    margin-top: 0.35rem;
+    /* breathing room from the sentence above */
+}
+
+/* Comfortable pill sizing (prevents the “squished” look) */
+.citations-wrapper .citation-links a {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    font-size: 0.9rem;
+    /* override smaller inherited font */
+    line-height: 1.2;
+    border-radius: 9999px;
+    white-space: nowrap;
+    margin-right: 0.3rem;
+    /* spacing between pills */
+    vertical-align: middle;
+}
+
+/* If you previously made citations smaller, keep pills readable */
+.collapse-content .citations-wrapper .citation-links,
+.collapse-content .citations-wrapper .citation-links a {
+    font-size: 0.75rem;
+}
+
+/* Ensure the hanging indent doesn't affect the pill row */
+.citations-wrapper li>.citation-links {
+    text-indent: 0;
+    padding-left: 0;
+}
+
+/* Nice wrap behavior on narrow screens */
+@media (max-width: 640px) {
+    .citations-wrapper .citation-links a {
+        margin-bottom: 0.2rem;
+    }
+}
+
+.peer-review-list {
+    font-size: 0.92rem;
+    /* smaller, but not compressed */
+    line-height: 1.6;
+    /* gives breathing room */
+    letter-spacing: 0.01em;
+    /* widens slightly to avoid squishiness */
+    font-weight: 400;
+    /* lighter than strong headers above it */
+    list-style-type: disc;
+    padding-left: 1.4rem;
+    margin: 0.5rem 0 1rem 0;
+}
+
+.peer-review-list li {
+    margin-bottom: 0.45rem;
+}
+
+/* link appearance tuned for PaperMod */
+.peer-review-list a {
+    color: var(--link, #2a67b1);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.peer-review-list a:hover {
+    text-decoration: underline;
+}

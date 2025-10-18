@@ -1,0 +1,58 @@
+{{/* layouts/shortcodes/masters_table.html */}}
+
+{{ $rows := site.Data.masters }}
+{{ if not $rows }}
+<p>No master’s students found.</p>
+{{ else }}
+<div class="projects-table-wrapper">
+    <table class="phds-table masters-table table">
+        <thead>
+            <tr>
+                <th class="col-year">Year</th>
+                <th class="col-student">MSc Student</th>
+                <th class="col-title">Project Title</th>
+                <th class="col-host">Host University</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{/* Sort by year desc (extract first 4-digit year) then by name asc */}}
+            {{ $items := slice }}
+            {{ range $rows }}
+            {{ $y := .year | default "" }}
+            {{ $start := replaceRE "^\\s*(\\d{4}).*$" "$1" $y }}
+            {{ if not (findRE "^\\d{4}$" $start) }}{{ $start = "0000" }}{{ end }}
+            {{ $items = $items | append (merge . (dict "startYear" (int $start))) }}
+            {{ end }}
+            {{ range sort $items "startYear" "desc" "name" "asc" }}
+            <tr>
+                <td class="col-year">{{ .year }}</td>
+
+                <td class="col-student">
+                    {{ if .profile }}
+                    <a href="{{ .profile }}" target="_blank" rel="noopener">{{ .name }}</a>
+                    {{ else }}
+                    {{ .name }}
+                    {{ end }}
+                </td>
+
+                <td class="col-title"><em>{{ .title }}</em></td>
+
+                <td class="col-host">
+                    {{ $h := .host_university }}
+                    {{ if (reflect.IsMap $h) }}
+                    {{ with (index $h "url") }}
+                    <a href="{{ . }}" target="_blank" rel="noopener">{{ index $h "name" }}</a>
+                    {{ else }}
+                    {{ index $h "name" }}
+                    {{ end }}
+                    {{ else }}
+                    {{/* string fallback */}}
+                    {{ $h }}
+                    {{ end }}
+                </td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+</div>
+{{ end }}

@@ -1,0 +1,174 @@
+.projects-table-wrapper {
+    margin-top: 1rem;
+}
+
+.projects-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+}
+
+.projects-table thead th {
+    text-align: left;
+    padding: 0.6rem 0.6rem;
+    border-bottom: 2px solid var(--border, #d1d5db);
+    color: var(--secondary, #6b7280);
+    font-weight: 600;
+}
+
+.projects-table tbody td {
+    padding: 0.55rem 0.6rem;
+    border-bottom: 1px solid var(--border, #f0f2f5);
+    vertical-align: top;
+}
+
+/* Emphasize project title */
+.projects-title {
+    /* font-weight: 600; */
+    color: var(--primary, #111);
+}
+
+/* Amount styling */
+.projects-amount {
+    /* font-weight: 500; */
+    color: #2a67b1;
+    white-space: nowrap;
+}
+
+/* Optional source lighter */
+.projects-source {
+    color: var(--secondary, #6b7280);
+}
+
+/* Responsive stack on mobile */
+@media (max-width: 720px) {
+    .projects-table thead {
+        display: none;
+    }
+
+    .projects-table,
+    .projects-table tbody,
+    .projects-table tr,
+    .projects-table td {
+        display: block;
+        width: 100%;
+    }
+
+    .projects-table tr {
+        border-bottom: 1px solid var(--border, #e5e7eb);
+        padding: 0.4rem 0;
+    }
+
+    .projects-table td {
+        border: none;
+        padding: 0.2rem 0;
+    }
+
+    .projects-period {
+        font-weight: 600;
+        color: var(--secondary, #6b7280);
+    }
+
+    .projects-amount {
+        margin-top: 0.25rem;
+    }
+}
+
+/* Project title link styling */
+.project-link {
+    color: var(--link, #416590);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.project-link:hover {
+    text-decoration: underline;
+}
+
+/* --- widen Project Title column --- */
+.projects-table th:nth-child(2),
+.projects-table td.projects-title {
+    width: 50%;
+    /* or any preferred value */
+    max-width: 40rem;
+    /* prevents it from stretching too far on large screens */
+}
+
+/* optional: tighten other columns to free space */
+.projects-table th:nth-child(3),
+.projects-table th:nth-child(4),
+.projects-table td.projects-amount,
+.projects-table td.projects-source {
+    width: 9rem;
+}
+
+.project-source-link {
+    color: var(--link, #2a67b1);
+    text-decoration: none;
+}
+
+.project-source-link:hover {
+    text-decoration: underline;
+}
+
+.projects-title .projects-toggle {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    color: var(--link, #2a67b1);
+    cursor: pointer;
+    text-align: left;
+}
+
+.projects-title .projects-toggle:hover {
+    text-decoration: underline;
+}
+
+/* Small external link glyph next to title */
+.project-link-ext {
+    margin-left: 0.35rem;
+    text-decoration: none;
+    color: var(--secondary, #6b7280);
+    font-size: 0.95rem;
+}
+
+.project-link-ext:hover {
+    color: var(--link, #2a67b1);
+}
+
+/* Description block styling */
+.projects-desc-row[hidden] {
+    display: none;
+}
+
+.projects-desc {
+    padding: 0.0rem 1.25rem 1.2rem;
+    /* less top, more bottom */
+    color: var(--primary, #1f2937);
+    line-height: 1.6;
+    background: #e6e9ec;
+    /* soft neutral gray */
+    border-left: 3px solid #9faec6;
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: flex-start;
+    /* align content toward the top */
+    justify-content: flex-start;
+    white-space: pre-line;
+    margin-top: 0.01rem;
+}
+
+/* Optional caret before the title */
+.projects-title .projects-toggle::before {
+    content: "▶";
+    display: inline-block;
+    margin-right: 0.35rem;
+    transition: transform .2s ease;
+    color: var(--secondary, #8b9dc2);
+}
+
+.projects-title .projects-toggle[aria-expanded="true"]::before {
+    transform: rotate(90deg);
+}

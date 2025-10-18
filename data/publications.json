@@ -1,2378 +1,1226 @@
-{
-  "books": [
-    {
-      "authors": [
-        "Abd El Rahman Shabayek",
-        "Renato Baptista",
-        "Konstantinos Papadopoulos",
-        "Girum Demisse",
-        "Oyebade Oyedotun",
-        "Michel Antunes",
-        "Djamila Aouada",
-        "Bj\u00f6rn Ottersten",
-        "Margarita Anastassova",
-        "Mehdi Boukallel",
-        "Sabrina Pan\u00ebels",
-        "Gary Randall",
-        "Mathilde Andr\u00e9",
-        "Alice Douchet",
-        "St\u00e9phane Bouilland",
-        "Leire Ortiz Fernandez"
-      ],
-      "title": "STARR-Decision SupporT and self-mAnagement system for stRoke survivoRs Vision based Rehabilitation System",
-      "venue": "978-989-758-310-0",
-      "volume": "",
-      "year": 2017,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://orbilu.uni.lu/handle/10993/39601"
-    }
-  ],
-  "conferences": [
-    {
-      "authors": ["Marcella Astrid", "Abdelrahman Shabayek", "Djamila Aouada"],
-      "title": "Zero-Shot Anomaly Detection in Battery Thermal Images Using Visual Question Answering with Prior Knowledge",
-      "venue": "arXiv preprint arXiv:2505.16674",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2505.16674"
-    },
-    {
-      "authors": ["Jose Sosa", "Danila Rukhovich", "Anis Kacem", "Djamila Aouada"],
-      "title": "MultiMAE Meets Earth Observation: Pre-training Multi-modal Multi-task Masked Autoencoders for Earth Observation Tasks",
-      "venue": "arXiv preprint arXiv:2505.14951",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2505.14951"
-    },
-    {
-      "authors": ["Marcella Astrid", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Audio-Visual Deepfake Detection With Local Temporal Inconsistencies",
-      "venue": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": ""
-    },
-    {
-      "authors": ["Nassim Ali Ousalah", "Anis Kacem", "Enjie Ghorbel", "Emmanuel Koumandakis", "Djamila Aouada"],
-      "title": "Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation",
-      "venue": "arXiv preprint arXiv:2503.13053",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2503.13053"
-    },
-    {
-      "authors": ["Peyman Rostami", "Nilotpal Sinha", "Nidhaleddine Chenni", "Anis Kacem", "Abd El Rahman Shabayek", "Carl Shneider", "Djamila Aouada"],
-      "title": "Information Theoretic Pruning of Coupled Channels in Deep Neural Networks",
-      "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": ""
-    },
-    {
-      "authors": ["Romain Hermary", "Vincent Gaudillière", "Djamila Aouada"],
-      "title": "Removing Geometric Bias in One-Class Anomaly Detection with Adaptive Feature Perturbation",
-      "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": ""
-    },
-    {
-      "authors": ["Ahmet Serdar Karadeniz", "Dimitrios Mallis", "Nesryne Mejri", "Kseniya Cherenkova", "Anis Kacem", "Djamila Aouada"],
-      "title": "Picasso: A feed-forward framework for parametric inference of cad sketches via rendering self-supervision",
-      "venue": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": ""
-    },
-    {
-      "authors": ["Abdelrahman Shabayek", "Arunkumar Rathinam", "Matthieu Ruthven", "Djamila Aouada", "Tazdin Amietszajew"],
-      "title": "AI-enabled thermal monitoring of commercial (PHEV) Li-ion pouch cells with Feature-Adapted Unsupervised Anomaly Detection",
-      "venue": "Journal of Power Sources",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": ""
-    },
-    {
-      "authors": ["Dat Nguyen", "Marcella Astrid", "Anis Kacem", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Vulnerability-Aware Spatio-Temporal Learning for Generalizable and Interpretable Deepfake Video Detection",
-      "venue": "arXiv preprint arXiv:2501.01184",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2501.01184"
-    },
-    {
-      "authors": ["Dimitrios Mallis", "Ahmet Serdar Karadeniz", "Sebastian Cavada", "Danila Rukhovich", "Niki Foteinopoulou", "Kseniya Cherenkova", "Anis Kacem", "Djamila Aouada"],
-      "title": "Cad-assistant: Tool-augmented vllms as generic cad task solvers",
-      "venue": "arXiv preprint arXiv:2412.13810",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2412.13810"
-    },
-    {
-      "authors": ["Danila Rukhovich", "Elona Dupont", "Dimitrios Mallis", "Kseniya Cherenkova", "Anis Kacem", "Djamila Aouada"],
-      "title": "Cad-recode: Reverse engineering cad code from point clouds",
-      "venue": "arXiv preprint arXiv:2412.14042",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2412.14042"
-    },
-    {
-      "authors": ["Peter Schaffer", "Djamila Aouada", "Shishir Nagaraja"],
-      "title": "Who clicks there!: Anonymizing the photographer in a camera saturated society",
-      "venue": "arXiv preprint arXiv:1106.2696",
-      "volume": "",
-      "year": 2011,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/1106.2696"
-    },
-    {
-      "authors": ["Konstantinos Papadopoulos", "Enjie Ghorbel", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Vertex feature encoding and hierarchical temporal modeling in a spatial-temporal graph convolutional network for action recognition",
-      "venue": "arXiv preprint arXiv:1912.09745",
-      "volume": "",
-      "year": 2019,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/1912.09745"
-    },
-    {
-      "authors": [
-        "Carl Shneider",
-        "Peyman Rostami",
-        "Anis Kacem",
-        "Nilotpal Sinha",
-        "Abd El Rahman Shabayek",
-        "Djamila Aouada"
-      ],
-      "title": "Impact of Disentanglement on Pruning Neural Networks",
-      "venue": "arXiv preprint arXiv:2307.09994",
-      "volume": "",
-      "year": 2023,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2307.09994"
-    },
-      {
-      "authors": ["Marcella Astrid", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies",
-      "venue": "arXiv preprint arXiv:2408.06753",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2408.06753"
-    },
-    {
-      "authors": [
-        "Ahmet Serdar Karadeniz",
-        "Dimitrios Mallis",
-        "Nesryne Mejri",
-        "Kseniya Cherenkova",
-        "Anis Kacem",
-        "Djamila Aouada"
-      ],
-      "title": "DAVINCI: A Single-Stage Architecture for Constrained CAD Sketch Inference",
-      "venue": "arXiv preprint arXiv:2410.22857",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2410.22857"
-    },
-    {
-      "authors": [
-        "Ahmet Serdar Karadeniz",
-        "Dimitrios Mallis",
-        "Nesryne Mejri",
-        "Kseniya Cherenkova",
-        "Anis Kacem",
-        "Djamila Aouada"
-      ],
-      "title": "Picasso: A feed-forward framework for parametric inference of cad sketches via rendering self-supervision",
-      "venue": "arXiv preprint arXiv:2407.13394",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2407.13394"
-    },
-    {
-      "authors": [
-        "Elona Dupont",
-        "Kseniya Cherenkova",
-        "Dimitrios Mallis",
-        "Gleb Gusev",
-        "Anis Kacem",
-        "Djamila Aouada"
-      ],
-      "title": "Transcad: A hierarchical transformer for cad sequence inference from point clouds",
-      "venue": "European Conference on Computer Vision, 19-36, 2025",
-      "year": 2025,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Romain HERMARY", "Vincent GAUDILLIERE", "Abd El Rahman SHABAYEK", "Djamila AOUADA"],
-      "title": "Removing Geometric Bias in One-Class Anomaly Detection with Adaptive Feature Perturbation",
-      "venue": "WACV, 2025",
-      "year": 2025,
-      "type": "oral",
-      "presentation": ""
-    },
-  
-    {
-      "authors": [
-        "Mohammad Sadil Khan",
-        "Elona Dupont",
-        "Sk Aziz Ali",
-        "Kseniya Cherenkova",
-        "Anis Kacem",
-        "Djamila Aouada"
-      ],
-      "title": "CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention",
-      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Dat Nguyen",
-        "Nesryne Mejri",
-        "Inder Pal Singh",
-        "Polina Kuleshova",
-        "Marcella Astrid",
-        "Anis Kacem",
-        "Enjie Ghorbel",
-        "Djamila Aouada"
-      ],
-      "title": "LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection",
-      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Inder Pal Singh", "Enjie Ghorbel", "Anis Kacem", "Arunkumar Rathinam", "Djamila Aouada"],
-      "title": "Discriminator-free unsupervised domain adaptation for multi-label image classification",
-      "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer \u2026, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Nilotpal Sinha",
-        "Abd El Rahman Shabayek",
-        "Anis Kacem",
-        "Peyman Rostami",
-        "Carl Shneider",
-        "Djamila Aouada"
-      ],
-      "title": "Hardware aware evolutionary neural architecture search using representation similarity metric",
-      "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer \u2026, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Mohamed Adel Musallam", "Vincent Gaudilli\u00e8re", "Djamila Aouada"],
-      "title": "Self-Supervised Learning for Place Representation Generalization across Appearance Changes",
-      "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer \u2026, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Arunkumar Rathinam", "Haytam Qadadri", "Djamila Aouada"],
-      "title": "Spades: A realistic spacecraft pose estimation dataset using event sensing",
-      "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA), 11760 \u2026, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Marcella Astrid", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Statistics-Aware Audio-Visual Deepfake Detector",
-      "venue": "2024 IEEE International Conference on Image Processing (ICIP), 2557-2563, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Kseniya Cherenkova",
-        "Elona Marcelle Eug\u00e9nie DUPONT",
-        "Anis Kacem",
-        "Gleb Gusev",
-        "Djamila Aouada"
-      ],
-      "title": "Spelsnet: Surface primitive elements segmentation by b-rep graph structure supervision",
-      "venue": "The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Nilotpal Sinha", "Peyman Rostami", "Abd El Rahman Shabayek", "Anis Kacem", "Djamila Aouada"],
-      "title": "Multi-Objective Hardware Aware Neural Architecture Search using Hardware Cost Diversity",
-      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Jose Angel SOSA MARTINEZ",
-        "Mohamed Aloulou",
-        "Danila Rukhovich",
-        "Rim Sleimi",
-        "Boonyarit Changaival",
-        "Anis Kacem",
-        "Djamila Aouada"
-      ],
-      "title": "How Effective is Pre-training of Large Masked Autoencoders for Downstream Earth Observation Tasks?",
-      "venue": "35th British Machine Vision Conference Workshop Proceedings, BMVC Workshop 2024, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Marcella Astrid", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Targeted Augmented Data for Audio Deepfake Detection",
-      "venue": "2024 32nd European Signal Processing Conference (EUSIPCO), 346-350, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Nesryne Mejri", "Pavel Chernakov", "Polina Kuleshova", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Facial Region-Based Ensembling for Unsupervised Temporal Deepfake Localization",
-      "venue": "2024 IEEE International Conference on Multimedia and Expo (ICME), 1-6, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Mohammad Sadil Khan",
-        "Elona Marcelle Eug\u00e9nie DUPONT",
-        "Sk Aziz Ali",
-        "Kseniya Cherenkova",
-        "Anis Kacem",
-        "Djamila Aouada"
-      ],
-      "title": "CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention",
-      "venue": "CVF Conference on Computer Vision and Pattern Recognition, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-
-  
-    {
-      "authors": [
-        "Dimitrios Mallis",
-        "Ali Sk Aziz",
-        "Elona Dupont",
-        "Kseniya Cherenkova",
-        "Ahmet Serdar Karadeniz",
-        "Mohammad Sadil Khan",
-        "Anis Kacem",
-        "Gleb Gusev",
-        "Djamila Aouada"
-      ],
-      "title": "SHARP Challenge 2023: Solving CAD History and pArameters Recovery from Point clouds and 3D scans. Overview, Datasets, Metrics, and Baselines.",
-      "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision \u2026, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Kseniya Cherenkova",
-        "Elona Dupont",
-        "Anis Kacem",
-        "Ilya Arzhannikov",
-        "Gleb Gusev",
-        "Djamila Aouada"
-      ],
-      "title": "Sepicnet: Sharp edges recovery by parametric inference of curves in 3d shapes",
-      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Inder Pal Singh", "Nesryne Mejri", "Van Dat Nguyen", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Multi-label deepfake classification",
-      "venue": "2023 IEEE 25th International Workshop on Multimedia Signal Processing (MMSP \u2026, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Miguel Olivares-Mendez",
-        "Mohatashem Reyaz Makhdoomia",
-        "Vivek Muralidharana",
-        "Zhanna Bokala",
-        "Del Castillob",
-        "Miguel Ortiz",
-        "Vincent Gaudilliereb",
-        "Leo Paulyb",
-        "Olivia Borguec",
-        "Mohammadamin Alandihallajc",
-        "Jan Thoemel",
-        "Ernest Skrzypczyk",
-        "Arunkumar Rathinam",
-        "Kuldeep Rambhai Barad",
-        "Abd El Rahman Shabayek",
-        "Andreas Hein",
-        "Djamila Aouada",
-        "Carol Martinez"
-      ],
-      "title": "Establishing a multi-functional space operations emulation facility: Insights from the zero-g lab",
-      "venue": "Internal, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Vincent Gaudilli\u00e8re",
-        "Leo Pauly",
-        "Arunkumar Rathinam",
-        "Albert Garcia Sanchez",
-        "Mohamed Adel Musallam",
-        "Djamila Aouada"
-      ],
-      "title": "3d-aware object localization using gaussian implicit occupancy function",
-      "venue": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems \u2026, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Sk Aziz Ali", "Djamila Aouada", "Gerd Reis", "Didier Stricker"],
-      "title": "DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport",
-      "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision \u2026, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Joe Lorentz", "Thomas Hartmann", "Assaad Moawad", "Djamila Aouada"],
-      "title": "Industrial defect detection on the edge with deep learning over scarcely labeled and extremely imbalanced data",
-      "venue": "2023 IEEE International Conference on Omni-layer Intelligent Systems (COINS \u2026, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Carl Shneider",
-        "Nilotpal Sinha",
-        "Michele Lynn Jamrozik",
-        "Marcella Astrid",
-        "Peyman Rostami Abendansari",
-        "Anis Kacem",
-        "Abd El Rahman Shabayek",
-        "Djamila Aouada"
-      ],
-      "title": "Compression of Deep Neural Networks for Space Autonomous Systems",
-      "venue": "Luxembourg Space Resources Week 2023, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Elona Dupont",
-        "Inder Pal Singh",
-        "Laura Fuentes",
-        "Sk Aziz Ali",
-        "Anis Kacem",
-        "Enjie Ghorbel",
-        "Djamila Aouada"
-      ],
-      "title": "You Can Dance! Generating Music-Conditioned Dances on Real 3D Scans.",
-      "venue": "Proceedings of the 18th International Joint Conference on Computer Vision \u2026, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Mohamed Adel Musallam",
-        "Vincent Gaudilliere",
-        "Miguel Ortiz Del Castillo",
-        "Kassem Al Ismaeil",
-        "Djamila Aouada"
-      ],
-      "title": "Leveraging equivariant features for absolute pose regression",
-      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Elona Dupont",
-        "Kseniya Cherenkova",
-        "Anis Kacem",
-        "Sk Aziz Ali",
-        "Ilya Arzhannikov",
-        "Gleb Gusev",
-        "Djamila Aouada"
-      ],
-      "title": "Cadops-net: Jointly learning cad operation types and steps from boundary-representations",
-      "venue": "2022 International Conference on 3D Vision (3DV), 114-123, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Mohamed Adel Musallam",
-        "Arunkumar Rathinam",
-        "Vincent Gaudilli\u00e8re",
-        "Miguel Ortiz del Castillo",
-        "Djamila Aouada"
-      ],
-      "title": "CubeSat-CDT: a cross-domain dataset for 6-DoF trajectory estimation of a symmetric spacecraft",
-      "venue": "European Conference on Computer Vision, 112-126, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Inder Pal Singh", "Enjie Ghorbel", "Oyebade Oyedotun", "Djamila Aouada"],
-      "title": "Multi label image classification using adaptive graph convolutional networks (ml-agcn)",
-      "venue": "2022 IEEE International Conference on Image Processing (ICIP), 1806-1810, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Inder Pal Singh", "Oyebade Oyedotun", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Iml-gcn: Improved multi-label graph convolutional network for efficient yet precise image classification",
-      "venue": "AAAI-22 Workshop Program-Deep Learning on Graphs: Methods and Applications, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Arunkumar Rathinam", "Vincent Gaudilliere", "Leo Pauly", "Djamila Aouada"],
-      "title": "Pose estimation of a known texture-less space target using convolutional neural networks",
-      "venue": "73rd International Astronautical Congress, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Djamila Aouada"],
-      "title": "A closer look at autoencoders for unsupervised anomaly detection",
-      "venue": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and \u2026, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Anis Kacem", "Kseniya Cherenkova", "Djamila Aouada"],
-      "title": "Disentangled face identity representations for joint 3D face recognition and neutralisation",
-      "venue": "2022 8th International Conference on Virtual Reality (ICVR), 438-443, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Konstantinos Papadopoulos", "Anis Kacem", "Djamila Aouada"],
-      "title": "Face-GCN: A graph convolutional network for 3D dynamic face recognition",
-      "venue": "2022 8th International Conference on Virtual Reality (ICVR), 454-458, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Ahmet Serdar Karadeniz", "Sk Aziz Ali", "Anis Kacem", "Elona Dupont", "Djamila Aouada"],
-      "title": "Tscom-net: Coarse-to-fine 3d textured shape completion network",
-      "venue": "European Conference on Computer Vision, 289-306, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Michele Lynn Jamrozik", "Vincent Gaudilliere", "Mohamed Adel Mohamed Ali", "Djamila Aouada"],
-      "title": "Image enhancement for space surveillance and tracking",
-      "venue": "International Astronautical Congress, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Mohamed Adel Mohamed Ali",
-        "Arunkumar Rathinam",
-        "Vincent Gaudilliere",
-        "Miguel Ortiz Del Castillo",
-        "Djamila Aouada"
-      ],
-      "title": "CubeSat-CDT: A Cross-Domain Dataset for 6-DoF Trajectory Estimation of a Symmetric Spacecraft",
-      "venue": "Proceedings of the 17th European Conference on Computer Vision Workshops \u2026, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Joe Lorentz", "Assaad Moawad", "Thomas Hartmann", "Djamila Aouada"],
-      "title": "Profiling the real world potential of neural network compression",
-      "venue": "2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS \u2026, 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Mohamed Adel Mohamed Ali",
-        "Vincent Gaudilliere",
-        "Miguel Ortiz Del Castillo",
-        "Kassem Al Ismaeil",
-        "Djamila Aouada"
-      ],
-      "title": "Leveraging Equivariant Features for Absolute Pose Regression",
-      "venue": "IEEE Conference on Computer Vision and Pattern Recognition., 2022",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Miguel Ortiz del Castillo",
-        "Jan Thoemel",
-        "Arunkumar Rathinam",
-        "Loveneesh Rana",
-        "Vincent Gaudilliere",
-        "Olivia Borgue",
-        "Andreas Hein",
-        "Djamila Aouada"
-      ],
-      "title": "Compact Infrared Payload for Anomaly Detection on Board",
-      "venue": "",
-      "year": 2022,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Albert Garcia",
-        "Mohamed Adel Musallam",
-        "Vincent Gaudilliere",
-        "Enjie Ghorbel",
-        "Kassem Al Ismaeil",
-        "Marcos Perez",
-        "Djamila Aouada"
-      ],
-      "title": "Lspnet: A 2d localization-oriented spacecraft pose estimation neural network",
-      "venue": "Proceedings of the IEEE/CVF conference on computer vision and pattern \u2026, 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Mohamed Adel Musallam",
-        "Vincent Gaudilliere",
-        "Enjie Ghorbel",
-        "Kassem Al Ismaeil",
-        "Marcos Damian Perez",
-        "Michel Poucet",
-        "Djamila Aouada"
-      ],
-      "title": "Spacecraft recognition leveraging knowledge of space environment: simulator, dataset, competition design and analysis",
-      "venue": "2021 IEEE International Conference on Image Processing Challenges (ICIPC), 11-15, 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
-
-    {
-      "authors": ["Joe Lorentz", "Thomas Hartmann", "Assaad Moawad", "Francois Fouquet", "Djamila Aouada"],
-      "title": "Explaining defect detection with saliency maps",
-      "venue": "International Conference on Industrial, Engineering and Other Applications \u2026, 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
- 
-    {
-      "authors": [
-        "Mohamed Adel Musallam",
-        "Miguel Ortiz Del Castillo",
-        "Kassem Al Ismaeil",
-        "Marcos Damian Perez",
-        "Djamila Aouada"
-      ],
-      "title": "Leveraging temporal information for 3d trajectory estimation of space objects",
-      "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision \u2026, 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Renato Baptista", "Alexandre Saint", "Kassem Al Ismaeil", "Djamila Aouada"],
-      "title": "Towards generalization of 3d human pose estimation in the wild",
-      "venue": "Pattern Recognition. ICPR International Workshops and Challenges: Virtual \u2026, 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Anis Kacem", "Hamza Ben Abdesslam", "Kseniya Cherenkova", "Djamila Aouada"],
-      "title": "Space-time triplet loss network for dynamic 3D face verification",
-      "venue": "International Conference on Pattern Recognition, 82-90, 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Revisiting the Training of Very Deep Neural Networks without Skip Connections",
-      "venue": "2020 25th International Conference on Pattern Recognition (ICPR), 2724-2731, 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Albert Garcia Sanchez",
-        "Mohamed Adel Mohamed Ali",
-        "Vincent Gaudilliere",
-        "Enjie Ghorbel",
-        "Kassem Al Ismaeil",
-        "Marcos Perez",
-        "Djamila Aouada"
-      ],
-      "title": "LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network",
-      "venue": "Proceedings of Conference on Computer Vision and Pattern Recognition Workshops, 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Miguel Ortiz Del Castillo",
-        "Mohamed Adel Mohamed Ali",
-        "Michele Lynn Jamrozik",
-        "Vincent Gaudilliere",
-        "Djamila Aouada"
-      ],
-      "title": "Deep Learning-based Image Enhancement for Space Applications",
-      "venue": "ESA EO \u03a6-WEEK, 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Mohamed Adel Mohamed Ali",
-        "Vincent Gaudilliere",
-        "Enjie Ghorbel",
-        "Kassem Al Ismaeil",
-        "Marcos Perez",
-        "Michel Poucet",
-        "Djamila Aouada"
-      ],
-      "title": "SPACECRAFT RECOGNITION LEVERAGING KNOWLEDGE OF SPACE ENVIRONMENT: SIMULATOR, DATASET, COMPETITION DESIGN, AND ANALYSIS",
-      "venue": "2021 IEEE International Conference on Image Processing (ICIP), 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Oyebade Oyedotun", "Djamila Aouada", "Bjorn Ottersten"],
-      "title": "Structured compression of deep neural networks with debiased elastic group lasso",
-      "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer \u2026, 2020",
-      "year": 2020,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Kseniya Cherenkova", "Djamila Aouada", "Gleb Gusev"],
-      "title": "Pvdeconv: Point-voxel deconvolution for autoencoding cad construction in 3d",
-      "venue": "2020 IEEE International Conference on Image Processing (ICIP), 2741-2745, 2020",
-      "year": 2020,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Going deeper with neural networks without skip connections",
-      "venue": "2020 IEEE International Conference on Image Processing (ICIP), 1756-1760, 2020",
-      "year": 2020,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Alexandre Saint", "Anis Kacem", "Kseniya Cherenkova", "Djamila Aouada"],
-      "title": "3dbooster: 3d body shape and texture recovery",
-      "venue": "Computer Vision\u2013ECCV 2020 Workshops: Glasgow, UK, August 23\u201328, 2020 \u2026, 2020",
-      "year": 2020,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Konstantinos Papadopoulos",
-        "Enjie Ghorbel",
-        "Oyebade Oyedotun",
-        "Djamila Aouada",
-        "Bj\u00f6rn Ottersten"
-      ],
-      "title": "Deepvi: A novel framework for learning deep view-invariant human action representations using a single rgb camera",
-      "venue": "2020 15th IEEE International Conference on Automatic Face and Gesture \u2026, 2020",
-      "year": 2020,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Alexandre Saint",
-        "Anis Kacem",
-        "Kseniya Cherenkova",
-        "Konstantinos Papadopoulos",
-        "Julian Chibane",
-        "Gerard Pons-Moll",
-        "Gleb Gusev",
-        "David Fofi",
-        "Djamila Aouada",
-        "Bj\u00f6rn Ottersten"
-      ],
-      "title": "Sharp 2020: The 1st shape recovery from partial textured 3d scans challenge results",
-      "venue": "Computer Vision\u2013ECCV 2020 Workshops: Glasgow, UK, August 23\u201328, 2020 \u2026, 2020",
-      "year": 2020,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Kseniya Cherenkova", "Gleb Gusev"],
-      "title": "3D sparse deformation signature for dynamic face recognition",
-      "venue": "2020 IEEE International Conference on Image Processing (ICIP), 2835-2839, 2020",
-      "year": 2020,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Kseniya Cherenkova", "Gleb Gusev", "Bj\u00f6rn Ottersten"],
-      "title": "3D deformation signature for dynamic face recognition",
-      "venue": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and \u2026, 2020",
-      "year": 2020,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Djamila Aouada"],
-      "title": "Why do deep neural networks with skip connections and concatenated hidden representations work?",
-      "venue": "Neural Information Processing: 27th International Conference, ICONIP 2020 \u2026, 2020",
-      "year": 2020,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Abd El Rahman Shabayek", "Djamila Aouada", "Kseniya Cherenkova", "Gleb Gusev"],
-      "title": "Towards automatic CAD modeling from 3D scan sketch based representation",
-      "venue": "Proceedings of the 15th International Joint Conference on Computer Vision \u2026, 2020",
-      "year": 2020,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Renato Baptista",
-        "Enjie Ghorbel",
-        "Konstantinos Papadopoulos",
-        "Girum G Demisse",
-        "Djamila Aouada",
-        "Bj\u00f6rn Ottersten"
-      ],
-      "title": "View-invariant action recognition from rgb data via 3d pose estimation",
-      "venue": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and \u2026, 2019",
-      "year": 2019,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Alejandro Correa Bahnsen", "Sergio Villegas", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Fraud detection by stacking cost-sensitive decision trees",
-      "venue": "Data Science for Cyber-Security, 251-266, 2019",
-      "year": 2019,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Alexandre Saint", "Kseniya Cherenkova", "Gleb Gusev", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Bodyfitr: robust automatic 3D human body fitting",
-      "venue": "2019 IEEE International Conference on Image Processing (ICIP), 484-488, 2019",
-      "year": 2019,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Enjie Ghorbel",
-        "Konstantinos Papadopoulos",
-        "Renato Baptista",
-        "Himadri Pathak",
-        "Girum Demisse",
-        "Djamila Aouada",
-        "Bj\u00f6rn Ottersten"
-      ],
-      "title": "A view-invariant framework for fast skeleton-based action recognition using a single rgb camera",
-      "venue": "14th International Joint Conference on Computer Vision, Imaging and Computer \u2026, 2019",
-      "year": 2019,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Konstantinos Papadopoulos",
-        "Enjie Ghorbel",
-        "Renato Baptista",
-        "Djamila Aouada",
-        "Bj\u00f6rn Ottersten"
-      ],
-      "title": "Two-stage rgb-based action detection using augmented 3d poses",
-      "venue": "Computer Analysis of Images and Patterns: 18th International Conference \u2026, 2019",
-      "year": 2019,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Mohamed Adel Musallam", "Renato Baptista", "Kassem Al Ismaeil", "Djamila Aouada"],
-      "title": "Temporal 3d human pose estimation for action recognition from arbitrary viewpoints",
-      "venue": "2019 International Conference on Computational Science and Computational \u2026, 2019",
-      "year": 2019,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Learning to fuse latent representations for multimodal data",
-      "venue": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and \u2026, 2019",
-      "year": 2019,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Mohamed Adel Musallam", "Renato Baptista", "Kassem Al Ismaeil", "Djamila Aouada"],
-      "title": "Temporal 3D Human Pose Estimation for Action Recognition from Arbitrary Viewpoints",
-      "venue": "6th Annual Conf. on Computational Science & Computational Intelligence, 2019",
-      "year": 2019,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "EMAN AHMED",
-        "ALEXANDRE SAINT",
-        "SHABAYEK ABDELRAHMAN",
-        "KSENIYA CHERENKOVA",
-        "RIG DAS",
-        "GLEB GUSEV",
-        "DJAMILA AOUADA"
-      ],
-      "title": "Supplementary material for: A survey on Deep Learning Advances on Different 3D Data Representations",
-      "venue": "",
-      "year": 2019,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Girum G Demisse", "Konstantinos Papadopoulos", "Djamila Aouada", "Bjorn Ottersten"],
-      "title": "Pose encoding for robust skeleton-based action recognition",
-      "venue": "Proceedings of the IEEE conference on computer vision and pattern \u2026, 2018",
-      "year": 2018,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Alexandre Saint",
-        "Eman Ahmed",
-        "Kseniya Cherenkova",
-        "Gleb Gusev",
-        "Djamila Aouada",
-        "Bjorn Ottersten"
-      ],
-      "title": "3dbodytex: Textured 3d body dataset",
-      "venue": "2018 International Conference on 3D Vision (3DV), 495-504, 2018",
-      "year": 2018,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Djamila Aouada", "Bjorn Ottersten"],
-      "title": "Improving the capacity of very deep networks with maxout units",
-      "venue": "2018 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2018",
-      "year": 2018,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Abd El Rahman Shabayek", "Djamila Aouada", "Bjorn Ottersten"],
-      "title": "Highway network block with gates constraints for training very deep networks",
-      "venue": "Proceedings of the IEEE Conference on Computer Vision and Pattern \u2026, 2018",
-      "year": 2018,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Renato Baptista", "Girum Demisse", "Djamila Aouada", "Bjorn Ottersten"],
-      "title": "Deformation-Based Abnormal Motion Detection Using 3D Skeletons",
-      "venue": "IEEE International Conference on Image Processing Theory, Tools and \u2026, 2018",
-      "year": 2018,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Renato Baptista", "Enjie Ghorbel", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Key-skeleton based feedback tool for assisting physical activity",
-      "venue": "2018 Zooming Innovation in Consumer Technologies Conference (ZINC), 175-176, 2018",
-      "year": 2018,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Konstantinos Papadopoulos", "Michel Antunes", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "A revisit of action detection using improved trajectories",
-      "venue": "2018 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2018",
-      "year": 2018,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Renato Baptista", "Michel Antunes", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Anticipating suspicious actions using a small dataset of action templates",
-      "venue": "13th International Joint Conference on Computer Vision, Imaging and Computer \u2026, 2018",
-      "year": 2018,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Girum Demisse", "Abd El Rahman Shabayek", "Djamila Aouada", "Bjorn Ottersten"],
-      "title": "Facial expression recognition via joint deep learning of rgb-depth map latent representations",
-      "venue": "Proceedings of the IEEE international conference on computer vision \u2026, 2017",
-      "year": 2017,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Michel Antunes", "Joao P Barreto", "Djamila Aouada", "Bjorn Ottersten"],
-      "title": "Unsupervised vanishing point detection and camera calibration from a single manhattan image with radial distortion",
-      "venue": "Proceedings of the IEEE conference on computer vision and pattern \u2026, 2017",
-      "year": 2017,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Konstantinos Papadopoulos", "Michel Antunes", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Enhanced trajectory-based action recognition using human pose",
-      "venue": "2017 IEEE international conference on image processing (ICIP), 1807-1811, 2017",
-      "year": 2017,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Renato Baptista", "Michel Goncalves Almeida Antunes", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Video-based feedback for assisting physical activity",
-      "venue": "12th International Joint Conference on Computer Vision, Imaging and Computer \u2026, 2017",
-      "year": 2017,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Renato Baptista", "Michel Antunes", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Flexible feedback system for posture monitoring and correction",
-      "venue": "2017 Fourth International Conference on Image Information Processing (ICIIP \u2026, 2017",
-      "year": 2017,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Abd El Rahman Shabayek", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Training very deep networks via residual learning with stochastic input shortcut connections",
-      "venue": "Neural Information Processing: 24th International Conference, ICONIP 2017 \u2026, 2017",
-      "year": 2017,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Alexandre Fabian A Saint",
-        "Abd El Rahman Shabayek",
-        "Djamila Aouada",
-        "Bj\u00f6rn Ottersten",
-        "Kseniya Cherenkova",
-        "Gleb Gusev"
-      ],
-      "title": "Towards automatic human body model fitting to a 3d scan",
-      "venue": "8th International Conference and Exhibition on 3D Body Scanning and \u2026, 2017",
-      "year": 2017,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Alexandre Saint", "Bjorn Ottersten"],
-      "title": "Deformation transfer of 3d human shapes and poses on manifolds",
-      "venue": "2017 IEEE International Conference on Image Processing (ICIP), 220-224, 2017",
-      "year": 2017,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Alejandro Correa Bahnsen", "Sergio Villegas", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Fraud Detection by Stacking Cost-Sensitive Decision Trees",
-      "venue": "Data Science for Cyber-Security (DSCS), London 25-27 September, 2017",
-      "year": 2017,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Facial Expression Recognition via Joint Deep Learning of RGB-Depth Map Latent Representations",
-      "venue": "",
-      "year": 2017,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Michel Antunes", "Renato Baptista", "Girum Demisse", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Visual and human-interpretable feedback for assisting physical activity",
-      "venue": "Computer Vision\u2013ECCV 2016 Workshops: Amsterdam, The Netherlands, October 8 \u2026, 2016",
-      "year": 2016,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Girum G Demisse", "Djamila Aouada", "Bjorn Ottersten"],
-      "title": "Similarity metric for curved shapes in euclidean space",
-      "venue": "Proceedings of the IEEE Conference on Computer Vision and Pattern \u2026, 2016",
-      "year": 2016,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Ignacio Rocco Spremolla", "Michel Antunes", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "RGB-D and thermal sensor fusion-application in person tracking",
-      "venue": "International Conference on Computer Vision Theory and Applications 4, 610-617, 2016",
-      "year": 2016,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Michel Antunes", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "A revisit to human action recognition from depth sequences: Guided svm-sampling for joint selection",
-      "venue": "2016 IEEE Winter Conference on Applications of Computer Vision (WACV), 1-8, 2016",
-      "year": 2016,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Ignacio Rocco", "Michel Goncalves Almeida Antunes", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "RGB-D and Thermal Sensor Fusion",
-      "venue": "11th International Joint Conference on Computer Vision, Imaging and Computer \u2026, 2016",
-      "year": 2016,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Alejandro Correa Bahnsen", "Djamila Aouada", "Aleksandar Stojanovic", "Bj\u00f6rn Ottersten"],
-      "title": "Detecting credit card fraud using periodic features",
-      "venue": "2015 IEEE 14th international conference on machine learning and applications \u2026, 2015",
-      "year": 2015,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Kassem Al Ismaeil", "Djamila Aouada", "Thomas Solignac", "Bruno Mirbach", "Bjorn Ottersten"],
-      "title": "Real-time non-rigid multi-frame depth video super-resolution",
-      "venue": "Proceedings of the IEEE Conference on Computer Vision and Pattern \u2026, 2015",
-      "year": 2015,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Kassem Al Ismaeil", "Bj\u00f6rn Ottersten"],
-      "title": "Patch-based Statistical Performance Analysis of Upsampling for Precise Super\u2013Resolution",
-      "venue": "11th International Joint Conference on Computer Vision, Imaging and Computer \u2026, 2015",
-      "year": 2015,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Girum G Demisse", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Template-based statistical shape modelling on deformation space",
-      "venue": "2015 IEEE International Conference on Image Processing (ICIP), 4386-4390, 2015",
-      "year": 2015,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Alejandro Correa Bahnsen", "Djamila Aouada", "Aleksandar Stojanovic", "Bj\u00f6rn Ottersten"],
-      "title": "Detecting credit card fraud using periodic features",
-      "venue": "14th IEEE International Conference on Machine Learning and Applications, 2015",
-      "year": 2015,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Hassan Afzal", "Djamila Aouada", "Fran\u00e7ois Destelle", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "View-independent enhanced 3d reconstruction of non-rigidly deforming objects",
-      "venue": "Computer Analysis of Images and Patterns: 16th International Conference \u2026, 2015",
-      "year": 2015,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Alejandro Correa Bahnsen", "Djamia Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Example-dependent cost-sensitive logistic regression for credit scoring",
-      "venue": "2014 13th International conference on machine learning and applications, 263-269, 2014",
-      "year": 2014,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Alejandro Correa Bahnsen", "Aleksandar Stojanovic", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Improving credit card fraud detection with calibrated probabilities",
-      "venue": "Proceedings of the 2014 SIAM international conference on data mining, 677-685, 2014",
-      "year": 2014,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Hassan Afzal", "Djamila Aouada", "David Font", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "Rgb-d multi-view system calibration for full 3d scene reconstruction",
-      "venue": "2014 22nd International Conference on Pattern Recognition, 2459-2464, 2014",
-      "year": 2014,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["H. Afzal", "K. Al Ismaeil", "D. Aouada", "F. Destelle", "Bruno Mirbach", "B. Ottersten"],
-      "title": "KinectDeform: Enhanced 3D Reconstruction of Non-Rigidly Deforming Objects",
-      "venue": "3DV Workshop on Dynamic Shape Measurement and Analysis, 2014",
-      "year": 2014,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Kassem Al Ismaeil", "Kedija Kedir Idris", "Bj\u00f6rn Ottersten"],
-      "title": "Surface UP-SR for an improved face recognition using low resolution depth cameras",
-      "venue": "2014 11th IEEE International Conference on Advanced Video and Signal Based \u2026, 2014",
-      "year": 2014,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Dalia Khader"],
-      "title": "SPN2: Single-sided privacy preserving nearest neighbor and its application to face recognition",
-      "venue": "2014 11th IEEE International Conference on Advanced Video and Signal Based \u2026, 2014",
-      "year": 2014,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Alejandro Correa Bahnsen", "Aleksandar Stojanovic", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Cost sensitive credit card fraud detection using Bayes minimum risk",
-      "venue": "2013 12th international conference on machine learning and applications 1 \u2026, 2013",
-      "year": 2013,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Kassem Al Ismaeil", "Djamila Aouada", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "Dynamic super resolution of depth sequences with non-rigid motions",
-      "venue": "2013 IEEE International Conference on Image Processing, 660-664, 2013",
-      "year": 2013,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Kassem Al Ismaeil", "Djamila Aouada", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "Depth super-resolution by enhanced shift and add",
-      "venue": "Computer Analysis of Images and Patterns: 15th International Conference \u2026, 2013",
-      "year": 2013,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Kassem Al Ismaeil", "Djamila Aouada", "Bj\u00f6rn Ottersten", "Bruno Mirbach"],
-      "title": "Multi-frame super-resolution by enhanced shift & add",
-      "venue": "2013 8th International Symposium on Image and Signal Processing and Analysis \u2026, 2013",
-      "year": 2013,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Bahnsen Alejandro Correa", "A Stojanovic", "D Aouada", "B Ottersten"],
-      "title": "Cost sensitive credit card fraud detection using Bayes minimum risk. IEE",
-      "venue": "Proceedings of the 2th International Conference on Machine Learning and \u2026, 2013",
-      "year": 2013,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Frederic Garcia",
-        "Djamila Aouada",
-        "Hashim Kemal Abdella",
-        "Thomas Solignac",
-        "Bruno Mirbach",
-        "Bj\u00f6rn Ottersten"
-      ],
-      "title": "Depth enhancement by fusion for passive and active sensing",
-      "venue": "European Conference on Computer Vision, 506-515, 2012",
-      "year": 2012,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Frederic Garcia", "Djamila Aouada", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "Spatio-temporal ToF data enhancement by fusion",
-      "venue": "2012 19th IEEE International Conference on Image Processing, 981-984, 2012",
-      "year": 2012,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Kassem Al-Ismaeil", "Djamila Aouada", "Bj\u00f6rn Ottersten", "Bruno Mirbach"],
-      "title": "Bilateral filter evaluation based on exponential kernels",
-      "venue": "Proceedings of the 21st International Conference on Pattern Recognition \u2026, 2012",
-      "year": 2012,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Frederic Garcia", "Djamila Aouada", "Bruno Mirbach", "Thomas Solignac", "Bj\u00f6rn Ottersten"],
-      "title": "A new multi-lateral filter for real-time depth enhancement",
-      "venue": "2011 8th IEEE International Conference on Advanced Video and Signal Based \u2026, 2011",
-      "year": 2011,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Shishir Nagaraja", "Peter Schaffer", "Djamila Aouada"],
-      "title": "Who clicks there! anonymising the photographer in a camera saturated society",
-      "venue": "Proceedings of the 10th annual ACM workshop on Privacy in the electronic \u2026, 2011",
-      "year": 2011,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Frederic Garcia", "Djamila Aouada", "Bruno Mirbach", "Thomas Solignac", "Bj\u00f6rn Ottersten"],
-      "title": "Real-time hybrid ToF multi-camera rig fusion system for depth map enhancement",
-      "venue": "CVPR 2011 WORKSHOPS, 1-8, 2011",
-      "year": 2011,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Frederic Garcia", "Djamila Aouada", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "A new 1-D colour model and its application to image filtering",
-      "venue": "2011 7th International Symposium on Image and Signal Processing and Analysis \u2026, 2011",
-      "year": 2011,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Frederic Garcia", "Djamila Aouada", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "Spiral colour model: Reduction from 3-D to 2-D",
-      "venue": "2011 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2011",
-      "year": 2011,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Yuliy Baryshnikov", "Hamid Krim"],
-      "title": "Mahalanobis-based adaptive nonlinear dimension reduction",
-      "venue": "2010 20th International Conference on Pattern Recognition, 742-745, 2010",
-      "year": 2010,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Hamid Krim"],
-      "title": "Meaningful 3D shape partitioning using Morse functions",
-      "venue": "2009 16th IEEE international conference on image processing (ICIP), 417-420, 2009",
-      "year": 2009,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Hamid Krim"],
-      "title": "Novel similarity invariant for space curves using turning angles and its application to object recognition",
-      "venue": "2009 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2009",
-      "year": 2009,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada"],
-      "title": "Geometric, statistical, and topological modeling of intrinsic data manifolds: Application to three-dimensional shapes",
-      "venue": "North Carolina State University, 2009",
-      "year": 2009,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "David W Dreisigmeyer", "Hamid Krim"],
-      "title": "Geometric modeling of rigid and non-rigid 3d shapes using the global geodesic function",
-      "venue": "2008 IEEE Computer Society Conference on Computer Vision and Pattern \u2026, 2008",
-      "year": 2008,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Hamid Krim"],
-      "title": "3D object recognition using fully intrinsic skeletal graphs",
-      "venue": "Computational Imaging VI 6814, 75-82, 2008",
-      "year": 2008,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Shuo Feng", "Hamid Krim"],
-      "title": "Statistical analysis of the global geodesic function for 3D object classification",
-      "venue": "2007 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2007",
-      "year": 2007,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Shuo Feng", "Djamila Aouada", "Hamid Krim", "Irina Kogan"],
-      "title": "3D mixed invariant and its application on object classification",
-      "venue": "2007 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2007",
-      "year": 2007,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Alexandre Saint",
-        "Abd El Rahman Shabayek",
-        "Kseniya Cherenkova",
-        "Gleb Gusev",
-        "Djamila Aouada",
-        "Björn Ottersten"
-      ],
-      "title": "BODYFITR: ROBUST AUTOMATIC 3D HUMAN BODY FITTING",
-      "venue": "",
-      "year": null,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Dalia Khader"],
-      "title": "SPN 2: Single-Sided Privacy Preserving Nearest Neighbor",
-      "venue": "",
-      "year": null,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Dalia Khader", "Djamila Aouada"],
-      "title": "A One-Round Privacy Preserving Face Recognition Protocol",
-      "venue": "",
-      "year": null,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Kassem Al Ismaeil ", "Kedija Kedir Idris", "Björn Ottersten"],
-      "title": "Surface UP-SR for an Improved Face Recognition Using Low Resolution Depth Cameras",
-      "venue": "",
-      "year": null,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "D Dreisigmeyer", "Hamid Krim"],
-      "title": "Object geometric modeling by whitney embedding of iso-geodesic curves",
-      "venue": "IEEE conference on Computer Vision and Pattern Recognition. CVPR 8, 0",
-      "year": null,
-      "type": "oral",
-      "presentation": ""
-    }
-  ],
-  "journals": [
-        {
-      "authors": ["Alejandro Correa Bahnsen", "Djamila Aouada", "Aleksandar Stojanovic", "Bj\u00f6rn Ottersten"],
-      "title": "Feature engineering strategies for credit card fraud detection",
-      "venue": "Expert Systems with Applications",
-      "volume": "51",
-      "year": 2016,
-      "pages": "134-142",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0957417415008386"
-    },
-        {
-      "authors": ["Frederic Garcia", "Djamila Aouada", "Thomas Solignac", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "Real\u2010time depth enhancement by fusion for RGB\u2010D cameras",
-      "venue": "IET Computer Vision",
-      "volume": "7",
-      "year": 2013,
-      "pages": "335-345",
-      "impact_factor": null,
-      "doi": "10.1049/iet-cvi.2012.0289",
-      "url": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-cvi.2012.0289"
-    },
-        {
-      "authors": [
-        "Marcos Perez",
-        "Mohamed Adel Mohamed Ali",
-        "Albert Garcia Sanchez",
-        "Enjie Ghorbel",
-        "Kassem Al Ismaeil",
-        "Paul Le Henaff",
-        "Djamila Aouada"
-      ],
-      "title": "Detection & identification of on-orbit objects using machine learning",
-      "venue": "European conference on space debris 8 (1), 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
-       {
-      "authors": ["Nesryne Mejri", "Konstantinos Papadopoulos", "Djamila Aouada"],
-      "title": "Leveraging high-frequency components for deepfake detection",
-      "venue": "2021 IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP \u2026, 2021",
-      "year": 2021,
-      "type": "oral",
-      "presentation": ""
-    },
-        {
-      "authors": [
-        "Leo Pauly",
-        "Michele Lynn Jamrozik",
-        "Miguel Ortiz Del Castillo",
-        "Olivia Borgue",
-        "Inder Pal Singh",
-        "Mohatashem Reyaz Makhdoomi",
-        "Olga-Orsalia Christidi-Loumpasefski",
-        "Vincent Gaudilli\u00e8re",
-        "Carol Martinez",
-        "Arunkumar Rathinam",
-        "Andreas Hein",
-        "Miguel Olivares-Mendez",
-        "Djamila Aouada"
-      ],
-      "title": "Lessons from a space lab: an image acquisition perspective",
-      "venue": "International Journal of Aerospace Engineering",
-      "volume": "2023",
-      "year": 2023,
-      "pages": "9944614",
-      "impact_factor": null,
-      "doi": "10.1155/2023/9944614",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2023/9944614"
-    },
-      {
-      "authors": ["Nesryne Mejri", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Untag: Learning generic features for unsupervised type-agnostic deepfake detection",
-      "venue": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and \u2026, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-        {
-      "authors": [
-        "Leo Pauly",
-        "Wassim Rharbaoui",
-        "Carl Shneider",
-        "Arunkumar Rathinam",
-        "Vincent Gaudilli\u00e8re",
-        "Djamila Aouada"
-      ],
-      "title": "A survey on deep learning-based monocular spacecraft pose estimation: Current state, limitations and prospects",
-      "venue": "Acta Astronautica, 2023",
-      "year": 2023,
-      "type": "oral",
-      "presentation": ""
-    },
-      {
-      "authors": [
-        "Nesryne Mejri",
-        "Laura Lopez-Fuentes",
-        "Kankana Roy",
-        "Pavel Chernakov",
-        "Enjie Ghorbel",
-        "Djamila Aouada"
-      ],
-      "title": "Unsupervised anomaly detection in time-series: An extensive evaluation and analysis of state-of-the-art methods",
-      "venue": "Expert Systems with Applications, 124922, 2024",
-      "year": 2024,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": [
-        "Abdelrahman Shabayek",
-        "Arunkumar Rathinam",
-        "Matthieu Ruthven",
-        "Djamila Aouada",
-        "Tazdin Amietszajew"
-      ],
-      "title": "AI-enabled thermal monitoring of commercial (PHEV) Li-ion pouch cells with Feature-Adapted Unsupervised Anomaly Detection",
-      "venue": "Journal of Power Sources",
-      "volume": "629",
-      "year": 2025,
-      "pages": "235982",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0378775324019347"
-    },
-    {
-      "authors": ["Dat Nguyen", "Marcella Astrid", "Anis Kacem", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "Vulnerability-Aware Spatio-Temporal Learning for Generalizable and Interpretable Deepfake Video Detection",
-      "venue": "arXiv preprint arXiv:2501.01184",
-      "volume": "",
-      "year": 2025,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2501.01184"
-    },
-    {
-      "authors": ["Inder Pal Singh", "Enjie Ghorbel", "Oyebade Oyedotun", "Djamila Aouada"],
-      "title": "Multi-label image classification using adaptive graph convolutional networks: from a single domain to multiple domains",
-      "venue": "Computer Vision and Image Understanding",
-      "volume": "247",
-      "year": 2024,
-      "pages": "104062",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S1077314224001437"
-    },
-    {
-      "authors": [
-        "Dat Nguyen",
-        "Nesryne Mejri",
-        "Inder Pal Singh",
-        "Polina Kuleshova",
-        "Marcella Astrid",
-        "Anis Kacem",
-        "Enjie Ghorbel",
-        "Djamila Aouada"
-      ],
-      "title": "LAA-Net: Localized Artifact Attention Network for High-Quality Deepfakes Detection",
-      "venue": "arXiv preprint arXiv:2401.13856",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2401.13856"
-    },
-    {
-      "authors": [
-        "Ashish Sinha",
-        "Jeremy Kawahara",
-        "Arezou Pakzad",
-        "Kumar Abhishek",
-        "Matthieu Ruthven",
-        "Enjie Ghorbel",
-        "Anis Kacem",
-        "Djamila Aouada",
-        "Ghassan Hamarneh"
-      ],
-      "title": "DermSynth3D: Synthesis of in-the-wild annotated dermatology images",
-      "venue": "Medical Image Analysis",
-      "volume": "95",
-      "year": 2024,
-      "pages": "103145",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S1361841524000707"
-    },
-    
-    
-    {
-      "authors": ["Dat Nguyen", "Marcella Astrid", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "FakeFormer: Efficient Vulnerability-Driven Transformers for Generalisable Deepfake Detection",
-      "venue": "arXiv preprint arXiv:2410.21964",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2410.21964"
-    },
-    {
-      "authors": ["Niki Maria Foteinopoulou", "Enjie Ghorbel", "Djamila Aouada"],
-      "title": "A Hitchhikers Guide to Fine-Grained Face Forgery Detection Using Common Sense Reasoning",
-      "venue": "arXiv preprint arXiv:2410.00485",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2410.00485"
-    },
-  
-    {
-      "authors": [
-        "Jan Thoemel",
-        "Konstantinos Kanavouras",
-        "Maanasa Sachidanand",
-        "Andreas Hein",
-        "Miguel Ortiz del Castillo",
-        "Leo Pauly",
-        "Arunkumar Rathinam",
-        "Djamila Aouada"
-      ],
-      "title": "Lean Demonstration of On-Board Thermal Anomaly Detection Using Machine Learning",
-      "venue": "Aerospace",
-      "volume": "11",
-      "year": 2024,
-      "pages": "523",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.mdpi.com/2226-4310/11/7/523"
-    },
-    {
-      "authors": [
-        "Dimitrios Mallis",
-        "Ahmet Serdar Karadeniz",
-        "Sebastian Cavada",
-        "Danila Rukhovich",
-        "Niki Foteinopoulou",
-        "Kseniya Cherenkova",
-        "Anis Kacem",
-        "Djamila Aouada"
-      ],
-      "title": "CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers?",
-      "venue": "arXiv preprint arXiv:2412.13810",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2412.13810"
-    },
-    {
-      "authors": [
-        "Danila Rukhovich",
-        "Elona Dupont",
-        "Dimitrios Mallis",
-        "Kseniya Cherenkova",
-        "Anis Kacem",
-        "Djamila Aouada"
-      ],
-      "title": "CAD-Recode: Reverse Engineering CAD Code from Point Clouds",
-      "venue": "arXiv preprint arXiv:2412.14042",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2412.14042"
-    },
-    {
-      "authors": [
-        "Arunkumar Rathinam",
-        "Leo Pauly",
-        "Wassim Rharbaoui",
-        "Anis Kacem",
-        "Vincent Gaudilli\u00e8re",
-        "Djamila Aouada"
-      ],
-      "title": "Hybrid Attention for Robust RGB-T Pedestrian Detection in Real-World Conditions",
-      "venue": "IEEE Robotics and Automation Letters",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ieeexplore.ieee.org/abstract/document/10759789/"
-    },
-    {
-      "authors": [
-        "Jose Sosa",
-        "Mohamed Aloulou",
-        "Danila Rukhovich",
-        "Rim Sleimi",
-        "Boonyarit Changaival",
-        "Anis Kacem",
-        "Djamila Aouada"
-      ],
-      "title": "How Effective is Pre-training of Large Masked Autoencoders for Downstream Earth Observation Tasks?",
-      "venue": "arXiv preprint arXiv:2409.18536",
-      "volume": "",
-      "year": 2024,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2409.18536"
-    },
-    {
-      "authors": ["Marcella Astrid", "Muhammad Zaigham Zaheer", "Djamila Aouada", "Seung-Ik Lee"],
-      "title": "Exploiting autoencoder\u2019s weakness to generate pseudo anomalies",
-      "venue": "Neural Computing and Applications",
-      "volume": "",
-      "year": 2024,
-      "pages": "1-17",
-      "impact_factor": null,
-      "doi": "10.1007/s00521-024-09790-z",
-      "url": "https://link.springer.com/article/10.1007/s00521-024-09790-z"
-    },
-    {
-      "authors": [
-        "Miguel Olivares-Mendez",
-        "Mohatashem Reyaz Makhdoomi",
-        "Bar\u0131\u015f Can Yal\u00e7\u0131n",
-        "Zhanna Bokal",
-        "Vivek Muralidharan",
-        "Miguel Ortiz Del Castillo",
-        "Vincent Gaudilliere",
-        "Leo Pauly",
-        "Olivia Borgue",
-        "Mohammadamin Alandihallaj",
-        "Jan Thoemel",
-        "Ernest Skrzypczyk",
-        "Arunkumar Rathinam",
-        "Kuldeep Rambhai Barad",
-        "Andreas M Hein",
-        "Djamila Aouada",
-        "Carol Martinez"
-      ],
-      "title": "Zero-G Lab: A multi-purpose facility for emulating space operations",
-      "venue": "Journal of Space Safety Engineering",
-      "volume": "10",
-      "year": 2023,
-      "pages": "509-521",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S2468896723000939"
-    },
-
-    {
-      "authors": ["Oyebade K Oyedotun", "Konstantinos Papadopoulos", "Djamila Aouada"],
-      "title": "A new perspective for understanding generalization gap of deep neural networks trained with large batch sizes",
-      "venue": "Applied Intelligence",
-      "volume": "53",
-      "year": 2023,
-      "pages": "15621-15637",
-      "impact_factor": null,
-      "doi": "10.1007/s10489-022-04230-8",
-      "url": "https://link.springer.com/article/10.1007/s10489-022-04230-8"
-    },
-    {
-      "authors": [
-        "Joe Lorentz",
-        "Thomas Hartmann",
-        "Assaad Moawad",
-        "Francois Fouquet",
-        "Djamila Aouada",
-        "Yves Le Traon"
-      ],
-      "title": "CalcGraph: taming the high costs of deep learning using models",
-      "venue": "Software and Systems Modeling",
-      "volume": "22",
-      "year": 2023,
-      "pages": "1151-1174",
-      "impact_factor": null,
-      "doi": "10.1007/s10270-022-01052-7",
-      "url": "https://link.springer.com/article/10.1007/s10270-022-01052-7"
-    },
-
-    {
-      "authors": ["Sk Aziz Ali", "Djamila Aouada", "Gerd Reis", "Didier Stricker"],
-      "title": "DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport",
-      "venue": "arXiv e-prints",
-      "volume": "",
-      "year": 2023,
-      "pages": "arXiv: 2308.07153",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230807153A/abstract"
-    },
-    {
-      "authors": ["Michele Jamrozik", "Vincent Gaudilli\u00e8re", "Mohamed Adel Musallam", "Djamila Aouada"],
-      "title": "Space Debris: Are Deep Learning-based Image Enhancements part of the Solution?",
-      "venue": "arXiv preprint arXiv:2308.00408",
-      "volume": "",
-      "year": 2023,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2308.00408"
-    },
-    {
-      "authors": ["Mohamed Adel MOHAMED ALI", "Vincent Gaudilliere", "Djamila Aouada"],
-      "title": "Self-Supervised Learning for Place Representation Generalization across Appearance Changes",
-      "venue": "Machine Vision and Applications",
-      "volume": "",
-      "year": 2023,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://orbilu.uni.lu/handle/10993/60008"
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Kassem Al Ismaeil", "Djamila Aouada"],
-      "title": "Why is everyone training very deep neural network with skip connections?",
-      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
-      "volume": "34",
-      "year": 2022,
-      "pages": "5961-5975",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ieeexplore.ieee.org/abstract/document/9669990/"
-    },
-    {
-      "authors": [
-        "Mohamed Adel Musallam",
-        "Vincent Gaudilliere",
-        "Miguel Ortiz del Castillo",
-        "Kassem Al Ismaeil",
-        "Djamila Aouada"
-      ],
-      "title": "Leveraging Equivariant Features for Absolute Pose Regression",
-      "venue": "arXiv e-prints",
-      "volume": "",
-      "year": 2022,
-      "pages": "arXiv: 2204.02163",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220402163A/abstract"
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Kassem Al Ismaeil", "Djamila Aouada"],
-      "title": "Training very deep neural networks: Rethinking the role of skip connections",
-      "venue": "Neurocomputing",
-      "volume": "441",
-      "year": 2021,
-      "pages": "105-117",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0925231221002332"
-    },
-    {
-      "authors": [
-        "Mohamed Adel Musallam",
-        "Kassem Al Ismaeil",
-        "Oyebade Oyedotun",
-        "Marcos Damian Perez",
-        "Michel Poucet",
-        "Djamila Aouada"
-      ],
-      "title": "SPARK: spacecraft recognition leveraging knowledge of space environment",
-      "venue": "arXiv preprint arXiv:2104.05978",
-      "volume": "",
-      "year": 2021,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2104.05978"
-    },
-    {
-      "authors": ["Konstantinos Papadopoulos", "Anis Kacem", "Abdelrahman Shabayek", "Djamila Aouada"],
-      "title": "Face-GCN: A graph convolutional network for 3D dynamic face identification/recognition",
-      "venue": "arXiv preprint arXiv:2104.09145",
-      "volume": "",
-      "year": 2021,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2104.09145"
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Abd El Rahman Shabayek", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Deep network compression with teacher latent subspace learning and lasso",
-      "venue": "Applied Intelligence",
-      "volume": "51",
-      "year": 2021,
-      "pages": "834-853",
-      "impact_factor": null,
-      "doi": "10.1007/s10489-020-01858-2",
-      "url": "https://link.springer.com/article/10.1007/s10489-020-01858-2"
-    },
-    {
-      "authors": ["Anis Kacem", "Kseniya Cherenkova", "Djamila Aouada"],
-      "title": "Disentangled face identity representations for joint 3D face recognition and expression neutralisation",
-      "venue": "arXiv preprint arXiv:2104.10273",
-      "volume": "",
-      "year": 2021,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/2104.10273"
-    },
-    {
-      "authors": ["Djamila Aouada"],
-      "title": "Dense and sparse 3D deformation signatures for 3D dynamic face recognition",
-      "venue": "IEEE Access",
-      "volume": "9",
-      "year": 2021,
-      "pages": "38687-38705",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ieeexplore.ieee.org/abstract/document/9371726/"
-    },
-    {
-      "authors": [
-        "Mohamed Adel Musallam",
-        "Kassem Al Ismaeil",
-        "Oyebade Oyedotun",
-        "Marcos Damian Perez",
-        "Michel Poucet",
-        "Djamila Aouada"
-      ],
-      "title": "SPARK: SPAcecraft Recognition leveraging Knowledge of Space Environment",
-      "venue": "arXiv e-prints",
-      "volume": "",
-      "year": 2021,
-      "pages": "arXiv: 2104.05978",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210405978A/abstract"
-    },
-    {
-      "authors": [
-        "Enjie Ghorbel",
-        "Renato Baptista",
-        "Abdelrahman Shabayek",
-        "Djamila Aouada",
-        "Maialen Gorostiza Oramaeche",
-        "Janire Orcajo Lago",
-        "Leire Ortiz Fernandez"
-      ],
-      "title": "Home-based rehabilitation system for stroke survivors: a clinical evaluation",
-      "venue": "Journal of medical systems",
-      "volume": "44",
-      "year": 2020,
-      "pages": "1-11",
-      "impact_factor": null,
-      "doi": "10.1007/s10916-020-01661-z",
-      "url": "https://link.springer.com/article/10.1007/s10916-020-01661-z"
-    },
-    {
-      "authors": ["Enjie Ghorbel", "Girum Demisse", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Fast adaptive reparametrization (far) with application to human action recognition",
-      "venue": "IEEE Signal Processing Letters",
-      "volume": "27",
-      "year": 2020,
-      "pages": "580-584",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ieeexplore.ieee.org/abstract/document/9050864/"
-    },
-    {
-      "authors": ["Oyebade K Oyedotun", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Improved highway network block for training very deep neural networks",
-      "venue": "IEEE Access",
-      "volume": "8",
-      "year": 2020,
-      "pages": "176758-176773",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ieeexplore.ieee.org/abstract/document/9205301/"
-    },
-
-    {
-      "authors": [
-        "Renato Baptista",
-        "Enjie Ghorbel",
-        "Florent Moissenet",
-        "Djamila Aouada",
-        "Alice Douchet",
-        "Mathilde Andr\u00e9",
-        "Julien Pager",
-        "St\u00e9phane Bouilland"
-      ],
-      "title": "Home self-training: Visual feedback for assisting physical activity for stroke survivors",
-      "venue": "Computer methods and programs in biomedicine",
-      "volume": "176",
-      "year": 2019,
-      "pages": "111-120",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S016926071831808X"
-    },
-    {
-      "authors": [
-        "Konstantinos Papadopoulos",
-        "Girum Demisse",
-        "Enjie Ghorbel",
-        "Michel Antunes",
-        "Djamila Aouada",
-        "Bj\u00f6rn Ottersten"
-      ],
-      "title": "Localized trajectories for 2D and 3D action recognition",
-      "venue": "Sensors",
-      "volume": "19",
-      "year": 2019,
-      "pages": "3503",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.mdpi.com/1424-8220/19/16/3503"
-    },
-    {
-      "authors": [
-        "Hassan Afzal",
-        "Djamila Aouada",
-        "Michel Antunes",
-        "David Fofi",
-        "Bruno Mirbach",
-        "Bj\u00f6rn Ottersten"
-      ],
-      "title": "Bi-objective Framework for Sensor Fusion in RGB-D Multi-View Systems: Applications in Calibration",
-      "venue": "arXiv preprint arXiv:1905.09939",
-      "volume": "",
-      "year": 2019,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/1905.09939"
-    },
-    {
-      "authors": [
-        "Eman Ahmed",
-        "Alexandre Saint",
-        "Abd El Rahman Shabayek",
-        "Kseniya Cherenkova",
-        "Rig Das",
-        "Gleb Gusev",
-        "Djamila Aouada",
-        "Bjorn Ottersten"
-      ],
-      "title": "A survey on deep learning advances on different 3D data representations",
-      "venue": "arXiv preprint arXiv:1808.01462",
-      "volume": "",
-      "year": 2018,
-      "pages": "",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://arxiv.org/abs/1808.01462"
-    },
-    {
-      "authors": ["Girum G Demisse", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Deformation-based 3d facial expression representation",
-      "venue": "ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)",
-      "volume": "14",
-      "year": 2018,
-      "pages": "1-22",
-      "impact_factor": null,
-      "doi": "10.1145/3176649",
-      "url": "https://dl.acm.org/doi/abs/10.1145/3176649"
-    },
-    {
-      "authors": ["Hassan Afzal", "Djamila Aouada", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "Full 3D reconstruction of non-rigidly deforming objects",
-      "venue": "ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)",
-      "volume": "14",
-      "year": 2018,
-      "pages": "1-23",
-      "impact_factor": null,
-      "doi": "10.1145/3177756",
-      "url": "https://dl.acm.org/doi/abs/10.1145/3177756"
-    },
-    {
-      "authors": ["Girum Getachew Demisse", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Deformation based curved shape representation",
-      "venue": "IEEE transactions on pattern analysis and machine intelligence",
-      "volume": "40",
-      "year": 2017,
-      "pages": "1338-1351",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ieeexplore.ieee.org/abstract/document/7938364/"
-    },
-    {
-      "authors": ["Alejandro Correa Bahnsen", "Djamila Aouada", "Aleksandar Stojanovic", "Bj\u00f6rn Ottersten"],
-      "title": "Feature engineering strategies for credit card fraud detection",
-      "venue": "Expert Systems with Applications",
-      "volume": "51",
-      "year": 2016,
-      "pages": "134-142",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0957417415008386"
-    },
-    {
-      "authors": ["Kassem Al Ismaeil", "Djamila Aouada", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "Enhancement of dynamic depth scenes by upsampling for precise super-resolution (UP-SR)",
-      "venue": "Computer Vision and Image Understanding",
-      "volume": "147",
-      "year": 2016,
-      "pages": "38-49",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S1077314216300303"
-    },
-    {
-      "authors": ["Kassem Al Ismaeil", "Djamila Aouada", "Thomas Solignac", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "Real-time enhancement of dynamic depth videos with non-rigid deformations",
-      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      "volume": "39",
-      "year": 2016,
-      "pages": "2045-2059",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ieeexplore.ieee.org/abstract/document/7723916/"
-    },
-    {
-      "authors": ["Alejandro Correa Bahnsen", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "Example-dependent cost-sensitive decision trees",
-      "venue": "Expert Systems with Applications",
-      "volume": "42",
-      "year": 2015,
-      "pages": "6609-6619",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0957417415002845"
-    },
-    {
-      "authors": ["Alejandro Correa Bahnsen", "Djamila Aouada", "Bj\u00f6rn Ottersten"],
-      "title": "A novel cost-sensitive framework for customer churn predictive modeling",
-      "venue": "Decision Analytics",
-      "volume": "2",
-      "year": 2015,
-      "pages": "1-15",
-      "impact_factor": null,
-      "doi": "10.1186/s40165-015-0014-6",
-      "url": "https://link.springer.com/article/10.1186/s40165-015-0014-6"
-    },
-    {
-      "authors": ["Frederic Garcia", "Djamila Aouada", "Bruno Mirbach", "Thomas Solignac", "Bj\u00f6rn Ottersten"],
-      "title": "Unified multi-lateral filter for real-time depth map enhancement",
-      "venue": "Image and Vision Computing",
-      "volume": "41",
-      "year": 2015,
-      "pages": "26-41",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0262885615000773"
-    },
-    {
-      "authors": ["Alejandro Correa Bahnsen", "Djamila Aouada", "Bjorn Ottersten"],
-      "title": "Ensemble of Example-Dependent Cost-Sensitive Decision Trees",
-      "venue": "arXiv e-prints",
-      "volume": "",
-      "year": 2015,
-      "pages": "arXiv: 1505.04637",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ui.adsabs.harvard.edu/abs/2015arXiv150504637C/abstract"
-    },
-
-    {
-      "authors": ["Frederic Garcia", "Djamila Aouada", "Bruno Mirbach", "Bj\u00f6rn Ottersten"],
-      "title": "Real-time distance-dependent mapping for a hybrid ToF multi-camera rig",
-      "venue": "IEEE Journal of Selected Topics in Signal Processing",
-      "volume": "6",
-      "year": 2012,
-      "pages": "425-436",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ieeexplore.ieee.org/abstract/document/6231641/"
-    },
-  
-    {
-      "authors": ["Djamila Aouada", "Hamid Krim"],
-      "title": "Squigraphs for fine and compact modeling of 3-D shapes",
-      "venue": "IEEE transactions on image processing",
-      "volume": "19",
-      "year": 2009,
-      "pages": "306-321",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://ieeexplore.ieee.org/abstract/document/5288596/"
-    },
-    {
-      "authors": ["Mohamed Adel Mohamed Ali", "Renato Baptista", "Kassem Al Ismaeil", "Djamila Aouada"],
-      "title": "Action Recognition From Arbitrary Viewpoints",
-      "venue": "Adversarial Loss for Semantic Segmentation of Aerial Imagery",
-      "volume": "",
-      "year": null,
-      "pages": "8",
-      "impact_factor": null,
-      "doi": null,
-      "url": "https://research.tue.nl/files/317862383/proceedings_SITB2019_1_.pdf#page=16"
-    }
-  ],
-  "patents": [
-    {
-      "authors": ["Michel Antunes", "Djamila Aouada", "Girum Demisse"],
-      "title": "Physical activity feedback",
-      "year": 2018,
-      "patent_number": "WO Patent 2017207802A1",
-      "url": ""
-    },
-    {
-      "authors": ["Djamila Aouada", "Kassem al Ismaeil"],
-      "title": "Real-Time Temporal Filtering and Super-Resolution of Depth Image Sequences",
-      "year": 2016,
-      "patent_number": "WO Patent 193,393",
-      "url": ""
-    },
-    {
-      "authors": ["Bruno Mirbach", "Thomas Solignac", "Frederic Garcia Becerro", "Djamila Aouada"],
-      "title": "Depth image enhancement method",
-      "venue": "US Patent 0235351, 2015",
-      "year": 2015,
-      "type": "oral",
-      "presentation": ""
-    },
-    {
-      "authors": ["Bruno Mirbach", "Thomas Solignac", "Frederic Garcia Becerro", "Djamila Aouada"],
-      "title": "Depth image enhancement method",
-      "venue": "Patent 044569, 2014",
-      "year": 2014,
-      "type": "oral",
-      "presentation": ""
-    }
-  ]
-}
+[
+  {
+    "title": "Unsupervised anomaly detection in time-series: An extensive evaluation and analysis of state-of-the-art methods",
+    "authors": "N. Mejri, L. Lopez-Fuentes, K. Roy, P. Chernakov, E. Ghorbel, D. Aouada",
+    "venue": "Expert Systems with Applications",
+    "year": "2024",
+    "doi": "https://doi.org/10.1016/j.eswa.2024.124922",
+    "pages": "124922",
+    "slug": "2024-unsupervised-anomaly-detection-in-time-series-an-extensive-e"
+  },
+  {
+    "title": "Multi-label image classification using adaptive graph convolutional networks: from a single domain to multiple domains",
+    "authors": "IP. Singh, E. Ghorbel, O. Oyedotun, D. Aouada",
+    "venue": "Computer Vision and Image Understanding",
+    "year": "2024",
+    "doi": "10.1016/j.cviu.2024.104062",
+    "pages": "104062",
+    "slug": "2024-multi-label-image-classification-using-adaptive-graph-convol"
+  },
+  {
+    "title": "Lean Demonstration of On-Board Thermal Anomaly Detection Using Machine Learning",
+    "authors": "J. Thoemel, K. Kanavouras, M. Sachidanand, A. Hein, MO. Castillo, L. Pauly, A. Rathinam, D. Aouada",
+    "venue": "Aerospace 2024",
+    "year": "2024",
+    "doi": "10.3390/aerospace11070523",
+    "pages": "",
+    "slug": "2024-lean-demonstration-of-on-board-thermal-anomaly-detection-usi"
+  },
+  {
+    "title": "DermSynth3D: Synthesis of in-the-wild annotated dermatology images",
+    "authors": "A. Sinha, J. Kawahara, A. Pakzad, K. Abhishek, M. Ruthven, E. Ghorbel, A. Kacem, D. Aouada, G. Hamarneh",
+    "venue": "Medical Image Analysis",
+    "year": "2024",
+    "doi": "10.1016/j.media.2024.103145",
+    "pages": "103145",
+    "slug": "2024-dermsynth3d-synthesis-of-in-the-wild-annotated-dermatology-i"
+  },
+  {
+    "title": "A Survey on Deep Learning-Based Monocular Spacecraft Pose Estimation: Current State,Limitations and Prospects",
+    "authors": "L. Pauly, W. Rharbaoui, C. Shneider, A. Rathinam, V. Gaudillière, D. Aouada",
+    "venue": "Acta Astronautica",
+    "year": "2023",
+    "doi": "10.1016/j.actaastro.2023.08.001",
+    "pages": "",
+    "slug": "2023-a-survey-on-deep-learning-based-monocular-spacecraft-pose-es"
+  },
+  {
+    "title": "Lessons from a Space Lab: An Image Acquisition Perspective",
+    "authors": "L. Pauly, M. L. Jamrozik, MO. Castillo, O. Borgue, IP. Singh, MR. Makhdoomi, O. Christidi-Loumpasefski, V. Gaudillière, C. Martinez, A. Rathinam, A. Hein, M. Olivares-Mendez, D. Aouada",
+    "venue": "Hindawi",
+    "year": "2023",
+    "doi": "10.1155/2023/9944614",
+    "pages": "",
+    "slug": "2023-lessons-from-a-space-lab-an-image-acquisition-perspective"
+  },
+  {
+    "title": "CalcGraph: Taming the high costs of deep learning using models",
+    "authors": "J. Lorentz, T. Hartmann, A. Moawad, F. Fouquet, D. Aouada",
+    "venue": "Journal of Software Engineering and Modelling",
+    "year": "2022",
+    "doi": "10.1007/s10270-022-01052-7",
+    "pages": "",
+    "slug": "2022-calcgraph-taming-the-high-costs-of-deep-learning-using-model"
+  },
+  {
+    "title": "Why is everyone Training Very Deep Neural Network with Skip Connections?",
+    "authors": "O. Oyedotun, K. Al Ismaeil, D. Aouada.",
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "year": "2021",
+    "doi": "10.1109/TNNLS.2021.3131813",
+    "pages": "",
+    "slug": "2021-why-is-everyone-training-very-deep-neural-network-with-skip-"
+  },
+  {
+    "title": "Training Very Deep Neural Networks: Rethinking the Role of Skip Connections",
+    "authors": "O. Oyedotun, K. Al Ismaeil, D. Aouada.",
+    "venue": "Neurocomputing",
+    "year": "2021",
+    "doi": "10.1016/j.neucom.2021.02.004",
+    "pages": "105-17",
+    "slug": "2021-training-very-deep-neural-networks-rethinking-the-role-of-sk"
+  },
+  {
+    "title": "Dense and Sparse 3D Deformation Signatures for 3D Dynamic Face Recognition",
+    "authors": "A. Shabayek, D. Aouada",
+    "venue": "IEEE Access",
+    "year": "2021",
+    "doi": "10.1109/ACCESS.2021.3064179",
+    "pages": "38687",
+    "slug": "2021-dense-and-sparse-3d-deformation-signatures-for-3d-dynamic-fa"
+  },
+  {
+    "title": "Improved Highway Network Block for Training Very Deep Neural Networks",
+    "authors": "O. Oyedotun, A. Shabayek, D. Aouada, B. Ottersten",
+    "venue": "IEEE Access",
+    "year": "2020",
+    "doi": "10.1109/ACCESS.2020.3026423",
+    "pages": "",
+    "slug": "2020-improved-highway-network-block-for-training-very-deep-neural"
+  },
+  {
+    "title": "Deep network compression with teacher latent subspace learning and LASSO",
+    "authors": "O. Oyedotun, A. Shabayek, D. Aouada, B. Ottersten",
+    "venue": "Applied Intelligence",
+    "year": "2020",
+    "doi": "10.1007/s10489-020-01858-2",
+    "pages": "",
+    "slug": "2020-deep-network-compression-with-teacher-latent-subspace-learni"
+  },
+  {
+    "title": "Home-based rehabilitation system for stroke survivors: a clinical evaluation",
+    "authors": "E. Ghorbel, R. Baptista, A. Shabayek, , M. Oramaeche, J. Lago, L. Fernandez",
+    "venue": "Journal of medical systems",
+    "year": "2020",
+    "doi": "10.1007/s10916-020-01661-z",
+    "pages": "",
+    "slug": "2020-home-based-rehabilitation-system-for-stroke-survivors-a-clin"
+  },
+  {
+    "title": "Fast Adaptive Reparametrization (FAR) with Application to Human Action Recognition",
+    "authors": "E. Ghorbel, G. Demisse, D. Aouada, B. Ottersten",
+    "venue": "IEEE Signal Processing Letters",
+    "year": "2020",
+    "doi": "10.1109/LSP.2020.2983901",
+    "pages": "",
+    "slug": "2020-fast-adaptive-reparametrization-far-with-application-to-huma"
+  },
+  {
+    "title": "Localized Trajectories for 2D and 3D Action Recognition",
+    "authors": "K. Papadopoulos, G. Demisse, E. Ghorbel, M. Antunes, D. Aouada, B. Ottersten",
+    "venue": "Sensors",
+    "year": "2019",
+    "doi": "10.3390/s19163503",
+    "pages": "",
+    "slug": "2019-localized-trajectories-for-2d-and-3d-action-recognition"
+  },
+  {
+    "title": "Home Self-Training: Visual Feedback for Assisting Physical Activity for Stroke Survivors",
+    "authors": "R. Baptista, E. Ghorbel, A. Shabayek, F. Moissenet, D. Aouada, A. Douchet, M. André, J. Pager, S. Bouilland",
+    "venue": "Elsevier Journal in Computer Methods and Programs in Biomedicine",
+    "year": "2019",
+    "doi": "10.1016/j.cmpb.2019.04.019",
+    "pages": "",
+    "slug": "2019-home-self-training-visual-feedback-for-assisting-physical-ac"
+  },
+  {
+    "title": "Full 3D Reconstruction of Non-rigidly Deforming Objects",
+    "authors": "H. Afzal, D. Aouada, B. Mirbach, B. Ottersten",
+    "venue": "ACM Transactions on Multimedia Computing",
+    "year": "2018",
+    "doi": "10.1145/3177756",
+    "pages": "",
+    "slug": "2018-full-3d-reconstruction-of-non-rigidly-deforming-objects"
+  },
+  {
+    "title": "Deformation Based 3D Facial Expression Representation",
+    "authors": "G. Demisse, D. Aouada, B. Ottersten",
+    "venue": "ACM Transactions on Multimedia Computing",
+    "year": "2018",
+    "doi": "10.1145/3176642",
+    "pages": "",
+    "slug": "2018-deformation-based-3d-facial-expression-representation"
+  },
+  {
+    "title": "Deformation Based Curved Shape Representation",
+    "authors": "G. Demisse, D. Aouada, B. Ottersten",
+    "venue": "IEEE Transactions on Pattern Analysis & Machine Intelligence",
+    "year": "2017",
+    "doi": "10.1109/TPAMI.2017.2711607",
+    "pages": "",
+    "slug": "2017-deformation-based-curved-shape-representation"
+  },
+  {
+    "title": "Real-Time Enhancement of Dynamic Depth Videos with Non-Rigid Deformations",
+    "authors": "K. Al Ismaeil, D. Aouada, T. Solignac, B. Mirbach, B. Ottersten",
+    "venue": "IEEE Transactions on Pattern Analysis & Machine Intelligence (TPAMI)",
+    "year": "2016",
+    "doi": "10.1109/TPAMI.2016.2622698",
+    "pages": "",
+    "slug": "2016-real-time-enhancement-of-dynamic-depth-videos-with-non-rigid"
+  },
+  {
+    "title": "Feature Engineering Strategies for Credit Card Fraud Detection",
+    "authors": "A. C. Bahnsen, D. Aouada, B. Ottersten",
+    "venue": "Elsevier Journal in Expert Systems with Applications",
+    "year": "2016",
+    "doi": "",
+    "pages": "",
+    "slug": "2016-feature-engineering-strategies-for-credit-card-fraud-detecti"
+  },
+  {
+    "title": "Enhancement of Dynamic Depth Scenes by Upsampling for Precise Super-Resolution (UP-SR)",
+    "authors": "K. Al Ismaeil, D. Aouada, B. Mirbach, B. Ottersten",
+    "venue": "Elsevier Journal in Computer Vision and Image Understanding (CVIU)",
+    "year": "2016",
+    "doi": "",
+    "pages": "",
+    "slug": "2016-enhancement-of-dynamic-depth-scenes-by-upsampling-for-precis"
+  },
+  {
+    "title": "Example-Dependent Cost-Sensitive Decision Trees",
+    "authors": "A. C. Bahnsen, D. Aouada, B. Ottersten",
+    "venue": "Elsevier Journal in Expert Systems with Applications",
+    "year": "2015",
+    "doi": "10.1016/j.eswa.2015.12.030",
+    "pages": "",
+    "slug": "2015-example-dependent-cost-sensitive-decision-trees"
+  },
+  {
+    "title": "Unified Multi-Lateral Filter for Real-Time Depth Map Enhancement",
+    "authors": "F. Garcia, D. Aouada, B. Mirbach, T. Solignac, B. Ottersten",
+    "venue": "Elsevier Journal in Image and Vision Computing",
+    "year": "2015",
+    "doi": "",
+    "pages": "",
+    "slug": "2015-unified-multi-lateral-filter-for-real-time-depth-map-enhance"
+  },
+  {
+    "title": "Real-time depth enhancement by fusion for RGB-D cameras",
+    "authors": "F. Garcia, D. Aouada, T. Solignac, B. Mirbach, B. Ottersten",
+    "venue": "IET Computer Vision",
+    "year": "2013",
+    "doi": "10.1049/iet-cvi.2012.0289",
+    "pages": "",
+    "slug": "2013-real-time-depth-enhancement-by-fusion-for-rgb-d-cameras"
+  },
+  {
+    "title": "Real-Time Distance-Dependent Mapping for a Hybrid ToF Multi-Camera Rig",
+    "authors": "F. Garcia, D. Aouada, B. Mirbach, B. Ottersten",
+    "venue": "IEEE Journal of Selected Topics in Signal Processing",
+    "year": "2012",
+    "doi": "10.1109/JSTSP.2012.2207090",
+    "pages": "",
+    "slug": "2012-real-time-distance-dependent-mapping-for-a-hybrid-tof-multi-"
+  },
+  {
+    "title": "Squigraphs for Fine and Compact Modeling of 3-D shapes",
+    "authors": "D. Aouada, H. Krim",
+    "venue": "IEEE Transactions in Image Processing",
+    "year": "2010",
+    "doi": "10.1109/TIP.2009.2034693",
+    "pages": "",
+    "slug": "2010-squigraphs-for-fine-and-compact-modeling-of-3-d-shapes"
+  },
+  {
+    "title": "SpelsNet: Surface Primitive Elements Segmentation by B-Rep Graph Structure Supervision",
+    "authors": "K. Cherenkova, E. Dupont, A. Kacem, G, Gusev, D. Aouada",
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-spelsnet-surface-primitive-elements-segmentation-by-b-rep-gr"
+  },
+  {
+    "title": "A Hitchhikers Guide to Fine-Grained Face Forgery Detection Using Common Sense Reasoning",
+    "authors": "N. Foteinopoulou, E. Ghorbel, D. Aouada",
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-a-hitchhikers-guide-to-fine-grained-face-forgery-detection-u"
+  },
+  {
+    "title": "Statistics-Aware Audio-Visual Deepfake Detector",
+    "authors": "M. Astrid, E. Ghorbel, D. Aouada",
+    "venue": "IEEE International Conference on Image Processing (ICIP)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-statistics-aware-audio-visual-deepfake-detector"
+  },
+  {
+    "title": "How Effective is Pre-training of Large Masked Autoencoders for Downstream Earth Observation Tasks?",
+    "authors": "J. Sosa, M. Aloulou, D. Rukhovich, R. Sleimi, B. Changaival, A. Kacem",
+    "venue": "British Machine Vision Conference (BMVC)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-how-effective-is-pre-training-of-large-masked-autoencoders-f"
+  },
+  {
+    "title": "PICASSO: A Feed-Forward Framework for Parametric Inference of CAD Sketches via Rendering Self-Supervision",
+    "authors": "A. Karadeniz, D. Mallis, N. Mejri, K. Cherenkova, A. Kacem, D. Aouada",
+    "venue": "British Machine Vision Conference (BMVC)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-picasso-a-feed-forward-framework-for-parametric-inference-of"
+  },
+  {
+    "title": "Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies",
+    "authors": "M. Astrid, E. Ghorbel, D. Aouada",
+    "venue": "British Machine Vision Conference (BMVC)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-detecting-audio-visual-deepfakes-with-fine-grained-inconsist"
+  },
+  {
+    "title": "TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds",
+    "authors": "E. Dupont, K Cherenkova, D. Mallis, A. Kacem, D. Aouada",
+    "venue": "European Conference on Computer Vision (ECCV)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-transcad-a-hierarchical-transformer-for-cad-sequence-inferen"
+  },
+  {
+    "title": "Facial Region-Based Ensembling for Unsupervised Temporal Deepfake Localization",
+    "authors": "N. Mejri, P. Chernakov, P. Kuleshova, E. Ghorbel, D. Aouada",
+    "venue": "IEEE International Conference on Multimedia and Expo (ICME)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-facial-region-based-ensembling-for-unsupervised-temporal-dee"
+  },
+  {
+    "title": "LAA-Net: Localized Artifact Attention Network for High-Quality Deepfakes Detection",
+    "authors": "D. Nguyen, N. Mejri, IP. Singh, P. Kuleshova, M. Astrid, A. Kacem, D. Aouada",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-laa-net-localized-artifact-attention-network-for-high-qualit"
+  },
+  {
+    "title": "CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention",
+    "authors": "MS. Khan, E. Dupont, Sk. Ali, K. Cherenkova, A. Kacem, D. Aouada",
+    "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-cad-signet-cad-language-inference-from-point-clouds-using-la"
+  },
+  {
+    "title": "SPADES: A Realistic Spacecraft Pose Estimation Dataset using Event Sensing",
+    "authors": "A. Rathinam, H. Qadari, D. Aouada",
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-spades-a-realistic-spacecraft-pose-estimation-dataset-using-"
+  },
+  {
+    "title": "Hardware Aware Evolutionary Neural Architecture Search using Representation Similarity Metric",
+    "authors": "N. Sinha, A. Shabayek, A. Kacem, P. Rostami, C. Shneider, D. Aouada",
+    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-hardware-aware-evolutionary-neural-architecture-search-using"
+  },
+  {
+    "title": "Self-Supervised Learning for Place Representation Generalization across Appearance Changes",
+    "authors": "MA. Ali, V. Gaudillière, D. Aouada",
+    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-self-supervised-learning-for-place-representation-generaliza"
+  },
+  {
+    "title": "Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification",
+    "authors": "IP. Singh, E. Ghorbel, A. Kacem, A. Rathinam, D. Aouada",
+    "venue": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+    "year": "2024",
+    "doi": "",
+    "pages": "",
+    "slug": "2024-discriminator-free-unsupervised-domain-adaptation-for-multi-"
+  },
+  {
+    "title": "DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport",
+    "authors": "Sk. Ali, D Aouada, G Reis, D Stricker",
+    "venue": "Proceedings of the International Conference in Computer Vision Workshops (ICCVW’23)",
+    "year": "2023",
+    "doi": "",
+    "pages": "",
+    "slug": "2023-delo-deep-evidential-lidar-odometry-using-partial-optimal-tr"
+  },
+  {
+    "title": "3D-Aware Object Localization Using Gaussian Implicit Occupancy Function",
+    "authors": "V. Gaudillière, L. Pauly, A. Rathinam, A. Garcia Sanchez, MA. Musallam, D. Aouada",
+    "venue": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "year": "2023",
+    "doi": "",
+    "pages": "",
+    "slug": "2023-3d-aware-object-localization-using-gaussian-implicit-occupan"
+  },
+  {
+    "title": "Multi-Label DeepFake Classification",
+    "authors": "IP. Singh, N. Mejri, V. D. Nguyen, E. Ghorbel, D. Aouada",
+    "venue": "IEEE 25th International Workshop on Multimedia Signal Processing (MMSP)",
+    "year": "2023",
+    "doi": "",
+    "pages": "",
+    "slug": "2023-multi-label-deepfake-classification"
+  },
+  {
+    "title": "SHARP Challenge 2023: Solving CAD History and pArameters Recovery from Point clouds and 3D scans. Overview, Datasets, Metrics and Baselines",
+    "authors": "D. Mallis, Sk. Ali, E. Dupont, K. Cherenkova, A. Karadeniz, MS. Khan, A. Kacem, G. Gusev, D. Aouada",
+    "venue": "Proceedings of the International Conference in Computer Vision Workshops (ICCVW’23)",
+    "year": "2023",
+    "doi": "",
+    "pages": "",
+    "slug": "2023-sharp-challenge-2023-solving-cad-history-and-parameters-reco"
+  },
+  {
+    "title": "UNTAG: Learning Generic Features for Unsupervised Type-Agnostic Deepfake Detection",
+    "authors": "N. Mejri, E. Ghorbel, D. Aouada",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)",
+    "year": "2023",
+    "doi": "",
+    "pages": "",
+    "slug": "2023-untag-learning-generic-features-for-unsupervised-type-agnost"
+  },
+  {
+    "title": "You Can Dance! Generating Music-Conditioned Dances on Real 3D Scans",
+    "authors": "E. Dupont, IP. Singh, L. Fuentes, Sk. Ali, A. Kacem, E. Ghorbel, D. Aouada",
+    "venue": "Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP)",
+    "year": "2023",
+    "doi": "",
+    "pages": "",
+    "slug": "2023-you-can-dance-generating-music-conditioned-dances-on-real-3d"
+  },
+  {
+    "title": "SepicNet: Sharp Edges Recovery by Parametric Inference of Curves in 3D Shapes",
+    "authors": "K. Cherenkova, E. Dupont, A. Kacem, I. Arzhannikov, G. Gusev, D. Aouada",
+    "venue": "IEEE Workshops of the Conference on Computer Vision and Pattern Recognition (CVPRW)",
+    "year": "2023",
+    "doi": "",
+    "pages": "",
+    "slug": "2023-sepicnet-sharp-edges-recovery-by-parametric-inference-of-cur"
+  },
+  {
+    "title": "IML-GCN: Improved Multi-Label Graph Convolutional Network for Efficient yet Precise Image Classification",
+    "authors": "IP. Singh, O. Oyedotun, E. Ghorbel, D. Aouada",
+    "venue": "AAAI-22 Workshop Program-Deep Learning on Graphs: Methods and Applications",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-iml-gcn-improved-multi-label-graph-convolutional-network-for"
+  },
+  {
+    "title": "Pose Estimation of a Known Texture-Less Space Target using Convolutional Neural Networks",
+    "authors": "A. Rathinam, V. Gaudillière, L. Pauly, and D. Aouada.",
+    "venue": "In 73rd International Astronautical Congress, Paris, France, 18-22 September 2022",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-pose-estimation-of-a-known-texture-less-space-target-using-c"
+  },
+  {
+    "title": "Face-GCN: A Graph Convolutional Network for 3D Dynamic Face Recognition",
+    "authors": "K. Papadopoulos, A. Kacem, A. Shabayek, D. Aouada",
+    "venue": "8th International Conference on Virtual Reality",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-face-gcn-a-graph-convolutional-network-for-3d-dynamic-face-r"
+  },
+  {
+    "title": "Leveraging Equivariant Features for Absolute Pose Regression",
+    "authors": "MA. Ali, V. Gaudillière, MO. Castillo, K. Al Ismaeil, D. Aouada",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-leveraging-equivariant-features-for-absolute-pose-regression"
+  },
+  {
+    "title": "CubeSat-CDT: A Cross-Domain Dataset for 6-DoF Trajectory Estimation of a Symmetric Spacecraft",
+    "authors": "MA. Ali, A. Rathinam, V. Gaudillière, MO. Castillo, K. Al Ismaeil, D. Aouada",
+    "venue": "Proceedings of the 17th European Conference on Computer Vision Workshops (ECCVW)",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-cubesat-cdt-a-cross-domain-dataset-for-6-dof-trajectory-esti"
+  },
+  {
+    "title": "TSCom-Net: Coarse-to-Fine 3D Textured Shape Completion Network",
+    "authors": "A. Karadeniz, S. A. Ali, A. Kacem, E. Dupont, and D. Aouada",
+    "venue": "Proceedings of the European Conference on Computer Vision Workshops (ECCVW)",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-tscom-net-coarse-to-fine-3d-textured-shape-completion-networ"
+  },
+  {
+    "title": "Disentangled Face Identity Representations for Joint 3D Face Recognition and Neutralisation",
+    "authors": "A. Kacem, K. Cherenkova, D. Aouada.",
+    "venue": "Proceedings of the 8th International Conference on Virtual Reality (ICVR)",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-disentangled-face-identity-representations-for-joint-3d-face"
+  },
+  {
+    "title": "Image Enhancement for Space Surveillance and Tracking",
+    "authors": "M. Jamrozik, V. Gaudillière, MA. Ali, D. Aouada",
+    "venue": "Proceedings of the 73rd International Astronautical Congress. (Paris)",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-image-enhancement-for-space-surveillance-and-tracking"
+  },
+  {
+    "title": "Multi label image classification using adaptive graph convolutional networks (ML-AGCN)",
+    "authors": "I. P. Singh, E. Ghorbel, O. Oyedotun, D. Aouada.",
+    "venue": "IEEE International Conference on Image Processing (ICIP)",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-multi-label-image-classification-using-adaptive-graph-convol"
+  },
+  {
+    "title": "A closer look at autoencoders for unsupervised anomaly detection",
+    "authors": "O. Oyedotun, D. Aouada",
+    "venue": "IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP)",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-a-closer-look-at-autoencoders-for-unsupervised-anomaly-detec"
+  },
+  {
+    "title": "CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations",
+    "authors": "E. Dupont, K. Cherenkova, A. Kacem, Sk. Ali, I. Arzhannikov, G. Gusev, D. Aouada",
+    "venue": "IEEE International Conference on 3D Vision (3DV)",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-cadops-net-jointly-learning-cad-operation-types-and-steps-fr"
+  },
+  {
+    "title": "Profiling the real-world potential of neural network compression",
+    "authors": "J. Lorentz, A. Moawad, T. Hartmann, D. Aouada",
+    "venue": "IEEE International Conference On Omni-Layer Intelligent Systems (COINS)",
+    "year": "2022",
+    "doi": "",
+    "pages": "",
+    "slug": "2022-profiling-the-real-world-potential-of-neural-network-compres"
+  },
+  {
+    "title": "Leveraging Temporal Information for 3D Trajectory Estimation of Space Objects",
+    "authors": "MA. Ali, MO. Castillo, K. Al Ismaeil, M. Perez, D. Aouada",
+    "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+    "year": "2021",
+    "doi": "",
+    "pages": "",
+    "slug": "2021-leveraging-temporal-information-for-3d-trajectory-estimation"
+  },
+  {
+    "title": "Spacecraft recognition leveraging knowledge of space environment: simulator, dataset, competition design and analysis",
+    "authors": "MA. Ali, V. Gaudillière, E. Ghorbel, K. Al Ismaeil, M. Perez, M. Poucet, and D. Aouada",
+    "venue": "IEEE International Conference on Image Processing (ICIP)",
+    "year": "2021",
+    "doi": "",
+    "pages": "",
+    "slug": "2021-spacecraft-recognition-leveraging-knowledge-of-space-environ"
+  },
+  {
+    "title": "Leveraging High-Frequency Components for Deepfake Detection",
+    "authors": "N. Mejri, K. Papadopoulos, D. Aouada",
+    "venue": "IEEE Workshop on Multimedia Signal Processing (MMSP)",
+    "year": "2021",
+    "doi": "",
+    "pages": "",
+    "slug": "2021-leveraging-high-frequency-components-for-deepfake-detection"
+  },
+  {
+    "title": "Explaining Defect Detection with Saliency Maps",
+    "authors": "J. Lorentz, T. Hartmann, A. Moawad, F. Fouquet, and D. Aouada",
+    "venue": "International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE)",
+    "year": "2021",
+    "doi": "",
+    "pages": "",
+    "slug": "2021-explaining-defect-detection-with-saliency-maps"
+  },
+  {
+    "title": "LSPnet: A 2D Localization-oriented Spacecraft Pose Estimation Neural Network",
+    "authors": "A. Garcia Sanchez, M. A. Mohamed Ali, V. Gaudillière, E. Ghorbel, K. Al Ismaeil, M. Perez, D. Aouada",
+    "venue": "Proceedings of Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "year": "2021",
+    "doi": "",
+    "pages": "",
+    "slug": "2021-lspnet-a-2d-localization-oriented-spacecraft-pose-estimation"
+  },
+  {
+    "title": "Revisiting the Training of Very Deep Neural Networks without Skip Connections",
+    "authors": "O. Oyedotun, A. Shabayek, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Pattern Recognition (ICPR)",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-revisiting-the-training-of-very-deep-neural-networks-without"
+  },
+  {
+    "title": "Vertex Feature Encoding and Hierarchical Temporal Modeling in a Spatio-Temporal Graph Convolutional Network for Action Recognition",
+    "authors": "K. Papadopoulos, E. Ghorbel, D.Aouada, B. Ottersten",
+    "venue": "International Conference on Pattern Recognition (ICPR)",
+    "year": "2021",
+    "doi": "",
+    "pages": "",
+    "slug": "2021-vertex-feature-encoding-and-hierarchical-temporal-modeling-i"
+  },
+  {
+    "title": "Detection and Identification of On-Orbit Objects Using Machine Learning",
+    "authors": "KM. Perez, MA. Ali, A. Garcia Sanchez, E. Ghorbel, K. Al Ismaeil, P. Le Henaff, D. Aouada",
+    "venue": "European Conference on Space Debris 8",
+    "year": "2021",
+    "doi": "",
+    "pages": "",
+    "slug": "2021-detection-and-identification-of-on-orbit-objects-using-machi"
+  },
+  {
+    "title": "Space-Time Triplet Loss Network for Dynamic 3D Face Verification",
+    "authors": "A. Kacem, H. Ben Abdessalem, K. Cherenkova, D. Aouada",
+    "venue": "In Workshop on 3D Human Understanding (ICPR)",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-space-time-triplet-loss-network-for-dynamic-3d-face-verifica"
+  },
+  {
+    "title": "Going Deeper With Neural Networks Without Skip Connections",
+    "authors": "O. Oyedotun, A. Shabayek, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Image Processing (ICIP)",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-going-deeper-with-neural-networks-without-skip-connections"
+  },
+  {
+    "title": "Why do Deep Neural Networks with Skip Connections and Concatenated Hidden Representations Work?",
+    "authors": "O. Oyedotun, D. Aouada",
+    "venue": "International Conference on Neural Information Processing (ICONIP2020)",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-why-do-deep-neural-networks-with-skip-connections-and-concat"
+  },
+  {
+    "title": "DeepVI: A Novel Framework for Learning Deep View-Invariant Human Action Representations using a Single RGB Camera",
+    "authors": "K. Papadopoulos, E. Ghorbel, O. Oyedotun, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Automatic Face and Gesture Recognition",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-deepvi-a-novel-framework-for-learning-deep-view-invariant-hu"
+  },
+  {
+    "title": "SHARP 2020: The 1st shape recovery from partial textured 3d scans challenge results",
+    "authors": "A. Saint, A. Kacem, K. Cherenkova, K. Papadopoulos, J. Chibane, G. Pons-Moll, G. Gusev, D. Fofi, D. Aouada",
+    "venue": "Proceedings of the European Conference on Computer Vision Workshops (ECCVW)",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-sharp-2020-the-1st-shape-recovery-from-partial-textured-3d-s"
+  },
+  {
+    "title": "3DBooSTeR: 3D Body Shape and Texture Recovery",
+    "authors": "A. Saint, A. Kacem, K. Cherenkova, D. Aouada",
+    "venue": "Proceedings of the European Conference on Computer Vision Workshops (ECCVW)",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-3dbooster-3d-body-shape-and-texture-recovery"
+  },
+  {
+    "title": "3d Sparse Deformation Signature For Dynamic Face Recognition",
+    "authors": "D. Aouada, K. Cherenkova, G. Gusev",
+    "venue": "IEEE International Conference on Image Processing (ICIP)",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-3d-sparse-deformation-signature-for-dynamic-face-recognition"
+  },
+  {
+    "title": "Towards Automatic CAD Modeling from 3D Scan Sketch based Representation",
+    "authors": "A. Shabayek, D. Aouada, K. Cherenkova, G. Gusev",
+    "venue": "Proceedings of the 15th International Joint Conference on Computer Vision",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-towards-automatic-cad-modeling-from-3d-scan-sketch-based-rep"
+  },
+  {
+    "title": "Towards Generalization of 3D Human Pose Estimation In The Wild",
+    "authors": "R. Baptista, A. Saint, K. Al Ismaeil, D. Aouada",
+    "venue": "In International Conference on Pattern Recognition (ICPR) Workshop on 3D Human Understanding",
+    "year": "2021",
+    "doi": "",
+    "pages": "",
+    "slug": "2021-towards-generalization-of-3d-human-pose-estimation-in-the-wi"
+  },
+  {
+    "title": "PVDeConv: Point-Voxel Deconvolution for Autoencoding CAD Construction in 3D",
+    "authors": "K. Cherenkova, D. Aouada, G. Gusev",
+    "venue": "IEEE International Conference on Image Processing (ICIP)",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-pvdeconv-point-voxel-deconvolution-for-autoencoding-cad-cons"
+  },
+  {
+    "title": "Structured Compression of Deep Neural Networks with Debiased Group LASSO",
+    "authors": "O. Oyedotun, D. Aouada, B. Ottersten",
+    "venue": "IEEE Winter Conference on Applications of Computer Vision (WACV)",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-structured-compression-of-deep-neural-networks-with-debiased"
+  },
+  {
+    "title": "Temporal 3D Human Pose Estimation for Action Recognition from Arbitrary Viewpoints",
+    "authors": "MA. Ali, R. Baptista, K. Al Ismaeil, D. Aouada",
+    "venue": "International Annual Conference on Computational Science and Computational Intelligence (CSCI)",
+    "year": "2019",
+    "doi": "",
+    "pages": "",
+    "slug": "2019-temporal-3d-human-pose-estimation-for-action-recognition-fro"
+  },
+  {
+    "title": "View-invariant Action Recognition From RGB Data Via 3D Pose Estimation",
+    "authors": "R. Baptista, E. Ghorbel, K. Papadopoulos, G. Demisse, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP)",
+    "year": "2019",
+    "doi": "",
+    "pages": "",
+    "slug": "2019-view-invariant-action-recognition-from-rgb-data-via-3d-pose-"
+  },
+  {
+    "title": "A View-invariant Framework for Fast Skeleton-based Action Recognition Using a Single RGB Camera",
+    "authors": "E. Ghorbel, K. Papadopoulos, R. Baptista, H. Pathak, G. Demisse, D. Aouada, B. Ottersten",
+    "venue": "14th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP)",
+    "year": "2019",
+    "doi": "",
+    "pages": "",
+    "slug": "2019-a-view-invariant-framework-for-fast-skeleton-based-action-re"
+  },
+  {
+    "title": "Learning to Fuse Latent Representations for Multimodal Data",
+    "authors": "O. Oyebade, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP)",
+    "year": "2019",
+    "doi": "",
+    "pages": "",
+    "slug": "2019-learning-to-fuse-latent-representations-for-multimodal-data"
+  },
+  {
+    "title": "Two-stage RGB-based Action Detection using Augmented 3D Poses",
+    "authors": "K. Papadopoulos, E. Ghorbel, R. Baptista, D. Aouada, B. Ottersten",
+    "venue": "International Conference on Computer Analysis of Images and Patterns (CAIP)",
+    "year": "2019",
+    "doi": "",
+    "pages": "",
+    "slug": "2019-two-stage-rgb-based-action-detection-using-augmented-3d-pose"
+  },
+  {
+    "title": "BODYFITR: Robust Automatic 3D Human Body Fitting",
+    "authors": "A. Saint, A. Shabayek, K. Cherenkova, G. Gusev, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Image Processing (ICIP)",
+    "year": "2019",
+    "doi": "",
+    "pages": "",
+    "slug": "2019-bodyfitr-robust-automatic-3d-human-body-fitting"
+  },
+  {
+    "title": "Deformation-Based Abnormal Motion Detection Using 3D Skeletons",
+    "authors": "R. Baptista, G. Demisse, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Image Processing Theory Theory, Tools and Applications (IPTA)",
+    "year": "2018",
+    "doi": "",
+    "pages": "",
+    "slug": "2018-deformation-based-abnormal-motion-detection-using-3d-skeleto"
+  },
+  {
+    "title": "Key-Skeleton Based Feedback Tool for Assisting Physical Activity",
+    "authors": "R. Baptista, E. Ghorbel, A. Shabayek, D. Aouada, B. Ottersten",
+    "venue": "Zooming Innovation in Consumer Electronics International Conference (ZINC)",
+    "year": "2018",
+    "doi": "",
+    "pages": "",
+    "slug": "2018-key-skeleton-based-feedback-tool-for-assisting-physical-acti"
+  },
+  {
+    "title": "3DBodyTex: Textured 3D Body Dataset",
+    "authors": "A. Saint, E. Ahmed, A. Shabayek, C. Kseniya, G. Gusev, D. Aouada, B. Ottersten",
+    "venue": "International Conference on 3D Vision (3DV)",
+    "year": "2018",
+    "doi": "",
+    "pages": "",
+    "slug": "2018-3dbodytex-textured-3d-body-dataset"
+  },
+  {
+    "title": "Pose Encoding for Robust Skeleton-Based Action Recognition",
+    "authors": "G. Demisse, K. Papadopoulos, D. Aouada, B. Ottersten",
+    "venue": "IEEE Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "year": "2018",
+    "doi": "",
+    "pages": "",
+    "slug": "2018-pose-encoding-for-robust-skeleton-based-action-recognition"
+  },
+  {
+    "title": "Highway Network Block with Gates Constraints for Training Very Deep Networks",
+    "authors": "O. Oyedotun, A. Shabayek, D. Aouada, B. Ottersten",
+    "venue": "IEEE Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "year": "2018",
+    "doi": "",
+    "pages": "",
+    "slug": "2018-highway-network-block-with-gates-constraints-for-training-ve"
+  },
+  {
+    "title": "A Revisit of Action Detection using Improved Trajectories",
+    "authors": "K. Papadopoulos, M. Antunes, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP)",
+    "year": "2018",
+    "doi": "",
+    "pages": "",
+    "slug": "2018-a-revisit-of-action-detection-using-improved-trajectories"
+  },
+  {
+    "title": "Improving The Capacity Of Very Deep Networks With Maxout Units",
+    "authors": "O. Oyedotun, A. Shabayek, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP)",
+    "year": "2018",
+    "doi": "",
+    "pages": "",
+    "slug": "2018-improving-the-capacity-of-very-deep-networks-with-maxout-uni"
+  },
+  {
+    "title": "Anticipating Suspicious Actions using a Small Dataset of Action Templates",
+    "authors": "R. Baptista, M. Antunes, D. Aouada, B. Ottersten",
+    "venue": "International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP)",
+    "year": "2018",
+    "doi": "",
+    "pages": "",
+    "slug": "2018-anticipating-suspicious-actions-using-a-small-dataset-of-act"
+  },
+  {
+    "title": "Flexible feedback system for posture monitoring and correction",
+    "authors": "R. Baptista, M. Antunes, A. Shabayek, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Image Information Processing (ICIIP)",
+    "year": "2017",
+    "doi": "",
+    "pages": "",
+    "slug": "2017-flexible-feedback-system-for-posture-monitoring-and-correcti"
+  },
+  {
+    "title": "Facial Expression Recognition via Joint Deep Learning of RGB-Depth Map Latent Representations",
+    "authors": "O. Oyedotun, G. Demisse, A. Shabayek, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Computer Vision Workshops (ICCVW)",
+    "year": "2017",
+    "doi": "",
+    "pages": "",
+    "slug": "2017-facial-expression-recognition-via-joint-deep-learning-of-rgb"
+  },
+  {
+    "title": "Training Very Deep Networks via Residual Learning with Stochastic Input Connections",
+    "authors": "O. Oyedotun, A. Shabayek, D. Aouada, B. Ottersten",
+    "venue": "24th International Conference on Neural Information Processing (ICONIP)",
+    "year": "2017",
+    "doi": "",
+    "pages": "",
+    "slug": "2017-training-very-deep-networks-via-residual-learning-with-stoch"
+  },
+  {
+    "title": "Fraud Detection by Stacking Cost-Sensitive Decision Trees",
+    "authors": "A. Correa, S. Villegas, D. Aouada, B. Ottersten",
+    "venue": "Data Science for Cyber-Security (DSCS)",
+    "year": "2017",
+    "doi": "",
+    "pages": "",
+    "slug": "2017-fraud-detection-by-stacking-cost-sensitive-decision-trees"
+  },
+  {
+    "title": "Towards Automatic Human Body Model Fitting to a 3D Scan",
+    "authors": "A. Saint, A. Shabayek, D. Aouada, B. Ottersten, K. Cherenkova, G. Gusev",
+    "venue": "8th International conference and Exhibition on 3D Body Scanning and Processing Technologies (3DBody.Tech)",
+    "year": "2017",
+    "doi": "",
+    "pages": "",
+    "slug": "2017-towards-automatic-human-body-model-fitting-to-a-3d-scan"
+  },
+  {
+    "title": "Unsupervised Vanishing Point Detection and Camera Calibration from a Single Manhattan Image with Radial Distortion",
+    "authors": "M. Antunes, J. Barreto, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference in Computer Vision and Pattern Recognition (CVPR)",
+    "year": "2017",
+    "doi": "",
+    "pages": "",
+    "slug": "2017-unsupervised-vanishing-point-detection-and-camera-calibratio"
+  },
+  {
+    "title": "Deformation Transfer of 3D Human Shapes and Poses on Manifolds",
+    "authors": "A. Shabayek, D. Aouada, A. Saint, B. Ottersten",
+    "venue": "IEEE International Conference in Image Processing (ICIP)",
+    "year": "2017",
+    "doi": "",
+    "pages": "",
+    "slug": "2017-deformation-transfer-of-3d-human-shapes-and-poses-on-manifol"
+  },
+  {
+    "title": "Enhanced Trajectory-based Action Recognition Using Human Pose",
+    "authors": "K. Papadopoulos, M. Antunes, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference in Image Processing (ICIP)",
+    "year": "2017",
+    "doi": "",
+    "pages": "",
+    "slug": "2017-enhanced-trajectory-based-action-recognition-using-human-pos"
+  },
+  {
+    "title": "Video-Based Feedback for Assisting Physical Activity",
+    "authors": "R. Baptista, M. Antunes, D. Aouada, B. Ottersten",
+    "venue": "International Conference on Computer Vision Theory and Applications (VISAPP)",
+    "year": "2017",
+    "doi": "",
+    "pages": "",
+    "slug": "2017-video-based-feedback-for-assisting-physical-activity"
+  },
+  {
+    "title": "Similarity Metric For Curved Shapes In Euclidean Space",
+    "authors": "G. Demisse, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference in Computer Vision and Pattern Recognition (CVPR)",
+    "year": "2016",
+    "doi": "",
+    "pages": "",
+    "slug": "2016-similarity-metric-for-curved-shapes-in-euclidean-space"
+  },
+  {
+    "title": "A Revisit to Human Action Recognition from Depth Sequences: Guided SVM-Sampling for Joint Selection",
+    "authors": "M. Antunes, D. Aouada, B. Ottersten",
+    "venue": "IEEE Winter Conference on Applications of Computer Vision (WACV)",
+    "year": "2016",
+    "doi": "",
+    "pages": "",
+    "slug": "2016-a-revisit-to-human-action-recognition-from-depth-sequences-g"
+  },
+  {
+    "title": "Visual and human-interpretable feedback for assisting physical activity",
+    "authors": "M. Antunes, R. Baptista, G. Demisse, D. Aouada, B. Ottersten",
+    "venue": "European Conference on Computer Vision Workshop (ECCVW)",
+    "year": "2016",
+    "doi": "",
+    "pages": "",
+    "slug": "2016-visual-and-human-interpretable-feedback-for-assisting-physic"
+  },
+  {
+    "title": "RGB-D and Thermal Sensor Fusionn-application in person tracking",
+    "authors": "I. Rocco, M. Antunes, D. Aouada, B. Ottersten",
+    "venue": "International Conference on Computer Vision Theory and Applications (VISAPP)",
+    "year": "2016",
+    "doi": "",
+    "pages": "",
+    "slug": "2016-rgb-d-and-thermal-sensor-fusionn-application-in-person-track"
+  },
+  {
+    "title": "View-Independent Enhanced 3D Reconstruction of Non-Rigidly Deforming Objects",
+    "authors": "H. Afzal, D. Aouada, F. Destelle, B. Mirbach, B. Ottersten",
+    "venue": "IAPR International Conference on Computer Analysis of Images and Patterns (CAIP)",
+    "year": "2015",
+    "doi": "",
+    "pages": "",
+    "slug": "2015-view-independent-enhanced-3d-reconstruction-of-non-rigidly-d"
+  },
+  {
+    "title": "Real-Time Non-Rigid Multi-Frame Depth Video Super-Resolution",
+    "authors": "K. Al Isameil, D. Aouada, T. Solignac, B. Mirbach, B. Ottersten",
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)",
+    "year": "2015",
+    "doi": "",
+    "pages": "",
+    "slug": "2015-real-time-non-rigid-multi-frame-depth-video-super-resolution"
+  },
+  {
+    "title": "Patch-based Statistical Performance Analysis of Upsampling for Precise Super–Resolution",
+    "authors": "D. Aouada, K. Al Ismaeil, B. Ottersten",
+    "venue": "International Conference on Computer Vision Theory and Applications (VISAPP)",
+    "year": "2015",
+    "doi": "",
+    "pages": "",
+    "slug": "2015-patch-based-statistical-performance-analysis-of-upsampling-f"
+  },
+  {
+    "title": "Detecting Credit Card Fraud using Periodic Features",
+    "authors": "A. Bahnsen, D. Aouada, A. Stojanovic, B. Ottersten",
+    "venue": "IEEE International Conference on Machine Learning and Applications (ICMLA)",
+    "year": "2015",
+    "doi": "",
+    "pages": "",
+    "slug": "2015-detecting-credit-card-fraud-using-periodic-features"
+  },
+  {
+    "title": "Template-Based Statistical Shape Modelling on Deformation Space",
+    "authors": "G. Demisse, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference in Image Processing (ICIP)",
+    "year": "2015",
+    "doi": "",
+    "pages": "",
+    "slug": "2015-template-based-statistical-shape-modelling-on-deformation-sp"
+  },
+  {
+    "title": "KinectDeform: Enhanced 3D Reconstruction of Non-Rigidly Deforming Objects",
+    "authors": "H. Afzal, K. Al Ismaeil, D. Aouada, F. Destelle, B. Mirbach, B. Ottersten",
+    "venue": "IEEE International Conference on 3D Vision Workshops (3DV)",
+    "year": "2014",
+    "doi": "",
+    "pages": "",
+    "slug": "2014-kinectdeform-enhanced-3d-reconstruction-of-non-rigidly-defor"
+  },
+  {
+    "title": "RGB-D Multi-View System Calibration for Full 3D Scene Reconstruction",
+    "authors": "H. Afza, D. Aouada, D. Font, B. Mirbach, B. Ottersten",
+    "venue": "IAPR International Conference on Pattern Recognition (ICPR)",
+    "year": "2014",
+    "doi": "",
+    "pages": "",
+    "slug": "2014-rgb-d-multi-view-system-calibration-for-full-3d-scene-recons"
+  },
+  {
+    "title": "Surface UP-SR for an Improved Face Recognition Using Low Resolution Depth Cameras",
+    "authors": "D. Aouada, K. Al Ismaeil, B. Ottersten",
+    "venue": "IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS)",
+    "year": "2014",
+    "doi": "",
+    "pages": "",
+    "slug": "2014-surface-up-sr-for-an-improved-face-recognition-using-low-res"
+  },
+  {
+    "title": "SPN2: Single-Sided Privacy Preserving Nearest Neighbor and its Application to Face Recognition",
+    "authors": "D. Aouada, D. Khader",
+    "venue": "IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS)",
+    "year": "2014",
+    "doi": "",
+    "pages": "",
+    "slug": "2014-spn2-single-sided-privacy-preserving-nearest-neighbor-and-it"
+  },
+  {
+    "title": "Example-Dependent Cost-Sensitive Logistic Regression for Credit Scoring",
+    "authors": "A. Bahnsen, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Machine Learning and Applications (ICMLA)",
+    "year": "2014",
+    "doi": "",
+    "pages": "",
+    "slug": "2014-example-dependent-cost-sensitive-logistic-regression-for-cre"
+  },
+  {
+    "title": "Improving Credit Card Fraud Detection with Calibrated Probabilities",
+    "authors": "A. Bahnsen, D. Aouada, A. Stojanovic, B. Ottersten",
+    "venue": "SIAM International Conference on Data Mining (ICDM)",
+    "year": "2014",
+    "doi": "",
+    "pages": "",
+    "slug": "2014-improving-credit-card-fraud-detection-with-calibrated-probab"
+  },
+  {
+    "title": "Depth Super-Resolution by Enhanced Shift and Add",
+    "authors": "K. Al Ismaeil, D. Aouada, B. Mirbach, B. Ottersten",
+    "venue": "IAPR International Conference on Computer Analysis of Images and Patterns (CAIP)",
+    "year": "2013",
+    "doi": "",
+    "pages": "",
+    "slug": "2013-depth-super-resolution-by-enhanced-shift-and-add"
+  },
+  {
+    "title": "Dynamic Super Resolution of Depth Sequences with Non-Rigid Motions",
+    "authors": "K. Al Ismaeil, D. Aouada, B. Mirbach, B. Ottersten",
+    "venue": "IEEE International Conference on Image Processing (ICIP)",
+    "year": "2013",
+    "doi": "",
+    "pages": "",
+    "slug": "2013-dynamic-super-resolution-of-depth-sequences-with-non-rigid-m"
+  },
+  {
+    "title": "Mutli-Frame Super-Resolution by Enhanced Shift and Add",
+    "authors": "K. Al Ismaeil, D. Aouada, B. Mirbach, B. Ottersten",
+    "venue": "IEEE International Symposium on Image and Signal Processing Analysis (ISPA)",
+    "year": "2013",
+    "doi": "",
+    "pages": "",
+    "slug": "2013-mutli-frame-super-resolution-by-enhanced-shift-and-add"
+  },
+  {
+    "title": "Cost sensitive credit card fraud detection using Bayes minimum risk",
+    "authors": "A. Bahnsen, A. Stojanovic, D. Aouada, B. Ottersten",
+    "venue": "IEEE International Conference on Machine Learning and Applications (ICMLA)",
+    "year": "2013",
+    "doi": "",
+    "pages": "",
+    "slug": "2013-cost-sensitive-credit-card-fraud-detection-using-bayes-minim"
+  },
+  {
+    "title": "Bilateral Filter Evaluation Based on Exponential Kernels",
+    "authors": "K. Al Ismaeil, D. Aouada, B. Mirbach, B. Ottersten",
+    "venue": "IAPR International Conference on Pattern Recognition (ICPR)",
+    "year": "2012",
+    "doi": "",
+    "pages": "",
+    "slug": "2012-bilateral-filter-evaluation-based-on-exponential-kernels"
+  },
+  {
+    "title": "Depth Enhancement by Fusion for Passive and Active Sensing",
+    "authors": "F. Garcia, D. Aouada, H. Abdella, T. Solignac, B. Mirbach, B. Ottersten",
+    "venue": "European Conference on Computer Vision Workshop (ECCVW)",
+    "year": "2012",
+    "doi": "",
+    "pages": "",
+    "slug": "2012-depth-enhancement-by-fusion-for-passive-and-active-sensing"
+  },
+  {
+    "title": "Spatio-Temporal ToF Data Enhancement by Fusion",
+    "authors": "F. Garcia, D. Aouada, B. Mirbach, B. Ottersten",
+    "venue": "IEEE International Conference on Image Processing (ICIP)",
+    "year": "2012",
+    "doi": "",
+    "pages": "",
+    "slug": "2012-spatio-temporal-tof-data-enhancement-by-fusion"
+  },
+  {
+    "title": "A New 1-D Colour Model and its Application to Image Filtering",
+    "authors": "F. Garcia, D. Aouada, B. Mirbach, B. Ottersten",
+    "venue": "7th International Symposium on Image and Signal Processing and Analysis (ISPA)",
+    "year": "2011",
+    "doi": "",
+    "pages": "",
+    "slug": "2011-a-new-1-d-colour-model-and-its-application-to-image-filterin"
+  },
+  {
+    "title": "Spiral Colour Model: Reduction from 3-D to 2-D",
+    "authors": "F. Garcia Becerro, D. Aouada, B. Mirbach, B. Ottersten",
+    "venue": "IEEE International Conference on Acoustics",
+    "year": "2011",
+    "doi": "",
+    "pages": "",
+    "slug": "2011-spiral-colour-model-reduction-from-3-d-to-2-d"
+  },
+  {
+    "title": "A New Multi-Lateral Filter for Real-Time Depth Enhancement",
+    "authors": "F. Garcia, D. Aouada, B. Mirbach, T. Solignac, B. Ottersten",
+    "venue": "IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS)",
+    "year": "2011",
+    "doi": "",
+    "pages": "",
+    "slug": "2011-a-new-multi-lateral-filter-for-real-time-depth-enhancement"
+  },
+  {
+    "title": "Time Hybrid ToF Multi-Camera Rig Fusion System for Depth Map Enhancement",
+    "authors": "F. Garcia, D. Aouada, B. Mirbach, T. Solignac, B. Ottersten",
+    "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "year": "2011",
+    "doi": "",
+    "pages": "",
+    "slug": "2011-time-hybrid-tof-multi-camera-rig-fusion-system-for-depth-map"
+  },
+  {
+    "title": "Who Clicks There!: Anonymizing the Photographer in a Camera Saturated Society",
+    "authors": "S. Nagaraja, P. Schaffer, D. Aouada",
+    "venue": "in Workshop on Privacy in the Electronic Society (WPES)",
+    "year": "2011",
+    "doi": "",
+    "pages": "",
+    "slug": "2011-who-clicks-there-anonymizing-the-photographer-in-a-camera-sa"
+  },
+  {
+    "title": "Mahalanobis-based Adaptive Nonlinear Dimension Reduction",
+    "authors": "D. Aouada, Y. Baryshnikov, H. Krim",
+    "venue": "IAPR International Conference on Pattern Recognition (ICPR)",
+    "year": "2010",
+    "doi": "",
+    "pages": "",
+    "slug": "2010-mahalanobis-based-adaptive-nonlinear-dimension-reduction"
+  },
+  {
+    "title": "Novel similarity invariant for space curves using turning angles and its application to object recognition",
+    "authors": "D. Djamila, H. Krim",
+    "venue": "IEEE International Conference on Acoustics",
+    "year": "2009",
+    "doi": "",
+    "pages": "",
+    "slug": "2009-novel-similarity-invariant-for-space-curves-using-turning-an"
+  },
+  {
+    "title": "Meaningful 3D shape partitioning using Morse functions",
+    "authors": "D. Aouada, H. Krim",
+    "venue": "in 16th IEEE International Conference on Image Processing (ICIP)",
+    "year": "2009",
+    "doi": "",
+    "pages": "",
+    "slug": "2009-meaningful-3d-shape-partitioning-using-morse-functions"
+  },
+  {
+    "title": "Geometric modeling of rigid and non-rigid 3D shapes using the global geodesic function",
+    "authors": "D. Aouada, D. Dreisigmeyer, H. Krim",
+    "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "year": "2008",
+    "doi": "",
+    "pages": "",
+    "slug": "2008-geometric-modeling-of-rigid-and-non-rigid-3d-shapes-using-th"
+  },
+  {
+    "title": "3D Object Recognition Using Fully Intrinsic Skeletal Graphs",
+    "authors": "D. Aouada, H. Krim",
+    "venue": "in International Conference on Computational Imaging (ICCIMA)",
+    "year": "2008",
+    "doi": "",
+    "pages": "",
+    "slug": "2008-3d-object-recognition-using-fully-intrinsic-skeletal-graphs"
+  },
+  {
+    "title": "Statistical Analysis of the Global Geodesic Function for 3D Object Classification",
+    "authors": "D. Aouada, S. Feng, H. Krim",
+    "venue": "IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP)",
+    "year": "2007",
+    "doi": "",
+    "pages": "",
+    "slug": "2007-statistical-analysis-of-the-global-geodesic-function-for-3d-"
+  },
+  {
+    "title": "3D Mixed Invariant and its Application on Object Classification",
+    "authors": "S. Feng, D. Aouada, H. Krim, I. Kogan",
+    "venue": "in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "year": "2007",
+    "doi": "",
+    "pages": "",
+    "slug": "2007-3d-mixed-invariant-and-its-application-on-object-classificat"
+  }
+]

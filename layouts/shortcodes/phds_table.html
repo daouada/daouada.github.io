@@ -1,0 +1,71 @@
+{{/* layouts/shortcodes/phds_table.html */}}
+
+{{ $dataName := .Get "data" | default "phds_supervision" }}
+{{ $raw := index site.Data $dataName }}
+{{ if not $raw }}
+<p>No PhD supervision data found.</p>
+{{ else }}
+
+{{/* Sort by start year desc; extract start year from period like "2025–today" */}}
+{{ $items := slice }}
+{{ range $raw }}
+{{ $period := .period | default "" }}
+{{ $start := replaceRE "^\\s*(\\d{4}).*$" "$1" $period }}
+{{ if not (findRE "^\\d{4}$" $start) }}{{ $start = "0000" }}{{ end }}
+{{ $items = $items | append (merge . (dict "startYear" (int $start))) }}
+{{ end }}
+{{ $sorted := sort $items "startYear" "desc" "candidate.name" "asc" }}
+
+<div class="phds-table-wrapper">
+    <table class="phds-table table">
+        <thead>
+            <tr>
+                <th style="width: 8rem;">Period</th>
+                <th>Candidate Name</th>
+                <th>Title of Thesis</th>
+                <th style="width: 12rem;">Supervisory Role</th>
+                <th style="width: 14rem;">Current</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{ range $sorted }}
+            <tr class="{{ if eq .status " ongoing" }}is-ongoing{{ end }}">
+                <td class="col-period">{{ .period }}</td>
+
+                <td class="col-candidate">
+                    {{ $cand := .candidate | default dict }}
+                    {{ with (index $cand "url") }}
+                    <a href="{{ . }}" target="_blank" rel="noopener">{{ index $cand "name" }}</a>
+                    {{ else }}
+                    {{ index $cand "name" }}
+                    {{ end }}
+                </td>
+
+                <td class="col-title"><em>{{ .title }}</em></td>
+
+                <td class="col-role">{{ .role }}</td>
+
+                <td class="col-current">
+                    {{ if eq .status "ongoing" }}
+                    <span class="badge badge-ongoing">Ongoing</span>
+                    {{ else }}
+                    {{ $next := .next | default dict }}
+                    {{ if $next }}
+                    <div class="next-role centered">
+                        {{ with (index $next "url") }}
+                        <a href="{{ . }}" target="_blank" rel="noopener">{{ index $next "org" }}</a>
+                        {{ else }}
+                        {{ index $next "org" }}
+                        {{ end }}
+                    </div>
+                    {{ else }}
+                    <span class="badge badge-completed">Completed</span>
+                    {{ end }}
+                    {{ end }}
+                </td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+</div>
+{{ end }}

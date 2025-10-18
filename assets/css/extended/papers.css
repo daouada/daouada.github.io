@@ -1,0 +1,214 @@
+/* Scope styles to this section only */
+.papers-wrapper {
+    margin-top: 2rem;
+}
+
+/* List spacing and subtle bullets */
+.papers-wrapper ul {
+    list-style: disc;
+    padding-left: 1.5rem;
+    margin: 0;
+    /* PaperMod already handles vertical rhythm */
+}
+
+.papers-wrapper li {
+    margin: 0 0 1.25rem 0;
+    /* space between items */
+}
+
+/* Line stack within each item */
+.papers-wrapper li p {
+    margin: 0;
+    /* remove default paragraph margin */
+}
+
+/* Event line: strong, readable */
+.papers-wrapper .papers-event {
+    display: block;
+    font-weight: 600;
+    color: var(--primary, #111);
+}
+
+/* Title line: italic, link-like blue */
+.papers-wrapper .papers-title {
+    display: block;
+    font-style: italic;
+    color: var(--link, #2a67b1);
+    margin-top: 0.15rem;
+}
+
+/* Meta line: lighter, italic */
+.papers-wrapper .papers-meta {
+    display: block;
+    font-style: italic;
+    color: var(--secondary, #6b7280);
+    margin-top: 0.15rem;
+    letter-spacing: 0.01em;
+    white-space: normal;
+}
+
+/* Container spacing */
+.expander {
+    margin: 0 0 1.25rem 0;
+}
+
+/* Make the summary a single aligned row and clickable */
+.expander>summary {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    list-style: none;
+    padding: 0.15rem 0;
+}
+
+/* Hide default marker */
+.expander>summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Big, visible caret that rotates */
+.expander>summary::before {
+    content: "▸";
+    /* use "▸" or "▶" */
+    font-size: 1.25rem;
+    /* increase if you want it bigger */
+    line-height: 1;
+    color: var(--secondary, #6b7280);
+    transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.expander[open]>summary::before {
+    transform: rotate(90deg);
+    color: var(--link, #2a67b1);
+}
+
+/* Ensure headings inside the expander are inline and left-aligned */
+.expander-heading {
+    display: inline;
+    margin: 0;
+    text-align: left !important;
+    /* override theme centering */
+    color: var(--primary, #111);
+    font-weight: 700;
+}
+
+/* Calibrated sizes for h1/h2/h3 inside expanders */
+.expander-heading.h1,
+.expander>summary h1.expander-heading {
+    font-size: 1.9rem;
+}
+
+.expander-heading.h2,
+.expander>summary h2.expander-heading {
+    font-size: 1.55rem;
+}
+
+.expander-heading.h3,
+.expander>summary h3.expander-heading {
+    font-size: 1.3rem;
+}
+
+/* Optional hover cue */
+.expander>summary:hover::before {
+    color: var(--link, #2a67b1);
+}
+
+/* Optional: subtle open-state emphasis */
+.expander[open]>summary .expander-heading {
+    color: var(--primary, #111);
+}
+
+
+.citations-wrapper {
+    margin-top: 2rem;
+}
+
+.citations-wrapper ol {
+    counter-reset: cite;
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.citations-wrapper li {
+    counter-increment: cite;
+    margin: 0 0 1.25rem 0;
+    padding-left: 2.2rem;
+    text-indent: -2.2rem;
+
+}
+
+.citations-wrapper li::marker {
+
+    content: "";
+}
+
+.citations-wrapper li::before {
+    content: "[" counter(cite) "] ";
+    font-variant-numeric: tabular-nums;
+    color: var(--secondary, #6b7280);
+    font-weight: 500;
+    margin-right: 0.4rem;
+}
+
+/* Line stack within each citation */
+.citation-authors,
+.citation-year,
+.citation-title,
+.citation-venue,
+.citation-meta,
+.citation-links {
+    display: inline;
+}
+
+/* Authors - readable weight */
+.citation-authors {
+    font-weight: 600;
+    color: var(--primary, #111);
+}
+
+/* Year - neutral */
+.citation-year {
+    color: var(--secondary, #6b7280);
+}
+
+/* Title - link-like blue, italic optional */
+.citation-title {
+    font-style: italic;
+    color: var(--link, #2a67b1);
+}
+
+/* Venue - lighter small-caps feel */
+.citation-venue {
+    color: var(--secondary, #6b7280);
+    letter-spacing: 0.01em;
+}
+
+/* Meta - accepted, preprint, best paper, etc. */
+.citation-meta {
+    color: var(--secondary, #6b7280);
+}
+
+/* Inline pill links */
+.citation-links a {
+    display: inline-block;
+    padding: 0.1rem 0.45rem;
+    margin-left: 0.4rem;
+    border-radius: 9999px;
+    text-decoration: none;
+    font-size: 0.875rem;
+    line-height: 1.2;
+    background: rgba(42, 103, 177, 0.08);
+    color: var(--link, #2a67b1);
+    border: 1px solid rgba(42, 103, 177, 0.18);
+}
+
+.citation-links a:hover {
+    background: rgba(42, 103, 177, 0.16);
+}
+
+/* Year heading spacing */
+.citations-wrapper h2 {
+    margin: 0 0 0.75rem 0;
+}

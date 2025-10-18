@@ -1,0 +1,39 @@
+.simple-list {
+    list-style: disc;
+    margin: 0.25rem 0 1rem 1.35rem;
+    font-size: 0.95rem;
+    padding: 0;
+}
+
+.simple-list li {
+    margin: 0 0 1rem 0;
+    list-style-type: none;
+}
+
+.simple-list a {
+    color: var(--link, #2a67b1);
+    /* text-decoration: underline; */
+}
+
+.simple-list a:hover {
+    text-decoration: none;
+}
+
+.simple-sub {
+    color: var(--secondary, #4b5563);
+    font-size: 0.90rem;
+
+    margin-top: 0.15rem;
+    line-height: 1.45;
+}
+
+/* Highlight items marked as current */
+.simple-list li.current-role {
+    /* background: rgba(79, 156, 196, 0.10); */
+    border-left: 0;
+    /* padding: 0.5rem 0.75rem 0.5rem 1rem; */
+    /* add inner breathing space */
+    /* margin-left: -1.25rem; */
+    /* spill the background to the left */
+    border-radius: 0.25rem;
+}

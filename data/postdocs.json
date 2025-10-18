@@ -1,0 +1,330 @@
+[
+    {
+        "period": "2025–present",
+        "name": "Abid Ali",
+        "profile": "https://scholar.google.com/citations?user=iehHhVQAAAAJ&hl=fr",
+        "phd_university": "Université Côte d’Azur, INRIA",
+        "status": "ongoing",
+        "current": {
+            "org": "SnT, University of Luxembourg",
+            "url": "https://www.uni.lu/snt-en/"
+        }
+    },
+    {
+        "period": "2025–present",
+        "name": "Nicla Notarangelo",
+        "profile": "https://scholar.google.com/citations?user=zi_HaXEAAAAJ",
+        "phd_university": "Università degli Studi della Basilicata",
+        "status": "ongoing",
+        "current": {
+            "org": "SnT, University of Luxembourg",
+            "url": "https://www.uni.lu/snt-en/"
+        }
+    },
+    {
+        "period": "2024–present",
+        "name": "Samet Hicsonmez",
+        "phd_university": "Hacettepe University",
+        "profile": "https://scholar.google.com/citations?user=biHfDhUAAAAJ",
+        "status": "ongoing",
+        "current": {
+            "org": "SnT, University of Luxembourg",
+            "url": "https://www.uni.lu/snt-en/"
+        }
+    },
+    {
+        "period": "2025–present",
+        "name": "Dan Pineau",
+        "profile": "https://scholar.google.com/citations?user=N55KrR4AAAAJ",
+        "phd_university": "Institut d'Astrophysique Spatiale",
+        "status": "ongoing",
+        "current": {
+            "org": "SnT, University of Luxembourg",
+            "url": "https://www.uni.lu/snt-en/"
+        }
+    },
+    {
+        "period": "2024–present",
+        "name": "Jose Sosa",
+        "profile": "https://scholar.google.com/citations?hl=fr&user=R6rtktIAAAAJ",
+        "phd_university": {
+            "name": "University of Leeds",
+            "url": "https://www.leeds.ac.uk/"
+        },
+        "status": "ongoing",
+        "current": {
+            "org": "SnT, University of Luxembourg",
+            "url": "https://www.uni.lu/snt-en/"
+        }
+    },
+    {
+        "period": "2024–present",
+        "name": "Danila Ruchovich",
+        "profile": "https://scholar.google.com/citations?user=Osx2uh5eA2kC",
+        "phd_university": "Lomonosov Moscow State University",
+        "status": "ongoing",
+        "current": {
+            "org": "SnT, University of Luxembourg",
+            "url": "https://www.uni.lu/snt-en/"
+        }
+    },
+    {
+        "period": "2023–present",
+        "name": "Dimitrios Mallis",
+        "profile": "https://scholar.google.com/citations?user=Gfc5ZXoAAAAJ",
+        "phd_university": "University of Nottingham",
+        "status": "ongoing",
+        "current": {
+            "org": "SnT, University of Luxembourg",
+            "url": "https://www.uni.lu/snt-en/"
+        }
+    },
+    {
+        "period": "2024–2025",
+        "name": "Niki Foteinopoulou",
+        "profile": "https://scholar.google.com/citations?user=R9DTsJEAAAAJ",
+        "phd_university": "Queen Mary University of London",
+        "status": "completed",
+        "current": {
+            "org": "Toshiba Europe LTD",
+            "url": "https://www.toshiba.eu/"
+        }
+    },
+    {
+        "period": "2023–2025",
+        "name": "Marcella Astrid",
+        "profile": "https://scholar.google.com/citations?user=TXBGJhgAAAAJ",
+        "phd_university": "University of Science and Technology, Daejeon",
+        "status": "completed",
+        "current": {
+            "org": "Helmholtz AI",
+            "url": "https://www.helmholtz.ai/en.html"
+        }
+    },
+    {
+        "period": "2022–2023",
+        "name": "Wassim Rharbaoui",
+        "profile": "https://scholar.google.com/citations?user=1OKAqtsAAAAJ",
+        "phd_university": "Université de Poitiers",
+        "status": "completed",
+        "current": {
+            "org": "Université de Poitiers",
+            "url": "https://www.univ-poitiers.fr/"
+        }
+    },
+    {
+        "period": "2022–2024",
+        "name": "Matthieu Ruthven",
+        "phd_university": "King’s College London",
+        "status": "completed",
+        "current": {
+            "org": "European Commission",
+            "url": "https://ec.europa.eu/info/index_en"
+        }
+    },
+    {
+        "period": "2022–2023",
+        "name": "Michele Jamrozik",
+        "profile": "https://scholar.google.com/citations?user=R-rfC04AAAAJ",
+        "phd_university": "Georgia Tech University",
+        "status": "completed",
+        "current": {
+            "org": "NATO",
+            "url": "https://www.nato.int/"
+        }
+    },
+    {
+        "period": "2022–2024",
+        "name": "Carl Schneider",
+        "profile": "https://scholar.google.com/citations?user=n3OR5Y8AAAAJ",
+        "phd_university": "Leiden University",
+        "status": "ongoing",
+        "current": {
+            "org": "SnT, University of Luxembourg",
+            "url": "https://www.uni.lu/snt-en/"
+        }
+    },
+    {
+        "period": "2021–2022",
+        "name": "Kankana Roy",
+        "profile": "https://scholar.google.com/citations?user=PJmak3cAAAAJ",
+        "phd_university": "Indian Institute of Technology, Kharagpur",
+        "status": "completed",
+        "current": {
+            "org": "Karolinska Institutet",
+            "url": "https://ki.se/en"
+        }
+    },
+    {
+        "period": "2021–2023",
+        "name": "Leo Pauly",
+        "profile": "https://scholar.google.com/citations?user=KbSrv50AAAAJ",
+        "phd_university": "University of Leeds",
+        "status": "completed",
+        "current": {
+            "org": "Plasma Orbital",
+            "url": "https://plasmaorbital.com/"
+        }
+    },
+    {
+        "period": "2021–2023",
+        "name": "Sk Ali Aziz",
+        "profile": "https://scholar.google.com/citations?user=zywjMeMAAAAJ",
+        "phd_university": "TU Kaiserslautern - DFKI",
+        "status": "completed",
+        "current": {
+            "org": "BITS, Pilani",
+            "url": "https://www.bits-pilani.ac.in/pilani/"
+        }
+    },
+    {
+        "period": "2021–2022",
+        "name": "Laura Lopez Fuentes",
+        "profile": "https://scholar.google.com/citations?user=zbxGH70AAAAJ",
+        "phd_university": "University of the Balearic Islands",
+        "status": "completed",
+        "current": {
+            "org": "-"
+        }
+    },
+    {
+        "period": "2021–present",
+        "name": "Arunkumar Rathinam",
+        "profile": "https://scholar.google.com/citations?user=zC2Ri2MAAAAJ",
+        "phd_university": "University of New South Wales",
+        "status": "ongoing",
+        "current": {
+            "org": "SnT, University of Luxembourg",
+            "url": "https://www.uni.lu/snt-en/"
+        }
+    },
+    {
+        "period": "2021–2022",
+        "name": "Miguel Ortiz",
+        "profile": "https://scholar.google.com/citations?user=6SXfw4MAAAAJ",
+        "phd_university": "University of Alcala",
+        "status": "completed",
+        "current": {
+            "org": "University of Melbourne",
+            "url": "https://www.unimelb.edu.au/"
+        }
+    },
+    {
+        "period": "2021–present",
+        "name": "Vincent Gaudillière",
+        "profile": "https://scholar.google.com/citations?user=izegIRsAAAAJ",
+        "phd_university": "INRIA, Nancy",
+        "status": "ongoing",
+        "current": {
+            "org": "Université de Lorraine",
+            "url": "https://www.univ-lorraine.fr/"
+        }
+    },
+    {
+        "period": "2020–2022",
+        "name": "Oyebade Oyedotun",
+        "profile": "https://scholar.google.com/citations?user=9uZx0QwAAAAJ",
+        "phd_university": "University of Luxembourg",
+        "status": "completed",
+        "current": {
+            "org": "Spire",
+            "url": "https://www.spire.com/"
+        }
+    },
+    {
+        "period": "2019–present",
+        "name": "Anis Kacem",
+        "profile": "https://scholar.google.com/citations?user=K3EWusMAAAAJ",
+        "phd_university": "University of Lille",
+        "status": "ongoing",
+        "current": {
+            "org": "SnT, University of Luxembourg",
+            "url": "https://www.uni.lu/snt-en/"
+        }
+    },
+    {
+        "period": "2019–2021",
+        "name": "Kassem Al Ismaeil",
+        "phd_university": "University of Luxembourg",
+        "status": "completed",
+        "current": {
+            "org": "Ministry of Education",
+            "url": "https://www.men.lu/"
+        }
+    },
+    {
+        "period": "2018–2019",
+        "name": "Rig Das",
+        "profile": "https://scholar.google.com/citations?hl=fr&user=kYsizZYAAAAJ",
+        "phd_university": "Roma Tre University",
+        "status": "completed",
+        "current": {
+            "org": "Technical University of Denmark",
+            "url": "https://www.dtu.dk/english"
+        }
+    },
+    {
+        "period": "2018–2023",
+        "name": "Enjie Ghorbel",
+        "profile": "https://scholar.google.com/citations?hl=fr&user=gQjuVcEAAAAJ",
+        "phd_university": "University of Normandie",
+        "status": "completed",
+        "current": {
+            "org": "Manouba University",
+            "url": "https://uma.rnu.tn/"
+        }
+    },
+    {
+        "period": "2016–2020",
+        "name": "Abd El Rahman Shabayek",
+        "profile": "https://scholar.google.com/citations?user=185kRdEAAAAJ",
+        "phd_university": "University of Burgundy",
+        "status": "completed",
+        "current": {
+            "org": "SnT, University of Luxembourg",
+            "url": "https://www.uni.lu/snt-en/"
+        }
+    },
+    {
+        "period": "2017–2018",
+        "name": "Girum Demisse",
+        "profile": "https://scholar.google.com/citations?user=dppFtgoAAAAJ",
+        "phd_university": "University of Luxembourg",
+        "status": "completed",
+        "current": {
+            "org": "Meta",
+            "url": "https://meta.com/"
+        }
+    },
+    {
+        "period": "2015–2017",
+        "name": "Michel Antunes",
+        "profile": "https://scholar.google.com/citations?hl=fr&user=hM5uzzwAAAAJ",
+        "phd_university": "Coimbra University",
+        "status": "completed",
+        "current": {
+            "org": "Perceive 3D",
+            "url": "https://www.perceive3d.com/"
+        }
+    },
+    {
+        "period": "2012–2013",
+        "name": "Alexander Stojanovic",
+        "phd_university": "RWTH Aachen University",
+        "status": "completed",
+        "current": {
+            "org": "Luxembourg Administration",
+            "url": "https://gouvernement.lu/en.html"
+        }
+    },
+    {
+        "period": "2012–2014",
+        "name": "Frederic Garcia",
+        "phd_university": "University of Luxembourg",
+        "status": "completed",
+        "current": {
+            "org": "IEE",
+            "url": "https://iee.lu/"
+        }
+    }
+]

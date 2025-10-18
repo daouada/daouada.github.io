@@ -1,0 +1,98 @@
+[
+    {
+        "period": "Fall 2020 - Present (Yearly)",
+        "course": "Computer Vision & Image Analysis",
+        "program": {
+            "name": "Master in Space Technologies and Business (MSTB)",
+            "url": "https://www.uni.lu/fstm-en/study-programs/master-in-space-technologies-and-business/"
+        },
+        "institution": {
+            "name": "University of Luxembourg",
+            "url": "https://www.uni.lu/"
+        }
+    },
+    {
+        "period": "Fall 2020 - Present (Yearly)",
+        "course": "Computer Vision & Image Analysis",
+        "program": {
+            "name": "Master in Information and Computer Science (MICS)",
+            "url": "https://www.uni.lu/fstm-en/study-programs/master-in-information-and-computer-sciences/"
+        },
+        "institution": {
+            "name": "University of Luxembourg",
+            "url": "https://www.uni.lu/"
+        }
+    },
+    {
+        "period": "Spring 2018, 2019",
+        "course": "Visual Perception (Image Filtering, Image Features, and Image Matching)",
+        "program": {
+            "name": "International Master in Vision and Robotics (VIBOT)",
+            "url": "https://www.vibot.org/"
+        },
+        "institution": {
+            "name": "University of Burgundy",
+            "url": "https://en.u-bourgogne.fr/"
+        }
+    },
+    {
+        "period": "Fall 2012, 2013",
+        "course": "Advanced Image Analysis",
+        "program": {
+            "name": "International Master in Vision and Robotics (VIBOT)",
+            "url": "https://www.vibot.org/"
+        },
+        "institution": {
+            "name": "University of Burgundy",
+            "url": "https://en.u-bourgogne.fr/"
+        }
+    },
+    {
+        "period": "Fall 2012",
+        "course": "Robotics Projects",
+        "program": {
+            "name": "International Master in Vision and Robotics (VIBOT)",
+            "url": "https://www.vibot.org/"
+        },
+        "institution": {
+            "name": "University of Burgundy",
+            "url": "https://en.u-bourgogne.fr/"
+        }
+    },
+    {
+        "period": "Spring 2012",
+        "course": "Software Engineering",
+        "program": {
+            "name": "International Master in Vision and Robotics (VIBOT)",
+            "url": "https://www.vibot.org/"
+        },
+        "institution": {
+            "name": "University of Burgundy",
+            "url": "https://en.u-bourgogne.fr/"
+        }
+    },
+    {
+        "period": "Spring 2009",
+        "course": "Optimization",
+        "program": {
+            "name": "Graduate Course in Electrical and Computer Engineering (ECE)",
+            "url": "https://ece.ncsu.edu/grad/masters/"
+        },
+        "institution": {
+            "name": "North Carolina State University (NCSU)",
+            "url": "https://www.ncsu.edu/"
+        }
+    },
+    {
+        "period": "Spring 2008",
+        "course": "Electrical Engineering for Non-Electrical Engineers",
+        "program": {
+            "name": "Undergraduate Course for non-Electrical Engineers",
+            "url": "https://ece.ncsu.edu/ugrad/"
+        },
+        "institution": {
+            "name": "North Carolina State University (NCSU)",
+            "url": "https://www.ncsu.edu/"
+        }
+    }
+]

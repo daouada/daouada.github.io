@@ -1,0 +1,92 @@
+.phds-table-wrapper {
+    margin-top: 1rem;
+}
+
+.phds-table {}
+
+.phds-table th,
+.phds-table td {
+    padding: 0.5rem 0.6rem;
+    vertical-align: top;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.phds-table thead th {
+    border-top: none;
+    font-weight: 600;
+    color: var(--primary, #111);
+}
+
+.phds-table .col-title em {
+    color: var(--link, #2a67b1);
+}
+
+.phds-table .col-candidate a {
+    color: var(--primary, #111);
+    text-decoration: none;
+}
+
+/* Make the thesis column roomier on wide screens */
+@media (min-width: 960px) {
+    .phds-table .col-title {
+        width: 42%;
+    }
+}
+
+/* Badges consistent with your pill style */
+.badge {
+    display: inline-block;
+    padding: 0.1rem 0.45rem;
+    border-radius: 9999px;
+    font-size: 0.8rem;
+    line-height: 1.2;
+    border: 1px solid transparent;
+}
+
+.badge-ongoing {
+    background: rgba(42, 103, 177, 0.10);
+    color: var(--link, #2a67b1);
+    border-color: rgba(42, 103, 177, 0.18);
+}
+
+.badge-completed {
+    background: rgba(90, 90, 90, 0.10);
+    color: #444;
+    border-color: rgba(90, 90, 90, 0.18);
+}
+
+/* Row highlight for ongoing entries, similar to your current-role card look */
+.phds-table tr.is-ongoing {
+    background: rgba(79, 156, 196, 0.08);
+}
+
+.phds-table tr.is-ongoing td {
+    border-top-color: rgba(79, 156, 196, 0.18);
+}
+
+/* Small “Now:” line */
+.next-role {
+    color: var(--secondary, #4b5563);
+    font-size: 0.92rem;
+    line-height: 1.35;
+}
+
+/* Center the “Current” column */
+.phds-table .col-current {
+    text-align: center;
+    vertical-align: top;
+}
+
+/* Center the next-role content cleanly */
+.next-role.centered {
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
+/* Style the link inside “Current” column to match site palette */
+.phds-table .col-current a {
+    color: var(--link, #2a67b1);
+    text-decoration: none;
+    font-weight: 500;
+}

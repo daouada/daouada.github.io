@@ -1,0 +1,24 @@
+.postdocs-table thead th {
+    border-top: none;
+    font-weight: 600;
+    color: var(--primary, #111);
+}
+
+.postdocs-table .col-current a {
+    text-decoration: none;
+    color: var(--link, #2a67b1);
+}
+
+.postdocs-table .col-current a:hover {
+    text-decoration: none;
+}
+
+@media (min-width: 960px) {
+    .postdocs-table .col-univ {
+        width: 42%;
+    }
+}
+
+.postdocs-table .col-candidate {
+    max-width: 120px;
+}

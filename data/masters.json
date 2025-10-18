@@ -1,0 +1,192 @@
+[
+    {
+        "year": "2025–26",
+        "name": "Marco Wang",
+        "title": "Enhanced Spatial Reasoning for Code-based 3D Content Generation with Multimodal Large Language Models (MLLMs)",
+        "host_university": {
+            "name": "University of Trento",
+            "url": "https://www.unitn.it/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2025",
+        "name": "Eya Khamassi",
+        "title": "Conception participative d'une plateforme éducative assistée par l’IA : approche centrée utilisateurs pour une expérience d’apprentissage personnalisée et inclusive",
+        "host_university": {
+            "name": "University of Lorraine",
+            "url": "https://www.univ-lorraine.fr/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2023",
+        "name": "Mohammed Elamine",
+        "title": "Real-time Lidar SLAM on Embedded Platforms",
+        "host_university": {
+            "name": "University of Strasbourg",
+            "url": "https://www.unistra.fr/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2021",
+        "name": "Cosmin Radoi",
+        "title": "A Real-World Perspective on Evaluating Deepfake Detectors",
+        "host_university": {
+            "name": "University of Luxembourg",
+            "url": "https://www.uni.lu/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2021",
+        "name": "Haytam Qadadri",
+        "title": "Using event data for spacecraft pose estimation",
+        "host_university": {
+            "name": "University of Strasbourg",
+            "url": "https://www.unistra.fr/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2021",
+        "name": "Nesryne Mejri",
+        "title": "Leveraging High-Frequency Components for Deepfake Detection",
+        "host_university": {
+            "name": "University of Luxembourg",
+            "url": "https://www.uni.lu/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2021",
+        "name": "Elona Dupont",
+        "title": "Music to Dance Leveraging 2D to 3D",
+        "host_university": {
+            "name": "University of Luxembourg",
+            "url": "https://www.uni.lu/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2021",
+        "name": "Michele Jamrozik",
+        "title": "Image Enhancement for Space Surveillance and Tracking",
+        "host_university": {
+            "name": "University of Luxembourg",
+            "url": "https://www.uni.lu/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2020",
+        "name": "Sadiq Maculay",
+        "title": "Recovering 3D Face Occlusions using Deep Generative Models for 3D Face Recognition",
+        "host_university": {
+            "name": "University of Burgundy",
+            "url": "https://en.u-bourgogne.fr/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2020",
+        "name": "Inder Pal",
+        "title": "3D human behavior understanding using deep neural networks and a single RGB camera",
+        "host_university": {
+            "name": "University of Burgundy",
+            "url": "https://en.u-bourgogne.fr/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2019",
+        "name": "Hamza Ben Abdessalem",
+        "title": "Expression Invariant Face Recognition",
+        "host_university": {
+            "name": "Higher Institute of Multimedia Arts of Manouba",
+            "url": "https://www.isamm.uma.tn/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2019",
+        "name": "Mohamed Adel",
+        "title": "Vision-based temporal modelling and its application to action recognition from arbitrary viewpoints",
+        "host_university": {
+            "name": "University of Burgundy",
+            "url": "https://en.u-bourgogne.fr/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2018",
+        "name": "Cristian Porumb",
+        "title": "Landmark detection on 3D human bodies using a coarse-to-fine segmentation",
+        "host_university": {
+            "name": "University of Luxembourg",
+            "url": "https://www.uni.lu/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2018",
+        "name": "Himadri Pathak",
+        "title": "View-invariant action recognition using RGB data",
+        "host_university": {
+            "name": "University of Luxembourg",
+            "url": "https://www.uni.lu/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2015",
+        "name": "Daniel Barmaimon",
+        "title": "Depth Video-Based Facial Emotion Analysis",
+        "host_university": {
+            "name": "University of Burgundy",
+            "url": "https://en.u-bourgogne.fr/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2013",
+        "name": "Kedidja Kedir Idris",
+        "title": "Face recognition using a time-of-flight camera",
+        "host_university": {
+            "name": "University of Trento",
+            "url": "https://www.unitn.it/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2013",
+        "name": "Lijia Gao",
+        "title": "Depth single image super resolution by sparse coding",
+        "host_university": {
+            "name": "University of Burgundy",
+            "url": "https://en.u-bourgogne.fr/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2012",
+        "name": "Abdennour Zeboudj",
+        "title": "Representation of color information in 1 dimension",
+        "host_university": {
+            "name": "École Nationale Polytechnique d’Alger",
+            "url": "https://www.enp.edu.dz/"
+        },
+        "profile": ""
+    },
+    {
+        "year": "2012",
+        "name": "Hashim Kemal Abdella",
+        "title": "Enhancement of stereo sensing by fusion",
+        "host_university": {
+            "name": "Heriot-Watt University",
+            "url": "https://www.hw.ac.uk/"
+        },
+        "profile": ""
+    }
+]

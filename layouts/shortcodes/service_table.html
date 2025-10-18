@@ -1,0 +1,27 @@
+{{/* layouts/shortcodes/service_table.html */}}
+
+{{ $rows := site.Data.service }}
+{{ if not $rows }}
+<p>No professional service records found.</p>
+{{ else }}
+<table class="phds-table service-table">
+    <thead>
+        <tr>
+            <th class="col-period">Period</th>
+            <th class="col-role">Role</th>
+            <th class="col-organization">Organization / Event</th>
+            <th class="col-details">Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range sort $rows "period" "desc" }}
+        <tr>
+            <td class="col-period">{{ .period }}</td>
+            <td class="col-role">{{ .role }}</td>
+            <td class="col-organization">{{ .organization }}</td>
+            <td class="col-details">{{ .details }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+{{ end }}

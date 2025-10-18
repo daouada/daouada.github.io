@@ -1,0 +1,187 @@
+[
+    {
+        "type": "Panel",
+        "title": "#Switch2Space: Why does space need AI?",
+        "event": "NewSpace Event 2024",
+        "location": "Luxembourg",
+        "date": "Dec. 2024",
+        "links": {}
+    },
+    {
+        "type": "Plenary",
+        "title": "Generating 3D, Detecting Fakes: Two Imperatives for Generative Visual AI",
+        "event": "5th International Conference on Recent Trends in Image Processing & Pattern Recognition (RTIP2R’25)",
+        "location": "Marrakech, Morocco",
+        "date": "Dec. 2025",
+        "links": {}
+    },
+    {
+        "type": "Invited",
+        "title": "Luxembourg’s AI Vision: Taking Chances on Innovation",
+        "event": "Google Cloud Summit",
+        "location": "Amsterdam, Netherlands",
+        "date": "May 2025",
+        "links": {}
+    },
+    {
+        "type": "Plenary",
+        "title": "Generating 3D, Detecting Fakes: Two Imperatives for Generative Visual AI",
+        "event": "Netherlands Conference on Computer Vision (NCCV)",
+        "location": "Utrecht, Netherlands",
+        "date": "May 2025",
+        "links": {}
+    },
+    {
+        "type": "Invited",
+        "title": "Controllable 3D Content Creation for the Metaverse",
+        "event": "AI4Metaverse Workshop at the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "location": "Nashville, USA",
+        "date": "Jun. 2025",
+        "links": {}
+    },
+    {
+        "type": "Keynote",
+        "title": "Computer Vision within the Startup Ecosystem",
+        "event": "AI for Africa Conference (AIFA’23) in conjunction with the African Startup Conference",
+        "location": "Algiers, Algeria",
+        "date": "Dec. 2023",
+        "links": {}
+    },
+    {
+        "type": "Invited Keynote",
+        "title": "AI for Situational Awareness",
+        "event": "19th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) – Canceled",
+        "location": "Daegu, South Korea",
+        "date": "Nov. 2023",
+        "description": "Conference was exceptionally canceled due to pandemic restrictions.",
+        "links": {}
+    },
+    {
+        "type": "Plenary",
+        "title": "AI-Powered Computer Vision: To the Moon and Back",
+        "event": "University of Luxembourg Lecture Series",
+        "location": "Luxembourg",
+        "date": "Oct. 2023",
+        "links": {}
+    },
+    {
+        "type": "Contributed",
+        "title": "SHARP: Solving CAD History and Parameters Recovery from Point Clouds and 3D Scans",
+        "event": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+        "location": "Paris, France",
+        "date": "Oct. 2023",
+        "links": {}
+    },
+    {
+        "type": "Invited",
+        "title": "AI-Powered Computer Vision: To the Moon and Back",
+        "event": "Kick-off of the Algerian AI Board",
+        "location": "Algiers, Algeria",
+        "date": "Jun. 2023",
+        "links": {}
+    },
+    {
+        "type": "Contributed",
+        "title": "SepicNet: Sharp Edges Recovery by Parametric Inference of Curves in 3D Shapes",
+        "event": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "location": "Vancouver, Canada",
+        "date": "Jun. 2023",
+        "links": {}
+    },
+    {
+        "type": "Contributed",
+        "title": "SHARP: Shape Recovery from Partial Textured 3D Scans",
+        "event": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "location": "New Orleans, LA, USA",
+        "date": "Jun. 2022",
+        "links": {}
+    },
+    {
+        "type": "Invited",
+        "title": "Insights from a Woman in Computer Vision",
+        "event": "Women in Computer Vision Workshop (WiCV), IEEE/CVF CVPR",
+        "location": "New Orleans, LA, USA",
+        "date": "Jun. 2022",
+        "links": {}
+    },
+    {
+        "type": "Invited",
+        "title": "SPARK: Spacecraft Recognition leveraging Knowledge of Space Environment",
+        "event": "AI4Space Workshop, European Conference on Computer Vision (ECCV)",
+        "location": "Online",
+        "date": "2022",
+        "links": {}
+    },
+    {
+        "type": "Contributed & Panel",
+        "title": "SHARP: Shape Recovery from Partial Textured 3D Scans",
+        "event": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "location": "Online",
+        "date": "Jun. 2021",
+        "links": {}
+    },
+    {
+        "type": "Contributed & Panel",
+        "title": "SHARP: Shape Recovery from Partial Textured 3D Scans",
+        "event": "European Conference on Computer Vision (ECCV)",
+        "location": "Online",
+        "date": "Aug. 2020",
+        "links": {}
+    },
+    {
+        "type": "Panel",
+        "title": "Enhancing Women's Role in the Tech Industry",
+        "event": "ICT Spring",
+        "location": "Luxembourg",
+        "date": "May 2019",
+        "links": {}
+    },
+    {
+        "type": "Invited",
+        "title": "Computer Vision Made in Luxembourg",
+        "event": "ICT Spring",
+        "location": "Luxembourg",
+        "date": "May 2018",
+        "links": {}
+    },
+    {
+        "type": "Tutorial",
+        "title": "Depth Video Enhancement",
+        "event": "12th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP)",
+        "location": "Porto, Portugal",
+        "date": "Feb. 2017",
+        "links": {}
+    },
+    {
+        "type": "Contributed",
+        "title": "A Revisit to Human Action Recognition from Depth Sequences: Guided SVM-Sampling for Joint Selection",
+        "event": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+        "location": "Lake Placid, NY, USA",
+        "date": "Mar. 2016",
+        "links": {}
+    },
+    {
+        "type": "Invited",
+        "title": "3D Reconstruction of Dynamic Non-Rigid Scenes",
+        "event": "Binghamton University",
+        "location": "New York, USA",
+        "date": "Mar. 2016",
+        "links": {}
+    },
+    {
+        "type": "Contributed",
+        "title": "Real-Time Non-Rigid Multi-Frame Depth Video Super-Resolution",
+        "event": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "location": "Boston, MA, USA",
+        "date": "Jun. 2015",
+        "links": {}
+    },
+    {
+        "type": "Invited",
+        "title": "3D Reconstruction of Dynamic Non-Rigid Scenes",
+        "event": "University of Burgundy",
+        "location": "Le Creusot, France",
+        "date": "Apr. 2015",
+        "links": {}
+    }
+]

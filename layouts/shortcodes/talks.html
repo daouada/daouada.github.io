@@ -1,0 +1,81 @@
+{{/* layouts/shortcodes/talks.html */}}
+
+{{/* Load talks data */}}
+{{ $raw := site.Data.talks }}
+{{ if not $raw }}
+<p>No talks found.</p>
+{{ else }}
+
+{{/* Preprocess: attach a computed year to each talk entry */}}
+{{ $processed := slice }}
+{{ range $raw }}
+{{ $date := .date | default "" }}
+{{ $year := replaceRE ".*?(\\d{4})$" "$1" $date }}
+{{ if not (findRE "^\\d{4}$" $year) }}{{ $year = .year | default "Unknown" }}{{ end }}
+{{ $item := dict
+"type" (.type | default "")
+"title" (.title | default "")
+"event" (.event | default "")
+"location" (.location | default "")
+"date" $date
+"year" $year
+"description" (.description | default "")
+"links" (.links | default dict)
+}}
+{{ $processed = $processed | append $item }}
+{{ end }}
+
+{{/* Collect unique years */}}
+{{ $years := slice }}
+{{ range $processed }}
+{{ $y := .year | string }}
+{{ if and $y (not (in $years $y)) }}
+{{ $years = $years | append $y }}
+{{ end }}
+{{ end }}
+
+{{/* Sort ascending, then iterate descending */}}
+{{ $years = sort $years }}
+{{ $n := len $years }}
+
+<div class="talks-wrapper">
+    {{ range (seq $n) }}
+    {{ $idx := sub $n . }}
+    {{ $year := index $years $idx }}
+
+    <h2 id="talks-{{ $year }}">{{ $year }}</h2>
+    <ul class="simple-list talks-list">
+        {{/* Filter items by year and sort by date/title to get stable order */}}
+        {{ $inYear := where $processed "year" $year }}
+        {{ range sort $inYear "title" "asc" }}
+        <li>
+            {{/* Type badge (if present) */}}
+            {{ with .type }}
+            <span class="talk-type">{{ . }}</span>
+            {{ end }}
+
+            <strong>{{ .title }}</strong>
+            {{ with .event }} — <em>{{ . }}</em>{{ end }}
+            {{ with .location }}, {{ . }}{{ end }}
+            {{ with .date }}, {{ . }}{{ end }}.
+
+            {{/* Optional description */}}
+            {{ with .description }}
+            <div class="simple-sub">{{ . }}</div>
+            {{ end }}
+
+            {{/* Optional links: site / video / slides (any subset) */}}
+            {{ $L := .links }}
+            {{ if $L }}
+            <div class="talk-links">
+                {{ with (index $L "site") }}<a href="{{ . }}" target="_blank" rel="noopener">Event</a>{{ end }}
+                {{ with (index $L "video") }}<a href="{{ . }}" target="_blank" rel="noopener">Video</a>{{ end }}
+                {{ with (index $L "slides") }}<a href="{{ . }}" target="_blank" rel="noopener">Slides</a>{{ end }}
+            </div>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</div>
+{{ end }}

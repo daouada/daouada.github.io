@@ -1,0 +1,45 @@
+.service-table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.service-table .col-period {
+    width: 12%;
+}
+
+.service-table .col-role {
+    width: 18%;
+}
+
+.service-table .col-organization {
+    width: 35%;
+}
+
+.service-table .col-details {
+    width: 35%;
+}
+
+.service-table td,
+.service-table th {
+    padding: 0.5rem 0.75rem;
+    vertical-align: top;
+}
+
+.service-table tr:nth-child(even) {
+    background-color: rgba(79, 156, 196, 0.06);
+}
+
+.service-table th {
+    font-weight: 600;
+    border-bottom: 1px solid #ccc;
+}
+
+.service-table a {
+    color: var(--link, #2a67b1);
+    text-decoration: none;
+}
+
+.service-table a:hover {
+    text-decoration: none;
+}

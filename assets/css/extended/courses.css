@@ -1,0 +1,51 @@
+.courses-table {
+    table-layout: fixed;
+    width: 100%;
+    font-size: 0.93rem;
+    /* smaller overall text */
+}
+
+.courses-table thead th {
+    color: #292929;
+    /* font-weight: 600; */
+    /* slightly bold headers only */
+}
+
+/* Column balance for readability */
+.courses-table .col-period {
+    width: 23%;
+}
+
+.courses-table .col-course {
+    width: 25%;
+}
+
+.courses-table .col-program {
+    width: 30%;
+    /* font-weight: 400; */
+    /* not bold */
+}
+
+.courses-table .col-inst {
+    width: 20%;
+}
+
+/* Link styling (no underline on hover) */
+.courses-table .col-course a,
+.courses-table .col-program a,
+.courses-table .col-inst a {
+    color: var(--link, #2a67b1);
+    text-decoration: none;
+    /* font-weight: 500; */
+}
+
+.courses-table .col-course a:hover,
+.courses-table .col-program a:hover,
+.courses-table .col-inst a:hover {
+    text-decoration: none;
+}
+
+/* Optional: italic styling for course names */
+.courses-table .col-course em {
+    color: var(--link, #2a67b1);
+}

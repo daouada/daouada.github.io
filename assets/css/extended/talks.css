@@ -1,0 +1,39 @@
+/* Talks tweaks */
+.talks-wrapper h2 {
+    margin: 0.75rem 0 0.5rem 0;
+}
+
+.talks-list .talk-type {
+    display: inline-block;
+    font-size: 0.75rem;
+    line-height: 1;
+    padding: 0.15rem 0.45rem;
+    margin-right: 0.5rem;
+    border-radius: 9999px;
+    background: rgba(42, 103, 177, 0.10);
+    /* soft blue */
+    color: var(--link, #2a67b1);
+    border: 1px solid rgba(42, 103, 177, 0.18);
+    vertical-align: text-top;
+}
+
+.talks-list .talk-links {
+    margin-top: 0.25rem;
+}
+
+.talks-list .talk-links a {
+    display: inline-block;
+    padding: 0.1rem 0.45rem;
+    margin-right: 0.35rem;
+    border-radius: 9999px;
+    text-decoration: none;
+    font-size: 0.85rem;
+    line-height: 1.2;
+    background: rgba(42, 103, 177, 0.08);
+    color: var(--link, #2a67b1);
+    border: 1px solid rgba(42, 103, 177, 0.18);
+}
+
+.talks-list .talk-links a:hover {
+    background: rgba(42, 103, 177, 0.16);
+}

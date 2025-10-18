@@ -1,0 +1,49 @@
+{{ $pubs := site.Data.publications }}
+{{ if not $pubs }}
+<p>No publications found.</p>
+{{ else }}
+
+{{/* Collect unique years as strings */}}
+{{ $years := slice }}
+{{ range $pubs }}
+{{ $y := .year | string }}
+{{ if not (in $years $y) }}
+{{ $years = $years | append $y }}
+{{ end }}
+{{ end }}
+
+{{/* Sort ascending, then iterate descending using indices (no reverse) */}}
+{{ $years = sort $years }}
+{{ $n := len $years }}
+
+<div class="citations-wrapper">
+    {{ range (seq $n) }}
+    {{ $idx := sub $n . }}
+    {{ $year := index $years $idx }}
+
+    <h2 id="{{ $year }}">{{ $year }}</h2>
+
+    {{/* Match year whether stored as string or int in data */}}
+    {{ $yearPubsStr := where $pubs "year" $year }}
+    {{ $yearPubs := cond (gt (len $yearPubsStr) 0) $yearPubsStr (where $pubs "year" (int $year)) }}
+
+    <ol>
+        {{ range sort $yearPubs "title" "asc" }}
+        <li>
+            <span class="citation-authors">{{ .authors }}</span>
+            <span class="citation-year"> ({{ .year }}). </span>
+            <span class="citation-title">"{{ .title }},"</span>
+            <span class="citation-venue"> <em>{{ .venue }}</em></span>{{ with .pages }}<span class="citation-meta">, pp.
+                {{ . }}</span>{{ end }}.
+            <span class="citation-links">
+                {{ with .doi }}
+                <a href="https://doi.org/{{ . }}" target="_blank" rel="noopener">DOI</a>
+                {{ end }}
+                <a href="/citations/{{ .slug }}.bib" target="_blank" rel="noopener">Cite</a>
+            </span>
+        </li>
+        {{ end }}
+    </ol>
+    {{ end }}
+</div>
+{{ end }}

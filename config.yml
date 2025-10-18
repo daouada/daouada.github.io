@@ -1,0 +1,111 @@
+baseURL: "https://daouada.github.io/" 
+title: Djamila Aouada
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: About Me
+          url: about_me/
+          weight: 1
+        - name: Research
+          url: research/
+          weight: 2 
+        - name: Team
+          url: team/
+          weight: 3
+        - name: Other Activities
+          url: other_activities/
+          weight: 4
+        - name: Join CVI²!
+          url: https://recruitment.uni.lu/en/index.html?LOV52=All&SUBDEPT2=All&LOV53=All&keywords=djamila+a
+          weight: 5
+    
+
+params:
+    description: "Academic page for Djamila Aouada."
+    author: Djamila Aouada
+    DateFormat: "October 2025"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["about_me", "research","teaching","outreach"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Djamila Aouada
+          # subtitle: "I am Associate Professor at the <strong style='color:#5d93af;'><a href='https://www.uni.lu/' target='_blank' rel='noopener noreferrer' style='color:#5d93af;'>University of Luxembourg (UL)</a></strong> and the Deputy Director of the <strong style='color:#63A375;'><a href='https://www.uni.lu/snt-en/' target='_blank' rel='noopener noreferrer' style='color:#5d93af;'>Interdisciplinary Centre for Security, Reliability and Trust (SnT)</a></strong>.<br><br>I lead the <strong style='color:#5d93af;'><a href='https://www.uni.lu/snt-en/research-groups/cvi2/' target='_blank' rel='noopener noreferrer' style='color:#5d93af;'>Computer Vision, Imaging and Machine Intelligence (CVI²)</a></strong> research group, focusing on advancing research in <u>Computer Vision</u> and <u>Machine Learning</u> with emphasis on real-world applications through industrial collaborations.<br><br>I am currently seeking a <u>Full Professorship in Computer Vision</u> to drive pioneering research, mentor and inspire the next generation of scientists, and position Luxembourg as a leader in AI and Computer Vision through impactful academic, industrial, and societal contributions.<br><br><strong style='color:#000000;'>Research Interests:</strong><br><u>General</u> — <em>Computer Vision, Artificial Intelligence, Data Modelling, Image Processing</em>.<br><u>Current Focus</u> — <em>Computer-Aided Design (CAD) Modelling, Multi-modal Sensing, Anomaly Detection, Deepfake Detection, Space Situational Awareness.</em><br><br><strong>Languages:</strong> Arabic, French, English, Russian (fluent); German, Luxembourgish (basic).<br><strong>Maternity leaves:</strong> 2015, 2019, 2023-2024."
+          subtitle: "I am Associate Professor at the <strong style='color:#5d93af;'><a href='https://www.uni.lu/' target='_blank' rel='noopener noreferrer' style='color:#5d93af;'>University of Luxembourg (UL)</a></strong> and the Deputy Director of the <strong style='color:#63A375;'><a href='https://www.uni.lu/snt-en/' target='_blank' rel='noopener noreferrer' style='color:#5d93af;'>Interdisciplinary Centre for Security, Reliability and Trust (SnT)</a></strong>.<br><br>I lead the <strong style='color:#5d93af;'><a href='https://www.uni.lu/snt-en/research-groups/cvi2/' target='_blank' rel='noopener noreferrer' style='color:#5d93af;'>Computer Vision, Imaging and Machine Intelligence (CVI²)</a></strong> research group, focusing on advancing research in <u>Computer Vision</u> and <u>Machine Learning</u> with emphasis on real-world applications through industrial collaborations.<br><br>I am currently seeking a <u>Full Professorship in Computer Vision</u> to drive pioneering research, mentor and inspire the next generation of scientists, and position Luxembourg as a leader in AI and Computer Vision through impactful academic, industrial, and societal contributions.<br><br><strong style='color:#000000;'>Research Interests:</strong><br><u>General</u> — <em>Computer Vision, Artificial Intelligence, Data Modelling, Image Processing</em>.<br><u>Current Focus</u> — <em>Computer-Aided Design (CAD) Modelling, Multi-modal Sensing, Anomaly Detection, Deepfake Detection, Space Situational Awareness.</em>"
+          imageUrl: "djamila_looking_right.png"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: About Me
+              url: about_me/
+            - name: Research
+              url: research/
+            - name: Team
+              url: team/
+            - name: Other Activities
+              url: other_activities/
+            - name: Join CVI²!
+              url: "https://recruitment.uni.lu/en/index.html?LOV52=All&SUBDEPT2=All&LOV53=All&keywords=djamila+aouada&Resultsperpage=50&srcsubmit=Search&statlog=1&ID=QMUFK026203F3VBQB7V7VV4S8&mask=karriereseiten&LG=UK"
+
+    socialIcons:
+        - name: Email
+          url: mailto:djamila.aouada@uni.lu
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/djamilaaouada/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=WBmJVSkAAAAJ&hl=en
+        - name: ORCID
+          url: https://orcid.org/0000-0002-7576-2064
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Djamila-Aouada
+        - name: Twitter
+          url: https://x.com/AouadaDjamila
+        - name: CV
+          url: daouada_oct_2025.pdf
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Djamila Aouada"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

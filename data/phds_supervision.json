@@ -1,0 +1,505 @@
+[
+    {
+        "period": "2025–today",
+        "candidate": {
+            "name": "Hazem Ali"
+        },
+        "title": "Multimodal Machine Learning for Battery Management Systems",
+        "role": "Main Supervisor",
+        "status": "ongoing",
+        "links": {
+            "profile": ""
+        }
+    },
+    {
+        "period": "2025–today",
+        "candidate": {
+            "name": "Alaa Souissi"
+        },
+        "title": "Leveraging Neuromorphic Sensors for Robust Spacecraft Pose Estimation",
+        "role": "Main Supervisor",
+        "status": "ongoing",
+        "links": {}
+    },
+    {
+        "period": "2024–today",
+        "candidate": {
+            "name": "Nidhal-Eddine Chenni",
+            "url": "https://scholar.google.com/citations?user=bWm1Yb8AAAAJ&hl=fr&oi=ao"
+        },
+        "title": "Unsupervised Domain Adaptation for Spacecraft Pose Estimation",
+        "role": "Main Supervisor",
+        "status": "ongoing",
+        "links": {}
+    },
+    {
+        "period": "2024–today",
+        "candidate": {
+            "name": "Nassim Ali Ousalah"
+        },
+        "title": "Effective Model Compression Techniques for Spacecraft Pose Estimation",
+        "role": "Main Supervisor",
+        "status": "ongoing",
+        "links": {}
+    },
+    {
+        "period": "2023–today",
+        "candidate": {
+            "name": "Arthur Hubert",
+            "url": "https://scholar.google.com/citations?user=MTvLvi4AAAAJ&hl=fr&oi=ao"
+        },
+        "title": "Using Neural Radiance Fields to Improve Urban HD Maps (NeRF-Map)",
+        "role": "Supervisory Committee",
+        "status": "ongoing",
+        "links": {}
+    },
+    {
+        "period": "2022–today",
+        "candidate": {
+            "name": "Romain Hermary",
+            "url": "https://scholar.google.com/citations?user=-vWTemwAAAAJ&hl=fr&oi=ao"
+        },
+        "title": "Leveraging Contextual Information for Efficient Dynamic Behavior Learning",
+        "role": "Main Supervisor",
+        "status": "ongoing",
+        "links": {}
+    },
+    {
+        "period": "2022–today",
+        "candidate": {
+            "name": "Dat Nguyen",
+            "url": "https://scholar.google.com/citations?user=kXNJXMAAAAAJ&hl=en"
+        },
+        "title": "Deepfake Detection Using Spatio-Temporal and Spectral Representations in a Deep Learning Framework",
+        "role": "Main Supervisor",
+        "status": "ongoing",
+        "links": {}
+    },
+    {
+        "period": "2022–today",
+        "candidate": {
+            "name": "Peyman Rostami",
+            "url": "https://scholar.google.com/citations?hl=fr&user=DN_LqKQAAAAJ"
+        },
+        "title": "Disentangled Representation Learning for Compact DNN Design",
+        "role": "Main Supervisor",
+        "status": "ongoing",
+        "links": {}
+    },
+    {
+        "period": "2022–today",
+        "candidate": {
+            "name": "Ahmet Serdar Karadeniz",
+            "url": "https://scholar.google.com/citations?user=iKSmNfcAAAAJ&hl=fr&oi=ao"
+        },
+        "title": "Deep Learning Approaches towards Automated Computer Aided Design (CAD) and Redesign",
+        "role": "Main Supervisor",
+        "status": "ongoing",
+        "links": {}
+    },
+    {
+        "period": "2021–2025",
+        "candidate": {
+            "name": "Nesryne Mejri",
+            "url": "https://scholar.google.com/citations?user=0iQcMBQAAAAJ&hl=en"
+        },
+        "title": "Unsupervised Anomaly Detection for Type-Agnostic and Cross-Domain Deepfake Detection",
+        "role": "Main Supervisor",
+        "status": "completed",
+        "next": {
+            "org": "SnT - UL",
+            "url": "https://wwwen.uni.lu/snt"
+        },
+        "links": {}
+    },
+    {
+        "period": "2021–2025",
+        "candidate": {
+            "name": "Elona Dupont",
+            "url": "https://scholar.google.com/citations?hl=fr&user=i9J6YFMAAAAJ"
+        },
+        "title": "Design Intent Aware CAD Reverse Engineering: Deep Neural Approaches For Recovering Feature-Based Sequences From 3D Scans",
+        "role": "Main Supervisor",
+        "funding": "Autodesk",
+        "status": "completed",
+        "next": {
+            "org": "Autodesk",
+            "url": "https://www.autodesk.com/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2018–2025",
+        "candidate": {
+            "name": "Kseniya Cherenkova",
+            "url": "https://scholar.google.com/citations?user=VepvFBkAAAAJ"
+        },
+        "title": "Automate CAD (Re)Design From 3D Scans",
+        "role": "Main Supervisor",
+        "funding": "Artec 3D",
+        "status": "completed",
+        "next": {
+            "org": "Artec 3D",
+            "url": "https://www.artec3d.com/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2022–2024",
+        "candidate": {
+            "name": "Tamara Roth",
+            "url": "https://scholar.google.com/citations?user=KDTKBl8AAAAJ"
+        },
+        "title": "Innovating with Emerging Technologies in Highly Structured Environments",
+        "role": "Member of Defense Committee / Supervisory Committee",
+        "funding": "University of Arkansas",
+        "status": "completed",
+        "next": {
+            "org": "UARK",
+            "url": "https://www.uark.edu/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2020–2024",
+        "candidate": {
+            "name": "Inder Pal",
+            "url": "https://scholar.google.com/citations?user=EByNsQ0AAAAJ"
+        },
+        "title": "Vision-Based Data-Driven Models for Fashion Item Retrieval",
+        "role": "Main Supervisor",
+        "funding": "SnT – UL",
+        "status": "completed",
+        "next": {
+            "org": "SnT - UL",
+            "url": "https://wwwen.uni.lu/snt"
+        },
+        "links": {}
+    },
+    {
+        "period": "2020–2024",
+        "candidate": {
+            "name": "Mohamed Adel"
+        },
+        "title": "Vision-Based Spacecraft Situational Awareness",
+        "role": "Main Supervisor",
+        "funding": "Dokeo",
+        "status": "completed",
+        "next": {
+            "org": "Dokeo",
+            "url": "https://cityincubator.lu/startups/dokeo-ai/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2021–2023",
+        "candidate": {
+            "name": "Inès Jorge",
+            "url": "https://scholar.google.com/citations?user=sSd52okAAAAJ"
+        },
+        "title": "Machine-Learning Based Predictive Maintenance for Lithium-Ion Batteries in Electric Vehicles",
+        "role": "Member of Defense Committee",
+        "status": "completed",
+        "next": {
+            "org": "",
+            "url": ""
+        },
+        "links": {}
+    },
+    {
+        "period": "2021–2023",
+        "candidate": {
+            "name": "Nicolas Beuve",
+            "url": "https://scholar.google.com/citations?user=w98t3_oAAAAJ"
+        },
+        "title": "Deep Learning Based DeepFake Video Detection",
+        "role": "Member of Defense Committee / Rapporteure",
+        "funding": "INSA Rennes",
+        "status": "completed",
+        "next": {
+            "org": "INSA Rennes",
+            "url": "https://www.insa-rennes.fr/en/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2021–2023",
+        "candidate": {
+            "name": "Linda Weigl",
+            "url": "https://scholar.google.com/citations?user=hVkD_vAAAAAJ"
+        },
+        "title": "Governance of Digital Identities",
+        "role": "Member of Defense Committee / Supervisory Committee",
+        "funding": "University of Amsterdam",
+        "status": "completed",
+        "next": {
+            "org": "University of Amsterdam",
+            "url": "https://www.uva.nl/en/home"
+        },
+        "links": {}
+    },
+    {
+        "period": "2019–2022",
+        "candidate": {
+            "name": "Tarek Ben Charrada"
+        },
+        "title": "3D Object Reconstruction from a Single Monocular Image Using Deep Learning",
+        "role": "Member of Defense Committee / Rapporteure",
+        "funding": "",
+        "status": "completed",
+        "next": {
+            "org": "",
+            "url": ""
+        },
+        "links": {}
+    },
+    {
+        "period": "2019–2022",
+        "candidate": {
+            "name": "Benjamin Szczapa",
+            "url": "https://scholar.google.com/citations?user=Ob3S_JcAAAAJ"
+        },
+        "title": "Analysis and Prediction of Human Behavior Temporal Sequences in the Wild",
+        "role": "Member of Defense Committee / Rapporteure",
+        "status": "completed",
+        "next": {
+            "org": "",
+            "url": ""
+        },
+        "links": {}
+    },
+    {
+        "period": "2019–2022",
+        "candidate": {
+            "name": "Fitash Ul Haq",
+            "url": "https://scholar.google.com/citations?user=ABUhd7YAAAAJ"
+        },
+        "title": "Scalable and Practical Automated Testing of Deep Learning Models and Systems",
+        "role": "Chair of Defense Committee",
+        "funding": "SnT – UL",
+        "status": "completed",
+        "next": {
+            "org": "SnT - UL",
+            "url": "https://wwwen.uni.lu/snt"
+        },
+        "links": {}
+    },
+    {
+        "period": "2019–2022",
+        "candidate": {
+            "name": "François Robinet"
+        },
+        "title": "Minimizing Supervision for Vision-Based Perception and Control in Autonomous Driving",
+        "role": "Member of Defense Committee",
+        "funding": "SnT – UL",
+        "status": "completed",
+        "next": {
+            "org": "SnT - UL",
+            "url": "https://wwwen.uni.lu/snt"
+        },
+        "links": {}
+    },
+    {
+        "period": "2017–2021",
+        "candidate": {
+            "name": "Alexandre Saint"
+        },
+        "title": "Automatic Analysis, Representation and Reconstruction of Textured 3D Human Scans",
+        "role": "Main Supervisor",
+        "status": "completed",
+        "next": {
+            "org": ""
+        },
+        "links": {}
+    },
+    {
+        "period": "2017–2021",
+        "candidate": {
+            "name": "Renato Baptista",
+            "url": "https://scholar.google.com/citations?user=KZHTJVMAAAAJ"
+        },
+        "title": "Context-Based 3D Action Recognition",
+        "role": "Main Supervisor",
+        "funding": "Lunex",
+        "status": "completed",
+        "next": {
+            "org": "Lunex",
+            "url": "https://www.lunex.lu/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2017–2021",
+        "candidate": {
+            "name": "Mehrizi Sajad",
+            "url": "https://scholar.google.com/citations?user=eG0-Q5IAAAAJ"
+        },
+        "title": "Probabilistic Modeling for Content Popularity Learning for Proactive Caching",
+        "role": "Chair of Defense Committee",
+        "funding": "SnT – UL",
+        "status": "completed",
+        "next": {
+            "org": "SnT - UL",
+            "url": "https://wwwen.uni.lu/snt"
+        },
+        "links": {}
+    },
+    {
+        "period": "2016–2020",
+        "candidate": {
+            "name": "Ramiro Daniel Camino",
+            "url": "https://scholar.google.com/citations?user=2sMoT3YAAAAJ"
+        },
+        "title": "Machine Learning Techniques for Suspicious Transaction Detection and Analysis",
+        "role": "Supervisory Committee",
+        "funding": "LIST",
+        "status": "completed",
+        "next": {
+            "org": "LIST",
+            "url": "https://www.list.lu/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2017–2020",
+        "candidate": {
+            "name": "Oyebade Oyedotun",
+            "url": "https://scholar.google.com/citations?user=9uZx0QwAAAAJ"
+        },
+        "title": "Analyzing and Improving Very Deep Neural Networks: From Optimization, Generalization to Compression",
+        "role": "Main Supervisor",
+        "funding": "Spire",
+        "status": "completed",
+        "next": {
+            "org": "Spire",
+            "url": "https://spire.com/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2016–2020",
+        "candidate": {
+            "name": "Konstantinos Papadopoulos",
+            "url": "https://scholar.google.com/citations?user=4wLw-U8AAAAJ"
+        },
+        "title": "From Dense Trajectories to Sparse Trajectories for Action Recognition and Detection",
+        "role": "Main Supervisor",
+        "funding": "POST",
+        "status": "completed",
+        "next": {
+            "org": "POST",
+            "url": "https://www.post.lu/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2017–2020",
+        "candidate": {
+            "name": "Ashok Bandi",
+            "url": "https://scholar.google.com/citations?user=8vmw5RMAAAAJ"
+        },
+        "title": "Joint Scheduling and Precoding in Wireless Networks: A DC Programming Approach",
+        "role": "Chair of Defense Committee",
+        "funding": "SnT – UL",
+        "status": "completed",
+        "next": {
+            "org": "SnT - UL",
+            "url": "https://wwwen.uni.lu/snt"
+        },
+        "links": {}
+    },
+    {
+        "period": "2017–2019",
+        "candidate": {
+            "name": "Jérémy Charlier",
+            "url": "https://scholar.google.com/citations?user=D_MDvIoAAAAJ"
+        },
+        "title": "Big Data Analytics for Financial Data",
+        "role": "Supervisory Committee",
+        "funding": "National Bank of Canada",
+        "status": "completed",
+        "next": {
+            "org": "National Bank of Canada",
+            "url": "https://www.nbc.ca/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2016–2019",
+        "candidate": {
+            "name": "Patrick Glauner",
+            "url": "https://scholar.google.com/citations?user=Z8kbRT4AAAAJ"
+        },
+        "title": "Artificial Intelligence for the Detection of Electricity Theft and Irregular Power Usage in Emerging Markets",
+        "role": "Vice Chair of Defense Committee",
+        "funding": "Deggendorf Institute of Technology",
+        "status": "completed",
+        "next": {
+            "org": "Deggendorf Institute of Technology",
+            "url": "https://www.th-deg.de/en/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2014–2017",
+        "candidate": {
+            "name": "Girum Demisse",
+            "url": "https://scholar.google.com/citations?user=dppFtgoAAAAJ"
+        },
+        "title": "Deformation-Based Curved Shape Representation",
+        "role": "Co-Supervisor",
+        "funding": "Meta",
+        "status": "completed",
+        "next": {
+            "org": "Meta",
+            "url": "https://meta.com/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2012–2016",
+        "candidate": {
+            "name": "Hassan Afzal",
+            "url": "https://scholar.google.com/citations?user=WfKRT8gAAAAJ"
+        },
+        "title": "Full 3D Reconstruction of Dynamic Non-Rigid Scenes",
+        "role": "Co-Supervisor",
+        "funding": "Hexagon",
+        "status": "completed",
+        "next": {
+            "org": "Hexagon",
+            "url": "https://hexagon.com/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2012–2015",
+        "candidate": {
+            "name": "Alejandro Correa"
+        },
+        "title": "Example-Dependent Cost-Sensitive Classification",
+        "role": "Co-Supervisor",
+        "funding": "Cyxtera Technologies",
+        "status": "completed",
+        "next": {
+            "org": "Cyxtera Technologies",
+            "url": "https://centersquaredc.com/"
+        },
+        "links": {}
+    },
+    {
+        "period": "2009–2012",
+        "candidate": {
+            "name": "Frederic Garcia"
+        },
+        "title": "Sensor Fusion Combining 3D and 2D for Depth Data Enhancement",
+        "role": "Co-Supervisor",
+        "funding": "IEE",
+        "status": "completed",
+        "next": {
+            "org": "IEE",
+            "url": "https://www.iee.lu/"
+        },
+        "links": {}
+    }
+]

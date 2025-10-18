@@ -1,0 +1,11 @@
+{{/* layouts/shortcodes/collapse.html */}}
+{{ $title := .Get "title" | default "Section" }}
+{{ $open := .Get "open" | default "false" }}
+<details class="pubs-collapsible" {{ if eq $open "true" }}open{{ end }}>
+    <summary>
+        <h2>{{ $title }}</h2>
+    </summary>
+    <div class="collapse-content">
+        {{ .Inner }}
+    </div>
+</details>

@@ -1,0 +1,94 @@
+{{ $rows := site.Data.projects }}
+{{ if not $rows }}
+<p>No projects found.</p>
+{{ else }}
+<div class="projects-table-wrapper">
+    <table class="projects-table">
+        <thead>
+            <tr>
+                <th style="width: 8rem;">Period</th>
+                <th>Project Title</th>
+                <th style="width: 8rem;">Amount</th>
+                <th style="width: 14rem;">Source</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{ range $i, $row := sort $rows "period" "desc" }}
+            {{ $rid := printf "proj-%d" $i }}
+
+            <tr class="projects-row">
+                <td class="projects-period">{{ $row.period }}</td>
+
+                <td class="projects-title">
+                    <button type="button" class="projects-toggle" aria-expanded="false" aria-controls="{{ $rid }}"
+                        data-target="{{ $rid }}">
+                        {{ $row.title }}
+                    </button>
+                    {{ with $row.links.site }}
+                    <a href="{{ . }}" target="_blank" rel="noopener" class="project-link-ext"
+                        aria-label="Open project site (new tab)">
+                        ↗
+                    </a>
+                    {{ end }}
+                </td>
+
+                <td class="projects-amount">{{ $row.amount }}</td>
+
+                <td class="projects-source">
+                    {{- $src := $row.source -}}
+                    {{- if (reflect.IsSlice $src) -}}
+                    {{ range $j, $v := $src }}
+                    {{ if $v.url }}
+                    <a href="{{ $v.url }}" target="_blank" rel="noopener" class="project-source-link">{{ $v.name
+                        }}</a>{{ if lt (add $j 1) (len $src) }}, {{ end }}
+                    {{ else }}
+                    {{ $v.name }}
+                    {{ end }}
+                    {{ end }}
+                    {{ else if (reflect.IsMap $src) -}}
+                    {{ if $src.url }}
+                    <a href="{{ $src.url }}" target="_blank" rel="noopener" class="project-source-link">{{ $src.name
+                        }}</a>
+                    {{ else }}
+                    {{ $src.name }}
+                    {{ end }}
+                    {{ else }}
+                    {{ $src }}
+                    {{ end }}
+                </td>
+            </tr>
+
+            {{ with $row.description }}
+            <tr id="{{ $rid }}" class="projects-desc-row" hidden>
+                <td colspan="4">
+                    <div class="projects-desc">
+                        {{ . }}
+                    </div>
+                </td>
+            </tr>
+            {{ end }}
+            {{ end }}
+        </tbody>
+    </table>
+</div>
+
+<script>
+    // Attach a single delegated handler after the table is in the DOM
+    document.addEventListener('click', function (e) {
+        const btn = e.target.closest('.projects-toggle');
+        if (!btn) return;
+        const id = btn.getAttribute('data-target');
+        const row = document.getElementById(id);
+        if (!row) return;
+
+        const isHidden = row.hasAttribute('hidden');
+        if (isHidden) {
+            row.removeAttribute('hidden');
+            btn.setAttribute('aria-expanded', 'true');
+        } else {
+            row.setAttribute('hidden', '');
+            btn.setAttribute('aria-expanded', 'false');
+        }
+    }, { passive: true });
+</script>
+{{ end }}

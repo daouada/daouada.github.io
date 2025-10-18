@@ -1,0 +1,61 @@
+{{/* layouts/shortcodes/phds.html */}}
+
+{{ $raw := site.Data.phds }}
+{{ if not $raw }}
+<p>No PhD supervisions found.</p>
+{{ else }}
+
+{{/* Attach derived fields */}}
+{{ $items := slice }}
+{{ range $raw }}
+{{ $period := .period | default "" }}
+{{ $start := replaceRE "^\\s*(\\d{4}).*$" "$1" $period }}
+{{ if not (findRE "^\\d{4}$" $start) }}{{ $start = "Unknown" }}{{ end }}
+{{ $isCurrent := cond (findRE `(?i)today` $period) true false }}
+{{ $items = $items | append (merge . (dict "startYear" $start "isCurrent" $isCurrent)) }}
+{{ end }}
+
+{{/* Unique start years */}}
+{{ $years := slice }}
+{{ range $items }}
+{{ $y := .startYear | string }}
+{{ if and $y (not (in $years $y)) }}{{ $years = $years | append $y }}{{ end }}
+{{ end }}
+{{ $years = sort $years }}
+{{ $n := len $years }}
+
+<div class="phds-wrapper">
+    {{ range (seq $n) }}
+    {{ $idx := sub $n . }}
+    {{ $year := index $years $idx }}
+
+    <h2 id="phds-{{ $year }}">{{ $year }}</h2>
+    <ul class="phds-list">
+        {{ $inYear := where $items "startYear" $year }}
+        {{ range sort $inYear "candidate" "asc" }}
+        {{ if .isCurrent }}
+        <li class="current-role">
+            {{ else }}
+        <li>
+            {{ end }}
+            <span class="phd-candidate">{{ .candidate }}</span>
+            <span class="phd-meta"> — <em class="phd-title">{{ .title }}</em></span>
+            <span class="phd-meta">, {{ .period }}</span>.
+            <span class="phd-badges">
+                {{ with .role }}<span class="badge badge-role">{{ . }}</span>{{ end }}
+                {{ with .funding }}<span class="badge badge-funding">{{ . }}</span>{{ end }}
+            </span>
+            {{ $L := .links | default dict }}
+            {{ if $L }}
+            <span class="phd-links">
+                {{ with (index $L "profile") }}<a href="{{ . }}" target="_blank" rel="noopener">Profile</a>{{ end }}
+                {{ with (index $L "project") }}<a href="{{ . }}" target="_blank" rel="noopener">Project</a>{{ end }}
+                {{ with (index $L "thesis") }}<a href="{{ . }}" target="_blank" rel="noopener">Thesis</a>{{ end }}
+            </span>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</div>
+{{ end }}

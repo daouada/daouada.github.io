@@ -1,0 +1,61 @@
+{{/* layouts/shortcodes/postdocs_table.html */}}
+
+{{ $rows := site.Data.postdocs }}
+{{ if not $rows }}
+<p>No postdocs found.</p>
+{{ else }}
+<div class="postdocs-table-wrapper">
+    <table class="postdocs-table table">
+        <thead>
+            <tr>
+                <th class="col-period">Period</th>
+                <th class="col-candidate">Postdoc</th>
+                <th class="col-univ">University of PhD Degree</th>
+                <th class="col-current">Current Position</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{ range $rows }}
+            <tr class="{{ if eq .status " ongoing" }}is-ongoing{{ end }}">
+                <td class="col-period">{{ .period }}</td>
+
+                <td class="col-candidate">
+                    {{ if .profile }}
+                    <a href="{{ .profile }}" target="_blank" rel="noopener">{{ .name }}</a>
+                    {{ else }}
+                    {{ .name }}
+                    {{ end }}
+                </td>
+
+                <td class="col-univ">
+                    {{ $u := .phd_university }}
+                    {{ if (reflect.IsMap $u) }}
+                    {{ with (index $u "url") }}
+                    <a href="{{ . }}" target="_blank" rel="noopener">{{ index $u "name" }}</a>
+                    {{ else }}
+                    {{ index $u "name" }}
+                    {{ end }}
+                    {{ else }}
+                    {{/* string fallback */}}
+                    {{ $u }}
+                    {{ end }}
+                </td>
+
+                <td class="col-current" style="text-align:center;">
+                    {{ $cur := .current | default dict }}
+                    {{ if $cur }}
+                    {{ with (index $cur "url") }}
+                    <a href="{{ . }}" target="_blank" rel="noopener">{{ index $cur "org" }}</a>
+                    {{ else }}
+                    {{ index $cur "org" }}
+                    {{ end }}
+                    {{ else }}
+                    <span class="badge badge-completed">Completed</span>
+                    {{ end }}
+                </td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+</div>
+    {{ end }}
