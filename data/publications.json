@@ -1,5 +1,149 @@
 [
   {
+    "title": "Hybrid Attention for Robust RGB-T Pedestrian Detection in Real-World Conditions",
+    "authors": "Rathinam, Arunkumar and Pauly, Leo and Rharbaoui, Wassim and Kacem, Anis and Gaudillière, Vincent and Aouada, Djamila",
+    "venue": "IEEE Robotics and Automation Letters",
+    "year": "2025",
+    "doi": "10.1109/LRA.2024.XXXXXXX",
+    "pages": "309--326",
+    "slug": "2025-hybrid-attention-for-robust-rgb-t-pedestrian-detection-in-re"
+  },
+  {
+    "title": "AI-enabled thermal monitoring of commercial (PHEV) Li-ion pouch cells with Feature-Adapted Unsupervised Anomaly Detection",
+    "authors": "Shabayek, Abd El Rahman and Rathinam, Arunkumar and Ruthven, Matthieu and Aouada, Djamila and Amietszajew, Tazdin",
+    "venue": "Journal of Power Sources",
+    "year": "2025",
+    "doi": "10.1016/j.jpowsour.2024.235982",
+    "pages": "235982",
+    "slug": "2025-ai-enabled-thermal-monitoring-of-commercial-phev-li-ion-pouc"
+  },
+  {
+    "title": "MiCADangelo: Fine-Grained Reconstruction of Constrained CAD Models from 3D Scans",
+    "authors": "Karadeniz, Ahmet Serdar and Mallis, Dimitrios and Rukhovich, Danila and Cherenkova, Kseniya and Kacem, Anis and Aouada, Djamila",
+    "venue": "Proceedings of the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-micadangelo-fine-grained-reconstruction-of-constrained-cad-m"
+  },
+  {
+    "title": "Vulnerability-Aware Spatio-Temporal Learning for Generalizable Deepfake Video Detection",
+    "authors": "Nguyen, Dat and Astrid, Marcella and Kacem, Anis and Ghorbel, Enjie and Aouada, Djamila",
+    "venue": "Proceedings of the International Conference on Computer Vision (ICCV)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-vulnerability-aware-spatio-temporal-learning-for-generalizab"
+  },
+  {
+    "title": "CAD-Recode: Reverse Engineering CAD Code from Point Clouds",
+    "authors": "Rukhovich, Danila and Dupont, Elona and Mallis, Dimitrios and Cherenkova, Kseniya and Kacem, Anis and Aouada, Djamila",
+    "venue": "Proceedings of the International Conference on Computer Vision (ICCV)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-cad-recode-reverse-engineering-cad-code-from-point-clouds"
+  },
+  {
+    "title": "CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers",
+    "authors": "Mallis, Dimitrios and Karadeniz, Ahmet Serdar and Cavada, Sebastian and Rukhovich, Danila and Foteinopoulou, Niki and Cherenkova, Kseniya and Kacem, Anis and Aouada, Djamila",
+    "venue": "Proceedings of the International Conference on Computer Vision (ICCV)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-cad-assistant-tool-augmented-vllms-as-generic-cad-task-solve"
+  },
+  {
+    "title": "Zero-Shot Anomaly Detection in Battery Thermal Images Using Visual Question Answering with Prior Knowledge",
+    "authors": "Astrid, Marcella and Shabayek, Abd El Rahman and Aouada, Djamila",
+    "venue": "Proceedings of the 33rd European Signal Processing Conference (EUSIPCO)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-zero-shot-anomaly-detection-in-battery-thermal-images-using-"
+  },
+  {
+    "title": "Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation",
+    "authors": "Ousalah, Nassim Ali and Kacem, Anis and Ghorbel, Enjie and Koumandakis, Emmanuel and Aouada, Djamila",
+    "venue": "Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-uncertainty-aware-knowledge-distillation-for-compact-and-eff"
+  },
+  {
+    "title": "FPG-NAS: FLOPs-Aware Gated Differentiable Neural Architecture Search for Efficient 6DoF Pose Estimation",
+    "authors": "Ousalah, Nassim Ali and Rostami, Peyman and Kacem, Anis and Ghorbel, Enjie and Koumandakis, Emmanuel and Aouada, Djamila",
+    "venue": "Proceedings of the IEEE International Workshop on Multimedia Signal Processing (MMSP)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-fpg-nas-flops-aware-gated-differentiable-neural-architecture"
+  },
+  {
+    "title": "Domain Adaptive Object Detection for Space Applications with Real-Time Constraints",
+    "authors": "Hicsonmez, Samet and Shabayek, Abd El Rahman and Rathinam, Arunkumar and Aouada, Djamila",
+    "venue": "Proceedings of the 18th Symposium on Advanced Space Technologies in Robotics and Automation (ASTRA)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-domain-adaptive-object-detection-for-space-applications-with"
+  },
+  {
+    "title": "Bridging the Synthetic-Real Gap: Supervised Domain Adaptation for Robust Spacecraft 6-DoF Pose Estimation",
+    "authors": "Singh, Inder Pal and Chenni, Nidhal Eddine and Shabayek, Abd El Rahman and Rathinam, Arunkumar and Aouada, Djamila",
+    "venue": "Proceedings of the 18th Symposium on Advanced Space Technologies in Robotics and Automation (ASTRA)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-bridging-the-synthetic-real-gap-supervised-domain-adaptation"
+  },
+  {
+    "title": "Motion Aware ViT-Based Framework for Monocular 6-DoF Spacecraft Pose Estimation",
+    "authors": "Sosa, Jose and Pineau, Dan and Rathinam, Arunkumar and Shabayek, Abd El Rahman and Aouada, Djamila",
+    "venue": "Proceedings of the 18th Symposium on Advanced Space Technologies in Robotics and Automation (ASTRA)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-motion-aware-vit-based-framework-for-monocular-6-dof-spacecr"
+  },
+  {
+    "title": "MultiMAE Meets Earth Observation: Pre-training Multi-modal Multi-task Masked Autoencoders for Earth Observation Tasks",
+    "authors": "Sosa Martinez, Jose Angel and Rukhovich, Danila and Kacem, Anis and Aouada, Djamila",
+    "venue": "Proceedings of the IEEE International Conference on Image Processing (ICIP)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-multimae-meets-earth-observation-pre-training-multi-modal-mu"
+  },
+  {
+    "title": "Audio-Visual Deepfake Detection With Local Temporal Inconsistencies",
+    "authors": "Astrid, Marcella and Ghorbel, Enjie and Aouada, Djamila",
+    "venue": "Proceedings of the IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-audio-visual-deepfake-detection-with-local-temporal-inconsis"
+  },
+  {
+    "title": "Information Theoretic Pruning of Coupled Channels in Deep Neural Networks",
+    "authors": "Rostami, Peyman and Sinha, Nilotpal and Chenni, Nidhaleddine and Kacem, Anis and Shabayek, Abd El Rahman and Aouada, Djamila",
+    "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-information-theoretic-pruning-of-coupled-channels-in-deep-ne"
+  },
+  {
+    "title": "Removing Geometric Bias in One-Class Anomaly Detection with Adaptive Feature Perturbation",
+    "authors": "Hermary, Romain and Gaudillière, Vincent and Shabayek, Abd El Rahman and Aouada, Djamila",
+    "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+    "year": "2025",
+    "doi": "",
+    "pages": "",
+    "slug": "2025-removing-geometric-bias-in-one-class-anomaly-detection-with-"
+  },
+  {
     "title": "Unsupervised anomaly detection in time-series: An extensive evaluation and analysis of state-of-the-art methods",
     "authors": "N. Mejri, L. Lopez-Fuentes, K. Roy, P. Chernakov, E. Ghorbel, D. Aouada",
     "venue": "Expert Systems with Applications",
@@ -667,12 +811,21 @@
   },
   {
     "title": "3d Sparse Deformation Signature For Dynamic Face Recognition",
-    "authors": "D. Aouada, K. Cherenkova, G. Gusev",
+    "authors": "A. Shabayek, D. Aouada, K. Cherenkova, G. Gusev",
     "venue": "IEEE International Conference on Image Processing (ICIP)",
     "year": "2020",
     "doi": "",
     "pages": "",
     "slug": "2020-3d-sparse-deformation-signature-for-dynamic-face-recognition"
+  },
+  {
+    "title": "3D deformation signature for dynamic face recognition",
+    "authors": "A. Shabayek, D. Aouada, K. Cherenkova, G. Gusev, B. Ottersten",
+    "venue": "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "year": "2020",
+    "doi": "",
+    "pages": "",
+    "slug": "2020-3d-deformation-signature-for-dynamic-face-recognition"
   },
   {
     "title": "Towards Automatic CAD Modeling from 3D Scan Sketch based Representation",
